@@ -1,77 +1,34 @@
 # Personal Portfolio 🔥
-> https://rajaprerak.github.io/
-
-:star: Star me on GitHub — it helps!
-
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-### Website Preview
-#### Home Page
-<img src="website_images/HomePage.gif" width="900">
+> https://ppchaudhary.github.io/portfolio/
 
 
-#### About Page
-<img src="website_images/AboutPage.png" width="900">
+I am a Staff Scientist at the National Institute of Allergy and Infectious Diseases (NIAID) at the National Institutes of Health (NIH), where I focus on cutting-edge skin microbiome and metabolomics research within the Epithelial Therapeutics Unit. My research leverages a systems biology approach to study the potential biomarkers and mechanisms underlying various diseases, with a particular emphasis on translating findings into potential therapeutic strategies.
 
+My computational and experimental expertise includes:
 
-#### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
-  
+#High-throughput sequencing data analysis: 
+Proficient in 16S rRNA gene sequencing, metagenomics, and metatranscriptomics, using tools such as QIIME2, Mothur, and various bioinformatics pipelines for taxonomic profiling, diversity analysis, and functional prediction.
 
+#Metabolomics data processing and analysis: 
+Skilled in LC-MS and GC-MS data analysis, utilizing software like MetaboAnalyst, MZmine, and custom R scripts for peak detection, normalization, metabolite identification, and pathway analysis.
 
-:star: Star me on GitHub — it helps!
+#Statistical and machine learning techniques: 
+Experienced in integrating multi-omics data, identifying key biomarkers, and building predictive models of disease states, employing methods like Random Forests, Support Vector Machines, and network analysis.
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+#Scripting and programming in R : 
+Proficient in data manipulation, statistical analysis, and visualization, with expertise in packages such as ggplot2, dplyr, and mixOmics.
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> 
-- Add or remove images from `assets/img/` directory as per your requirement.
-- Update the info of `projects` folder according to your need
-- Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
+#Experience with cloud computing platforms: 
+Adept at handling large-scale datasets and leveraging cloud-based tools for data analysis and storage.
 
-## Sections 📚
-✔️ About\
-✔️ Interests\
-✔️ Education\
-✔️ Online Certification\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Resume\
-✔️ Contact Info
+#Specifically, my current work explores:
 
+The intricate interplay between the skin microbiome and metabolome in atopic dermatitis (eczema), seeking to understand how microbial dysbiosis and metabolic imbalances contribute to disease pathogenesis and severity.
 
+Host-microbe interactions on the skin surface, investigating how specific microbial species and their metabolites interact with host immune responses and skin barrier function.
 
-## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+The impact of environmental exposures on skin health, including the effects of pollutants and other environmental factors on the skin microbiome and metabolome.
 
-## Contributing 💡
-#### Step 1
+Building upon my extensive experience in microbiome and metabolomics research, I am dedicated to unraveling the complexities of skin biology and identifying novel targets for precision medicine. My previous research has spanned diverse areas, including gut microbiome studies at Nanyang Technological University, oral microbiome studies at The Ohio State University, and methanogen diversity analysis at Université d'Auvergne and Palacký University. This broad background equips me with a unique perspective to integrate multi-omics data and develop innovative approaches for understanding and treating skin diseases.
 
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
-
-
-#### Step 2
-
-- **Build your code** 🔨🔨🔨
-
-#### Step 3
-
-- 🔃 Create a new pull request.
-
-## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+I am always open to collaborations and discussions on related topics. Please feel free to contact me.
