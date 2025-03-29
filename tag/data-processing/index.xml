@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data processing | Xiaotao</title>
+    <link>https://jaspershen.github.io/tag/data-processing/</link>
+      <atom:link href="https://jaspershen.github.io/tag/data-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data processing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaspershen.github.io/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_300x300_fit_lanczos_3.png</url>
+      <title>Data processing</title>
+      <link>https://jaspershen.github.io/tag/data-processing/</link>
+    </image>
+    
+    <item>
+      <title>Large-Scale Prediction of Collision Cross-Section Values for Metabolites in Ion Mobility-Mass Spectrometry</title>
+      <link>https://jaspershen.github.io/publication/first_corresponding_article/2016-ac-metccs/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/first_corresponding_article/2016-ac-metccs/</guid>
+      <description>&lt;p&gt;The rapid development of metabolomics has significantly advanced health and disease related research. However, metabolite identification remains a major analytical challenge for untargeted metabolomics. While the use of collision cross-section (CCS) values obtained in ion mobility-mass spectrometry (IM-MS) effectively increases identification confidence of metabolites, it is restricted by the limited number of available CCS values for metabolites. Here, we demonstrated the use of a machine-learning algorithm called support vector regression (SVR) to develop a prediction method that utilized 14 common molecular descriptors to predict CCS values for metabolites. In this work, we first experimentally measured CCS values (ΩN2) of ∼400 metabolites in nitrogen buffer gas and used these values as training data to optimize the prediction method. The high prediction precision of this method was externally validated using an independent set of metabolites with a median relative error (MRE) of ∼3%, better than conventional theoretical calculation. Using the SVR based prediction method, a large-scale predicted CCS database was generated for 35,203 metabolites in the Human Metabolome Database (HMDB). For each metabolite, five different ion adducts in positive and negative modes were predicted, accounting for 176,015 CCS values in total. Finally, improved metabolite identification accuracy was demonstrated using real biological samples. Conclusively, our results proved that the SVR based prediction method can accurately predict nitrogen CCS values (ΩN2) of metabolites from molecular descriptors and effectively improve identification accuracy and efficiency in untargeted metabolomics. The predicted CCS database, namely, MetCCS, is freely available on the Internet.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

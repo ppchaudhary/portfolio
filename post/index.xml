@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Xiaotao Shen</title>
+    <link>https://jaspershen.github.io/post/</link>
+      <atom:link href="https://jaspershen.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jaspershen.github.io/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_300x300_fit_lanczos_3.png</url>
+      <title>Posts</title>
+      <link>https://jaspershen.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>脂质组学研究揭示健康、疾病和衰老过程中的动态变化</title>
+      <link>https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;分享一篇文章。是最近刚发表的.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1038/s42255-023-00880-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s42255-023-00880-1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2023-09-14-ipop-lipidomics/figure1_hu3b82dfaed5e9027a578a9a59c63878fa_239257_bba253659668a91875c4d4545e595cd2.webp 400w,
+               /post/2023-09-14-ipop-lipidomics/figure1_hu3b82dfaed5e9027a578a9a59c63878fa_239257_c17933719d66407fd8b17328eea9b8b3.webp 760w,
+               /post/2023-09-14-ipop-lipidomics/figure1_hu3b82dfaed5e9027a578a9a59c63878fa_239257_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure1_hu3b82dfaed5e9027a578a9a59c63878fa_239257_bba253659668a91875c4d4545e595cd2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;371&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;简介&#34;&gt;简介&lt;/h1&gt;
+&lt;p&gt;人体内存在两大类脂质:内源性脂质和外源性脂质。它们参与了细胞结构的维持、能量管理和细胞信号转导等多种生物学功能。然而,由于脂质的化学多样性,脂质组至今仍然是一个难以完全理解的复杂系统。&lt;/p&gt;
+&lt;p&gt;斯坦福大学Snyder实验室采用了定量脂质组学技术,对112名志愿者9年内共1539份血浆样本进行了纵向脂质组学检测。样本收集频率从每3个月1次,在患病期间增加至每周3-7次。他们不仅检测了800多个脂质物种,更重要的是研究了这些脂质同时测定的细胞因子和代谢指标之间的动态关联,揭示了脂质在健康与疾病过渡中的作用。&lt;/p&gt;
+&lt;p&gt;脂质是构成代谢组的一个重要且高度多样的分子家族,由于其广泛的理化性质及较少的脂质组学研究数量,脂质一直是难以完全认识的。&lt;/p&gt;
+&lt;p&gt;复杂脂质可细分为几个类别和亚类别,它们通过脂质头基团和连接不同脂肪酰基链而区分。例如甘油三酰脂(TAG)、二酰甘油(DAG)、磷脂酰胆碱(PC)、磷脂酰乙醇胺(PE)、神经酰胺(CER)、鞘氨醇(SM)和胆固醇酯(CE),每个都由特定的骨架结构连接不同的脂肪酸(FA)组成。连接的FA可在不饱和键数目和部位上有所不同;FA与骨架一起赋予脂质独特的理化性质和生理功能。脂质参与并调节许多关键功能,包括氧化还原稳态、能量储存、胞内和胞外信号转导、诱导和解决炎症等。&lt;/p&gt;
+&lt;p&gt;尽管脂质在维持人体稳态中发挥着关键作用,但不同脂质种类或类别对诱发急性炎症(如呼吸道病毒感染)的扰动响应各异,并在与慢性炎症相关的代谢性疾病(如2型糖尿病)和生理过程(如衰老)调节中可能发挥作用。鉴于脂质的多样作用,深入理解脂质在个体间的定量差异及其在不同表型中的动态变化,对特征化其在健康和疾病中的潜在作用至关重要。&lt;/p&gt;
+&lt;p&gt;在此,我们采用允许快速、定量和严格测定广泛脂质类型的质谱法,研究了100多名志愿者最长9年的血浆脂质组动态变化,覆盖了他们的健康和疾病时期。我们确定脂质档案与微生物组、衰老及不同临床病理生理学(包括胰岛素耐受和慢性与急性炎症)之间存在显著关联。我们的结果为人类不同代谢健康状态中的关键脂质和脂质亚类之间的关联提供了宝贵的见解,并为科学界提供了一个独特的资源。&lt;/p&gt;
+&lt;h1 id=&#34;研究内容&#34;&gt;研究内容&lt;/h1&gt;
+&lt;h2 id=&#34;纵向深度脂质组检测&#34;&gt;纵向深度脂质组检测&lt;/h2&gt;
+&lt;p&gt;从一个胰岛素敏感和胰岛素耐受的队列中,我们之前收集了超过1000个不同时间点的纵向分子数据,包括基因组、转录组、蛋白组、代谢组和16S微生物组数据。在此队列中,我们在健康和疾病时期研究了各种分子特征,并确定了与代谢、心血管和肿瘤病理生理学相关的数百条分子通路。在这里,我们研究了一个在很大程度上未被探索的分子层——“血浆脂质组”,并将纵向跟踪时间延长了2年,以获得总共1539个样本。&lt;/p&gt;
+&lt;p&gt;为了研究与健康状态和生活方式改变相关的脂质组变化,对112名参与者的血浆样本进行了脂质组分析,中位数为10个时间点,跨越2-9年(平均3.2年)。当参与者健康时,样本每3个月收集一次;在患病期间,收集频率增加到每周3-7次。除脂质检测外,我们还在每个取样时间点收集了50项临床实验室指标以及医疗记录。最后,由于样本是在压力和疾病期间收集的,我们还检测了62种细胞因子、趋化因子和生长因子。&lt;/p&gt;
+&lt;p&gt;采用高通量定量脂质组学流程进行人体脂质组特征化。该流程包含串联三重四极杆质谱仪和差分迁移率分离装置,能识别和稳健定量超过1000种跨16个亚类的脂质种类。我们观察到跨4个数量级的丰度分布,每个脂质亚类有明显的中位数和动态范围。甘油三酰脂和鞘氨醇的变异程度最小但丰度最高,而其它种类如LPC和CE则动态范围更大。&lt;/p&gt;
+&lt;p&gt;我们证实该技术具有高重现性。与生物样本相比,104个质控样本聚类明显不同;质控样本的中值系数变异(CV)较低(6.5-20.7%)。为确保分析的可靠性,我们关注736种脂质,其中质控CV &amp;lt; 20%,且生物样本CV大于质控CV。除游离脂肪酸外,所有类别的个体内变异均明显低于个体间变异,表明个体脂质特征在几个月到几年的时间尺度上是稳定的。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2023-09-14-ipop-lipidomics/figure2_hue763d5679199599d941852c31e3908ff_571170_77206ee71f3aa2384103008e4490a8f5.webp 400w,
+               /post/2023-09-14-ipop-lipidomics/figure2_hue763d5679199599d941852c31e3908ff_571170_e2b18a7a4d4e232e4519eaceac0f4042.webp 760w,
+               /post/2023-09-14-ipop-lipidomics/figure2_hue763d5679199599d941852c31e3908ff_571170_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure2_hue763d5679199599d941852c31e3908ff_571170_77206ee71f3aa2384103008e4490a8f5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;666&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;健康基线脂质组高度个体特异性&#34;&gt;健康基线脂质组高度个体特异性&lt;/h2&gt;
+&lt;p&gt;我们首先通过对96名参与者贡献的802份“健康”基线样本进行脂质组成分析,来研究个体间的脂质丰度差异。对于贡献了10次以上健康样本的11名参与者,我们进行了t-SNE分析,基于最个性化的100种脂质。样本主要根据个体进行聚类,说明一些脂质即使在多年内也能形成个体化的特征。&lt;/p&gt;
+&lt;p&gt;我们进一步使用WGCNA,根据健康基线样本中的脂质相似性将其分为7个模块,并与50项临床指标进行关联分析。我们观察到M1和M5(富集胆固醇酯和神经酰胺以及大中小甘油三酰脂)与2型糖尿病(高血糖、胰岛素)和炎症(C反应蛋白、白细胞)呈正相关,与HDL胆固醇呈负相关。M7含有一些游离脂肪酸和LPC,与更低的C反应蛋白和血糖相关。M3富集含醚键的PE,与更高的HDL和更低的胰岛素相关,代表更健康的特征。&lt;/p&gt;
+&lt;p&gt;此外,脂质与微生物组之间也存在负相关。这些微生物对胰岛素敏感个体更丰富,提示与宿主脂质代谢有益的关系。最后,我们还通过异常值分析鉴定了与潜在疾病(如脂肪肝)相关的异常高或低的脂质表达模式。总体而言,这些结果表明许多脂质亚类与健康状态相关,可作为生物标志物用于评估健康。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2023-09-14-ipop-lipidomics/figure3_hud1f8f7c4ff6a2f833d159b804e4ce870_457729_5a580db79f79a3302a026f58638f26cb.webp 400w,
+               /post/2023-09-14-ipop-lipidomics/figure3_hud1f8f7c4ff6a2f833d159b804e4ce870_457729_3d77d04ec96ae68e22ad4f94967bb6d7.webp 760w,
+               /post/2023-09-14-ipop-lipidomics/figure3_hud1f8f7c4ff6a2f833d159b804e4ce870_457729_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure3_hud1f8f7c4ff6a2f833d159b804e4ce870_457729_5a580db79f79a3302a026f58638f26cb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;410&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;胰岛素耐受个体的全局脂质组异常&#34;&gt;胰岛素耐受个体的全局脂质组异常&lt;/h2&gt;
+&lt;p&gt;由于许多临床指标与特定脂质亚类相关,我们进一步研究了慢性代谢疾病胰岛素耐受如何影响脂质组。胰岛素耐受通常出现在2型糖尿病中,肌细胞和脂肪细胞对胰岛素反应迟钝,导致血糖升高。它常与慢性炎症以及代谢综合征相关,包括脂质异常,并可能导致非酒精性脂肪肝。阐明胰岛素耐受中脂质网络的扰动对了解代谢紊乱的分子机制和预后非常重要。&lt;/p&gt;
+&lt;p&gt;通过稳态血浆葡萄糖水平可诊断胰岛素敏感/耐受。我们对69名参与者进行了测定,其中36名和33名被归类为胰岛素耐受和敏感。通过回归分析(控制年龄、性别、种族和基线BMI),我们观察到跨大多数脂质亚类,424种脂质与稳态血浆葡萄糖水平显著相关。与胰岛素敏感组相比,胰岛素耐受组甘油三酰脂、二酰甘油、神经酰胺增加,这与我们之前的癫痫和文献报道一致,也支持这些脂质用于区分胰岛素耐受/敏感。此外,我们新发现含醚键的PE(PE-P)与更低稳态血浆葡萄糖相关。PE-P参与细胞信号转导和抗氧化,提示与胰岛素耐受相关的炎症及PE介导的氧化应激之间可能存在联系。&lt;/p&gt;
+&lt;p&gt;我们还研究了胰岛素耐受/敏感状态如何影响脂质与临床指标之间的关联。我们观察到显著的效应大小差异和相关方向差异,涉及代谢、免疫和血液等方面。例如,在胰岛素耐受组LDL/HDL比率与PE-P/PE-O和LPE呈相反的相关。总体而言,这表明根据胰岛素耐受/敏感状态,脂质与临床指标之间的关联可能发生显著变化,参与能量调节、细胞信号转导和免疫稳态的关键脂质在胰岛素耐受中存在广泛紊乱。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2023-09-14-ipop-lipidomics/figure4_hu7b2e93df270c941af5b5ec72ce4177a1_571427_f04101e296707f04101bfd4f947ead2c.webp 400w,
+               /post/2023-09-14-ipop-lipidomics/figure4_hu7b2e93df270c941af5b5ec72ce4177a1_571427_dd1aca0f01b3ca96271f5ebfc43dfddd.webp 760w,
+               /post/2023-09-14-ipop-lipidomics/figure4_hu7b2e93df270c941af5b5ec72ce4177a1_571427_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure4_hu7b2e93df270c941af5b5ec72ce4177a1_571427_f04101e296707f04101bfd4f947ead2c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;567&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;呼吸道病毒感染期间的动态脂质组变化&#34;&gt;呼吸道病毒感染期间的动态脂质组变化&lt;/h2&gt;
+&lt;p&gt;除了在慢性炎症和代谢条件(如胰岛素耐受)中的作用外,复杂脂质也是急性炎症反应的关键介质,例如通过释放花生四烯酸。因此,在呼吸道病毒感染和可能的疫苗接种过程中,复杂脂质可能会发生改变、释放和激活,并可能以与胰岛素耐受相关的方式参与这些过程。&lt;/p&gt;
+&lt;p&gt;36名参与者在72次不同的呼吸道病毒感染过程中和24名参与者在44次疫苗接种后进行了密集采样。我们将长期收集的样本分为急性期(1-6天)、后期(7-14天)和恢复期(3-5周)。通过线性模型,我们确定210种脂质在呼吸道病毒感染期间显著改变,包括甘油三酰脂、磷脂、鞘氨醇和LPC等。代表急性感染所需的能量转移,小分子甘油三酰脂和游离脂肪酸在早期快速减少后迅速恢复。含醚键的PE和LPC在早中期减少可能增加炎症状态和/或被用于清除自由基。这表明不同的关键脂质亚类在病毒生物学和免疫应答中可能发挥重要作用,并在呼吸道病毒感染过程中发生显著变化。&lt;/p&gt;
+&lt;p&gt;我们还比较了胰岛素敏感和耐受组在感染和疫苗接种后的反应。胰岛素耐受组在感染早期观察到更高的几种游离脂肪酸,而中后期磷脂胆碱则升高。这可能反映了能量代谢的改变和免疫相关信号通路变化。总体而言,我们的数据表明,区分脂质亚类及其组分对理解人体对急性炎症的响应至关重要。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2023-09-14-ipop-lipidomics/figure5_hu3f57a6fd211c79e4847fc13ac027ff53_550519_c81bfb43ac121e025649e5cb9fa56782.webp 400w,
+               /post/2023-09-14-ipop-lipidomics/figure5_hu3f57a6fd211c79e4847fc13ac027ff53_550519_fbd77ac1279a0a373585f45c123cd358.webp 760w,
+               /post/2023-09-14-ipop-lipidomics/figure5_hu3f57a6fd211c79e4847fc13ac027ff53_550519_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure5_hu3f57a6fd211c79e4847fc13ac027ff53_550519_c81bfb43ac121e025649e5cb9fa56782.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;432&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;胰岛素耐受个体的衰老改变&#34;&gt;胰岛素耐受个体的衰老改变&lt;/h2&gt;
+&lt;p&gt;随着年龄增长,心血管疾病风险增加,常伴有2型糖尿病等疾病出现,以及慢性炎症状态。本研究的参与者年龄跨度20-79岁,平均被跟踪了3年。随着年龄增长,我们观察到BMI增加。通过线性模型估计脂质随年龄变化的效应,我们确定随着年龄增长,胆固醇酯、神经酰胺、鞘氨醇、LPC等脂质子类水平增加,代表可能与年龄相关的慢性低度炎症。与此同时,多不饱和脂肪酸、花生四烯酸和二十碳五烯酸下降。这与癫痫、心血管疾病风险增加一致。&lt;/p&gt;
+&lt;p&gt;此外,我们研究了胰岛素耐受如何改变分子衰老特征,发现胰岛素耐受组的神经酰胺、鞘氨醇和胆固醇酯的年龄相关变化更大,提示这些脂质与衰老加速相关。胰岛素耐受和敏感组间,我们还观察到磷脂在衰老中的变化方向不同。总之,我们的数据表明,脂质组成(不饱和度、omega-3脂肪酸、大分子甘油三酰脂、含醚键磷脂等)随年龄变化显著,这一过程在性别间存在差异,并在胰岛素耐受存在时加速。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2023-09-14-ipop-lipidomics/figure6_hud0c5bc4d6e20b79a7811fc1c6c07e965_399012_0241fa35e216b5de480d33f1b94edbba.webp 400w,
+               /post/2023-09-14-ipop-lipidomics/figure6_hud0c5bc4d6e20b79a7811fc1c6c07e965_399012_53dd144f019edc3c0cb226afb4618b06.webp 760w,
+               /post/2023-09-14-ipop-lipidomics/figure6_hud0c5bc4d6e20b79a7811fc1c6c07e965_399012_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure6_hud0c5bc4d6e20b79a7811fc1c6c07e965_399012_0241fa35e216b5de480d33f1b94edbba.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;527&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;脂质与细胞因子的特异性关联&#34;&gt;脂质与细胞因子的特异性关联&lt;/h2&gt;
+&lt;p&gt;最后,鉴于细胞因子、趋化因子和生长因子在各种生物过程中的重要性,我们研究了它们在平衡状态和各种病理过程中与脂质的关系。我们发现40种细胞因子中的大多数与580种脂质存在1245个正相关或负相关的关联。&lt;/p&gt;
+&lt;p&gt;例如,我们观察到粒细胞-巨噬细胞集落刺激因子和瘦素与许多甘油三酰脂呈强正相关。这与这些脂质的潜在促炎作用一致。另一方面,IL-6和IL-10等具有免疫调节作用的细胞因子则与部分甘油三酰脂呈负相关。这表明不同甘油三酰脂种类在免疫调控网络中可能发挥不同功能。此外,我们还观察到lysophosphatidylcholine(LPC)与多种生长因子和促炎因子呈正相关,同时与C反应蛋白等标志呈负相关。这提示LPC可能具有免疫激活和免疫抑制双重功能。总体而言,我们的多组学数据描绘了细胞因子和脂质亚类之间的复杂关联,以及不同脂肪酰基组成的脂质与特定细胞因子的差异关联,提示其在免疫激活与免疫抑制中的不同作用。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2023-09-14-ipop-lipidomics/figure7_huebb2c299e604dc0d1944a046ecab99d3_754743_d1387788eb544eb062c8fe4535fcfc71.webp 400w,
+               /post/2023-09-14-ipop-lipidomics/figure7_huebb2c299e604dc0d1944a046ecab99d3_754743_f16cfd67eaa97da019729e939cb98779.webp 760w,
+               /post/2023-09-14-ipop-lipidomics/figure7_huebb2c299e604dc0d1944a046ecab99d3_754743_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure7_huebb2c299e604dc0d1944a046ecab99d3_754743_d1387788eb544eb062c8fe4535fcfc71.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;653&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;意义&#34;&gt;意义&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;该研究建立了人体脂质组与健康、疾病及衰老过程之间的动态联系,为脂质在人体生理病理过程中的多重作用提供了全新的视角。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;不同脂质种类及其组分的独特模式为开发新的生物标志物、研究疾病机制以及设计个体化干预提供了基础。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;结果提示,通过饮食等途径针对性改变外源性脂质的摄入或靶向关键脂质转换酶有望成为减轻慢性炎症、改善代谢健康的新策略。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本研究采用先进的脂质组学技术对人群进行长时间跟踪,揭示了脂质网络在健康和疾病中的多样性角色,为开发新的个体化医疗提供了宝贵资源。我们有理由相信,继续深入解析脂质-健康关系,将大大推动未来医学的发展。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>tidytof:一种可扩展和可重现的高维细胞数据分析的整洁框架</title>
+      <link>https://jaspershen.github.io/post/2023-07-19-tidytof/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/post/2023-07-19-tidytof/</guid>
+      <description>&lt;p&gt;依赖于tidyverse风格的组学数据处理软件越来越多了！期待我们的tidymicrobiome！&lt;/p&gt;
+&lt;h1 id=&#34;tidytof一种可扩展和可重现的高维细胞数据分析的整洁框架&#34;&gt;tidytof:一种可扩展和可重现的高维细胞数据分析的整洁框架&lt;/h1&gt;
+&lt;h2 id=&#34;摘要&#34;&gt;摘要&lt;/h2&gt;
+&lt;p&gt;尽管已经开发出许多分析高维细胞数据的算法,但这些算法的软件实现仍然高度定制化——这意味着探索一个数据集需要用户学习每个数据处理步骤所需的独特的、互操作性差的软件语法。为解决这个问题,我们开发了tidytof,一个开源的R软件包,用于使用越来越受欢迎的“整洁数据”接口分析高维细胞数据。&lt;/p&gt;
+&lt;h2 id=&#34;可获得性和实现&#34;&gt;可获得性和实现&lt;/h2&gt;
+&lt;p&gt;tidytof可在https://github.com/keyes-timothy/tidytof获得,基于MIT许可证发布。它支持Linux、Windows和MacOS。额外的文档可在软件包网站上获得(&lt;a href=&#34;https://keyes-timothy.github.io/tidytof/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://keyes-timothy.github.io/tidytof/&lt;/a&gt;)。&lt;/p&gt;
+&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;
+&lt;p&gt;在过去的十年中,高维细胞技术已经成为高通量单细胞分析人类和动物组织的突出技术。基于时间飞行的质谱细胞学(或细胞质谱)、全谱流式细胞技术和序列基础的细胞技术现在已经实现了每次实验从数百万个细胞中收集多重蛋白质测量的大数据集。为从这些复杂的数据集中洞察信息,最近几年也见证了几十种用于单细胞、细胞亚群和整体样本水平分析高维细胞数据的算法的开发。然而,遍历这些方法的选择、使用和互操作性需求仍然是一个重大挑战。&lt;/p&gt;
+&lt;p&gt;在同一时间内,“整洁数据”的概念已经构成了数据科学领域的范式转变。整洁数据指的是以灵活的二维表格(称为数据帧)表示的数据,其中每一行表示一个观察,每一列表示一个实验变量。数据整洁性的核心概念是将数据表示为一致的整洁格式可以简化数据处理,方法是标准化构建分析流程所需的工具。采用整洁数据实践通常鼓励在统计软件工程中使用直观的以人为中心的设计原则,允许研究人员通过使用一致的词汇表达常见的数据处理操作,在工具和研究领域之间应用类似的分析框架。&lt;/p&gt;
+&lt;p&gt;这里,我们在之前的工作基础上,提出tidytof,一个R软件包,使用整洁接口实现全面、高效和可扩展的高维细胞数据分析框架。tidytof的综合文档和教程在补充注释和软件包注释中提供。&lt;/p&gt;
+&lt;h2 id=&#34;软件设计&#34;&gt;软件设计&lt;/h2&gt;
+&lt;p&gt;tidytof将热门的高维细胞数据分析方法进行了整合,如文件读取、预处理、批效应校正、质量控制、聚类、降维、差异表达分析、特征提取和可视化,变成一个可组合的、易于使用的应用程序接口,适合有经验和无经验的程序员。&lt;/p&gt;
+&lt;p&gt;它的设计策略有三个主要好处:1)它允许tidytof简化访问以不同方式执行相同基本任务的算法的方式;2) tidytof动词的模块化设计意味着它们可以组合起来对单细胞数据进行灵活的分析;3) 作为高性能整洁生态系统工具的扩展,tidytof提供了相对于现有的单细胞数据分析软件的卓越的计算性能。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2023-07-19-tidytof/figure1_hu5fa3503ad3c9b05c11792d4f5c037e45_1096349_10a03f3859e1f40efb3b5e244c561d44.webp 400w,
+               /post/2023-07-19-tidytof/figure1_hu5fa3503ad3c9b05c11792d4f5c037e45_1096349_15492aa1870bb735ddc31c387311aff5.webp 760w,
+               /post/2023-07-19-tidytof/figure1_hu5fa3503ad3c9b05c11792d4f5c037e45_1096349_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://jaspershen.github.io/post/2023-07-19-tidytof/figure1_hu5fa3503ad3c9b05c11792d4f5c037e45_1096349_10a03f3859e1f40efb3b5e244c561d44.webp&#34;
+               width=&#34;629&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;性能基准测试&#34;&gt;性能基准测试&lt;/h2&gt;
+&lt;p&gt;我们使用等价的工作流程对tidytof的速度和内存性能进行了基准测试,并与具有类似功能的两个低级API(基本R和flowCore)以及三个高级API(cytofkit、immunoCluster和Spectre)进行了比较。结果显示,tidytof的计算性能与现有工具相当或优于现有工具,而且tidytof的总时间是基准测试中使用的所有数据集中最小的。&lt;/p&gt;
+&lt;h2 id=&#34;结论&#34;&gt;结论&lt;/h2&gt;
+&lt;p&gt;总之,tidytof为使用简单的API和与许多现有的数据科学和生物信息学社区创建的工具无缝集成来分析高维细胞数据提供了一个整洁的接口。通过这种方式,tidytof降低了将标准工具应用于高维细胞数据集的编码负担,从而提高了高级分析方法对编程经验有限的研究人员的可访问性。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>如何使用colorspace包选择合适的颜色方案</title>
+      <link>https://jaspershen.github.io/post/2023-07-19-colorspace/</link>
+      <pubDate>Wed, 19 Jul 2023 21:13:14 -0500</pubDate>
+      <guid>https://jaspershen.github.io/post/2023-07-19-colorspace/</guid>
+      <description>&lt;p&gt;颜色是数据可视化中非常重要的一个元素，它可以传达信息，引起注意，增强美感，甚至影响情绪。但是，如何选择合适的颜色方案呢？有没有一种科学的方法，可以帮助我们在众多的颜色中找到最佳的组合呢？&lt;/p&gt;
+&lt;p&gt;答案是有的，那就是colorspace包。colorspace包是一个R语言的扩展包，它提供了一系列的函数和工具，可以让我们在不同的颜色空间中进行颜色的转换，选择，操作和评估。colorspace包基于HCL（色相-色度-亮度）颜色模型，这是一种基于人类视觉感知的颜色表示方法，比RGB（红-绿-蓝）或CMYK（青-品红-黄-黑）等常见的颜色模型更加直观和灵活。&lt;/p&gt;
+&lt;p&gt;colorspace包的主要功能有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;提供了多种预定义的颜色方案，包括连续型（sequential），发散型（diverging）和定性型（qualitative）三种类型，可以根据数据的特点和目的进行选择。&lt;/li&gt;
+&lt;li&gt;提供了一个交互式的图形用户界面（GUI），可以在RStudio中或网页浏览器中打开，可以实时地查看和调整不同的颜色方案，并生成相应的R代码。&lt;/li&gt;
+&lt;li&gt;提供了一些函数和方法，可以对颜色进行转换，混合，插值，排序，分组等操作，并评估颜色方案的可视化效果和可辨识度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;下面我们来看一些colorspace包的使用示例：&lt;/p&gt;
+&lt;h2 id=&#34;加载colorspace包&#34;&gt;加载colorspace包&lt;/h2&gt;
+&lt;p&gt;首先，我们需要安装并加载colorspace包。如果你还没有安装过colorspace包，可以运行以下代码：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;install.packages&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;colorspace&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;然后，我们可以用library函数加载colorspace包：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;colorspace&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;查看预定义的颜色方案&#34;&gt;查看预定义的颜色方案&lt;/h2&gt;
+&lt;p&gt;colorspace包提供了多种预定义的颜色方案，我们可以用hcl_palettes函数查看它们：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;hcl_palettes&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## HCL palettes&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Type:  Qualitative &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Names: Pastel 1, Dark 2, Dark 3, Set 2, Set 3, Warm, Cold, Harmonic, Dynamic&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Type:  Sequential (single-hue) &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Names: Grays, Light Grays, Blues 2, Blues 3, Purples 2, Purples 3, Reds 2,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Reds 3, Greens 2, Greens 3, Oslo&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Type:  Sequential (multi-hue) &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Names: Purple-Blue, Red-Purple, Red-Blue, Purple-Orange, Purple-Yellow,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Blue-Yellow, Green-Yellow, Red-Yellow, Heat, Heat 2, Terrain,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Terrain 2, Viridis, Plasma, Inferno, Rocket, Mako, Dark Mint,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Mint, BluGrn, Teal, TealGrn, Emrld, BluYl, ag_GrnYl, Peach,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        PinkYl, Burg, BurgYl, RedOr, OrYel, Purp, PurpOr, Sunset,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Magenta, SunsetDark, ag_Sunset, BrwnYl, YlOrRd, YlOrBr, OrRd,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Oranges, YlGn, YlGnBu, Reds, RdPu, PuRd, Purples, PuBuGn, PuBu,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Greens, BuGn, GnBu, BuPu, Blues, Lajolla, Turku, Hawaii, Batlow&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Type:  Diverging &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Names: Blue-Red, Blue-Red 2, Blue-Red 3, Red-Green, Purple-Green,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Purple-Brown, Green-Brown, Blue-Yellow 2, Blue-Yellow 3,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Green-Orange, Cyan-Magenta, Tropic, Broc, Cork, Vik, Berlin,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Lisbon, Tofino&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这个函数会返回一个列表，每个元素是一个颜色方案的名称和描述。例如：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;`Diverging`&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;Diverging HCL palettes from diverge_hcl&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;我们可以看到，有一个叫做Diverging的颜色方案，它是由diverge_hcl函数生成的。我们可以用这个函数来创建一个发散型的颜色方案，例如：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;diverge_hcl&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;7&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;h&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;246&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;40&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;c&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;96&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;l&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;65&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;90&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## [1] &amp;#34;#1FA4FF&amp;#34; &amp;#34;#97BFF3&amp;#34; &amp;#34;#CAD6E9&amp;#34; &amp;#34;#E2E2E2&amp;#34; &amp;#34;#E7D1C5&amp;#34; &amp;#34;#E9B18B&amp;#34; &amp;#34;#E28912&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这个函数会返回一个长度为7的向量，每个元素是一个十六进制的颜色代码。我们可以用plot函数来查看这个颜色方案：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;scales&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;show_col&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;diverge_hcl&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;7&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;h&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;246&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;40&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;c&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;96&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;l&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;65&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;90&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)))&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;img src=&#34;https://jaspershen.github.io/post/2023-07-19-colorspace/index.en_files/figure-html/unnamed-chunk-5-1.png&#34; width=&#34;672&#34; /&gt;
+&lt;p&gt;我们可以看到，这个颜色方案是由蓝色和红色组成的，中间有一个白色。这种类型的颜色方案适合用来表示数据中存在两个极端或对立的情况。&lt;/p&gt;
+&lt;p&gt;类似地，我们可以用其他函数来创建不同类型的颜色方案，例如sequential_hcl, qualitative_hcl等。具体的参数和用法可以参考colorspace包的文档。&lt;/p&gt;
+&lt;h2 id=&#34;使用交互式图形用户界面&#34;&gt;使用交互式图形用户界面&lt;/h2&gt;
+&lt;p&gt;colorspace包还提供了一个交互式的图形用户界面，可以让我们在RStudio中或网页浏览器中打开，可以实时地查看和调整不同的颜色方案，并生成相应的R代码。我们可以用choose_palette函数来启动这个界面：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;choose_palette&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这个函数会打开一个新的窗口，如下图所示：&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://files.mdnice.com/user/20138/c1c392cf-7d00-4b31-a47d-e1b4085e8f1a.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;我们可以在左侧的菜单中选择不同的颜色方案类型，例如Sequential, Diverging, Qualitative等。然后，我们可以在右侧的滑动条中调整颜色方案的参数，例如色相，色度，亮度，数量等。我们还可以在下方的选项中选择是否显示颜色名称，是否反转颜色顺序，是否显示颜色条等。我们可以看到，随着我们的调整，中间的图形会实时地更新，显示当前的颜色方案。我们还可以在右下角看到生成这个颜色方案的R代码，方便我们复制和使用。&lt;/p&gt;
+&lt;p&gt;这个交互式图形用户界面是一个非常方便和有趣的工具，可以让我们快速地找到合适的颜色方案，并进行微调和优化。&lt;/p&gt;
+&lt;h2 id=&#34;对颜色进行操作和评估&#34;&gt;对颜色进行操作和评估&lt;/h2&gt;
+&lt;p&gt;colorspace包还提供了一些函数和方法，可以对颜色进行转换，混合，插值，排序，分组等操作，并评估颜色方案的可视化效果和可辨识度。例如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;我们可以用hcl函数将RGB颜色转换为HCL颜色，或者用rgb函数将HCL颜色转换为RGB颜色。&lt;/li&gt;
+&lt;li&gt;我们可以用mixcolor函数将两种或多种颜色进行混合，得到一个新的颜色。&lt;/li&gt;
+&lt;li&gt;我们可以用specplot函数将一个颜色方案在不同的颜色空间中进行可视化，比较它们的差异和特点。&lt;/li&gt;
+&lt;li&gt;我们可以用desaturate函数将一个颜色方案变得更加灰暗，或者用lighten函数将一个颜色方案变得更加明亮。&lt;/li&gt;
+&lt;li&gt;我们可以用rainbow_hcl函数生成一个类似彩虹的连续型颜色方案，或者用heat_hcl函数生成一个类似热力图的连续型颜色方案。&lt;/li&gt;
+&lt;li&gt;我们可以用emulateColorBlindness函数模拟不同类型的色盲对颜色方案的感知，评估它们的可辨识度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些函数和方法都有详细的文档和示例，可以帮助我们更好地理解和使用colorspace包。&lt;/p&gt;
+&lt;h2 id=&#34;总结&#34;&gt;总结&lt;/h2&gt;
+&lt;p&gt;colorspace包是一个非常强大和实用的R语言扩展包，它可以让我们在不同的颜色空间中进行颜色的转换，选择，操作和评估。colorspace包基于HCL（色相-色度-亮度）颜色模型，这是一种基于人类视觉感知的颜色表示方法，比RGB（红-绿-蓝）或CMYK（青-品红-黄-黑）等常见的颜色模型更加直观和灵活。colorspace包提供了多种预定义的颜色方案，包括连续型（sequential），发散型（diverging）和定性型（qualitative）三种类型，可以根据数据的特点和目的进行选择。colorspace包还提供了一个交互式的图形用户界面（GUI），可以在RStudio中或网页浏览器中打开，可以实时地查看和调整不同的颜色方案，并生成相应的R代码。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to update shen personal website</title>
+      <link>https://jaspershen.github.io/post/2022-10-23-shen-blog-instruction/</link>
+      <pubDate>Sun, 23 Oct 2022 21:13:14 -0500</pubDate>
+      <guid>https://jaspershen.github.io/post/2022-10-23-shen-blog-instruction/</guid>
+      <description>&lt;h1 id=&#34;the-menus-appearance&#34;&gt;The menus appearance&lt;/h1&gt;
+&lt;p&gt;The file is here: config/_default/menus.en.toml&lt;/p&gt;
+&lt;h1 id=&#34;the-theme-design&#34;&gt;The theme design&lt;/h1&gt;
+&lt;p&gt;The file is here: config/_default/params.toml&lt;/p&gt;
+&lt;h1 id=&#34;the-order-of-contents&#34;&gt;The order of contents&lt;/h1&gt;
+&lt;p&gt;This is determined by the weight in the index for each content.&lt;/p&gt;
+&lt;p&gt;About: 20&lt;/p&gt;
+&lt;p&gt;featured: 22&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RNA-seq原始数据处理</title>
+      <link>https://jaspershen.github.io/post/2021-06-30-rnaseq-raw-data-processing/</link>
+      <pubDate>Wed, 30 Jun 2021 21:13:14 -0500</pubDate>
+      <guid>https://jaspershen.github.io/post/2021-06-30-rnaseq-raw-data-processing/</guid>
+      <description>&lt;p&gt;颜色是数据可视化中非常重要的一个元素，它可以传达信息，引起注意，增强美感，甚至影响情绪。但是，如何选择合适的颜色方案呢？有没有一种科学的方法，可以帮助我们在众多的颜色中找到最佳的组合呢？&lt;/p&gt;
+&lt;h1 id=&#34;rna-seq原始数据&#34;&gt;RNA-seq原始数据&lt;/h1&gt;
+&lt;p&gt;参考:https://mp.weixin.qq.com/s?__biz=MzA4NDAzODkzMA==&amp;amp;mid=2651272899&amp;amp;idx=1&amp;amp;sn=6779b2bd21f3b607a08227d31c7212c6&amp;amp;chksm=841ed2beb3695ba8bee23563c28caa005447b2298785719964732b16cafe3a15d7d4937b95c1&amp;amp;scene=21#wechat_redirect&lt;/p&gt;
+&lt;p&gt;原始数据格式为fastq,为本文文件.用来保存生物序列.每一个样本一个fastq文件,每个序列用四行信息记录.&lt;/p&gt;
+&lt;h1 id=&#34;数据整理&#34;&gt;数据整理&lt;/h1&gt;
+&lt;p&gt;一般需要将不同数据放在不同文件夹下.&lt;/p&gt;
+&lt;h2 id=&#34;raw_data&#34;&gt;raw_data&lt;/h2&gt;
+&lt;p&gt;原始数据.fastq或者fastq.gz格式.&lt;/p&gt;
+&lt;h2 id=&#34;qc_results&#34;&gt;qc_results&lt;/h2&gt;
+&lt;p&gt;用来存放质量控制得到的数据.&lt;/p&gt;
+&lt;h2 id=&#34;clean_data&#34;&gt;clean_data&lt;/h2&gt;
+&lt;p&gt;用来存放&lt;code&gt;trim_galore&lt;/code&gt;清洗之后的数据.&lt;/p&gt;
+&lt;h2 id=&#34;reference_geonome&#34;&gt;reference_geonome&lt;/h2&gt;
+&lt;p&gt;用来存放参考基因组.&lt;/p&gt;
+&lt;h2 id=&#34;aligned&#34;&gt;aligned&lt;/h2&gt;
+&lt;p&gt;用来存放比对之后的数据.&lt;/p&gt;
+&lt;h1 id=&#34;质量控制&#34;&gt;质量控制&lt;/h1&gt;
+&lt;p&gt;使用&lt;code&gt;fastQC&lt;/code&gt;和&lt;code&gt;multiqc&lt;/code&gt;对测序质量进行评价.&lt;/p&gt;
+&lt;h2 id=&#34;fastqc&#34;&gt;fastQC&lt;/h2&gt;
+&lt;p&gt;首先使用fastQC对每个样品的测序质量进行评估.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;fastqc -o &amp;lt;output dir&amp;gt; &amp;lt;seqfile1,seqfile2..&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;-o:输出的路径&lt;/p&gt;
+&lt;p&gt;&amp;lt;seqfile1,seqfile2..&amp;gt;:要进行评估的原始数据.&lt;/p&gt;
+&lt;p&gt;将路径设置到最外面.&lt;/p&gt;
+&lt;p&gt;然后输入下面代码:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;fastqc -o qc_results *.fastq.gz
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;multiqc&#34;&gt;multiqc&lt;/h2&gt;
+&lt;p&gt;使用multiqc将fastqc对每个测序样品的结果进行汇总.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;multiqc *fastqc.zip --pdf
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;fastQC的结果是fastqc.zip格式.&lt;/p&gt;
+&lt;p&gt;需要先将路径设置到&lt;code&gt;qc_results&lt;/code&gt;中.然后运行该命令.&lt;/p&gt;
+&lt;h1 id=&#34;使用trim-galore去除低质量的reads和adaptor&#34;&gt;使用trim-galore去除低质量的reads和adaptor&lt;/h1&gt;
+&lt;p&gt;处理单个样本可以使用下面命令.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;trim_galore -output_dir clean_data --paired --length 75 --quality 25 --stringency 5 /raw_data/*fastq.gz
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;批量多核处理:&lt;/p&gt;
+&lt;p&gt;首先设置路径到&lt;code&gt;raw_data&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ls|grep R1_001.fastq.gz&amp;gt;gz1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ls|grep R2_001.fastq.gz&amp;gt;gz2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;paste gz1 gz2&amp;gt;config
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cat config
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;然后创建一个&lt;code&gt;trim.sh&lt;/code&gt;文件:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;touch trim.sh
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;vim打开.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;vim trim.sh
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;按esc,然后&lt;code&gt;:i&lt;/code&gt;进入插入模式,写入下面的代码:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;dir=/home/kelly/wesproject/clean_data/
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cat config |while read id
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;do
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      arr=${id}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      fq1=${arr[0]}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      fq2=${arr[1]}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      nohup trim_galore -q 25 --phred33 --length 36 -e 0.1 --stringency 3 --paired -o $dir $fq1 $fq2 &amp;amp;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;done
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;其中dir是clean_data的绝对路径.&lt;/p&gt;
+&lt;p&gt;然后按esc,然后&lt;code&gt;:wq&lt;/code&gt;保存退出.&lt;/p&gt;
+&lt;p&gt;然后运行该文件.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;shell trim.sh
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;然后就会在clean_data中生成数据.&lt;/p&gt;
+&lt;p&gt;进入该文件夹下.可以查看文件的数据.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ls -lht | grep val | wc -l
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这种写法&lt;code&gt;|&lt;/code&gt;跟R中的&lt;code&gt;%&amp;gt;%&lt;/code&gt;类似.&lt;/p&gt;
+&lt;p&gt;这里面,&lt;code&gt;wc -l&lt;/code&gt;是计数的.&lt;/p&gt;
+&lt;h1 id=&#34;序列比对&#34;&gt;序列比对&lt;/h1&gt;
+&lt;p&gt;我们使用&lt;code&gt;hisat&lt;/code&gt;进行序列比对.&lt;/p&gt;
+&lt;p&gt;下载参考基因组:&lt;/p&gt;
+&lt;p&gt;路径设置到想要存放路径的地方.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wget ftp://ftp.ccb.jhu.edu/pub/infphilo/hisat2/data/hg38.tar.gz
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这里我们下载最近的hg38参考基因组.&lt;/p&gt;
+&lt;p&gt;hisat2使用.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hisat2 -p 6 -x &amp;lt;dir of index of genome&amp;gt; -1 seq_val_1.fq.gz -2 seq_val_2.fq.gz -S  tem.hisat2.sam
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;-p: 处理核心数.&lt;/p&gt;
+&lt;p&gt;-x: 参考基因组存放位置.最后需要写上&lt;code&gt;geome&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;-1: 两端测序的第一个文件.&lt;/p&gt;
+&lt;p&gt;-2: 两端测序的第二个文件.&lt;/p&gt;
+&lt;p&gt;-S: 生成的sam格式数据的名字.&lt;/p&gt;
+&lt;p&gt;具体例子:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hisat2 --dta -t -p 8 -x ./reference_genome/index/hg38/genome -1 ./clean_data/iPOP_MC_PBMC_RNAseq_1_S1_L001_R1_001_val_1.fq.gz -2 ./clean_data/iPOP_MC_PBMC_RNAseq_1_S1_L001_R2_001_val_2.fq.gz -S ./aligned/iPOP_MC_PBMC_RNAseq_1_S1_L001_R2_001_val_2.sam
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;路径需要在整个project root路径.&lt;/p&gt;
+&lt;p&gt;注意参考基因组的路径写法,其实我们的参考基因组就存放在&lt;code&gt;./reference_genome/index/hg38/&lt;/code&gt;文件夹下.genome一定要加上去.&lt;/p&gt;
+&lt;p&gt;写一个循环进行批次处理:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;for i in iPOP_MC_PBMC_RNAseq_1_S1_L001 iPOP_MC_PBMC_RNAseq_10_S10_L001 iPOP_MC_PBMC_RNAseq_11_S11_L001 iPOP_MC_PBMC_RNAseq_12_S12_L001 iPOP_MC_PBMC_RNAseq_13_S13_L001 iPOP_MC_PBMC_RNAseq_14_S14_L001 iPOP_MC_PBMC_RNAseq_15_S15_L001 iPOP_MC_PBMC_RNAseq_16_S16_L001 iPOP_MC_PBMC_RNAseq_17_S17_L001 iPOP_MC_PBMC_RNAseq_18_S18_L001 iPOP_MC_PBMC_RNAseq_19_S19_L001 iPOP_MC_PBMC_RNAseq_2_S2_L001 iPOP_MC_PBMC_RNAseq_20_S20_L001 iPOP_MC_PBMC_RNAseq_21_S21_L001 iPOP_MC_PBMC_RNAseq_22_S22_L001 iPOP_MC_PBMC_RNAseq_23_S23_L001 iPOP_MC_PBMC_RNAseq_24_S24_L001 iPOP_MC_PBMC_RNAseq_25_S25_L001 iPOP_MC_PBMC_RNAseq_26_S26_L001 iPOP_MC_PBMC_RNAseq_27_S27_L001 iPOP_MC_PBMC_RNAseq_28_S28_L001 iPOP_MC_PBMC_RNAseq_29_S29_L001 iPOP_MC_PBMC_RNAseq_3_S3_L001 iPOP_MC_PBMC_RNAseq_30_S30_L001 iPOP_MC_PBMC_RNAseq_31_S31_L001 iPOP_MC_PBMC_RNAseq_32_S32_L001 iPOP_MC_PBMC_RNAseq_33_S33_L001 iPOP_MC_PBMC_RNAseq_34_S34_L001 iPOP_MC_PBMC_RNAseq_35_S35_L001 iPOP_MC_PBMC_RNAseq_36_S36_L001 iPOP_MC_PBMC_RNAseq_37_S37_L001 iPOP_MC_PBMC_RNAseq_38_S38_L001 iPOP_MC_PBMC_RNAseq_39_S39_L001 iPOP_MC_PBMC_RNAseq_4_S4_L001 iPOP_MC_PBMC_RNAseq_40_S40_L001 iPOP_MC_PBMC_RNAseq_41_S41_L001 iPOP_MC_PBMC_RNAseq_42_S42_L001 iPOP_MC_PBMC_RNAseq_43_S43_L001 iPOP_MC_PBMC_RNAseq_44_S44_L001 iPOP_MC_PBMC_RNAseq_45_S45_L001 iPOP_MC_PBMC_RNAseq_46_S46_L001 iPOP_MC_PBMC_RNAseq_47_S47_L001 iPOP_MC_PBMC_RNAseq_5_S5_L001 iPOP_MC_PBMC_RNAseq_6_S6_L001 iPOP_MC_PBMC_RNAseq_7_S7_L001 iPOP_MC_PBMC_RNAseq_8_S8_L001 iPOP_MC_PBMC_RNAseq_9_S9_L001 Undetermined_S0_L001
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;do 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hisat2 --dta -t -p 15 -x ./reference_genome/index/hg38/genome \
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;-1 ./clean_data/&amp;#34;$i&amp;#34;_R1_001_val_1.fq.gz \
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;-2 ./clean_data/&amp;#34;$i&amp;#34;_R2_001_val_2.fq.gz \
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;-S ./aligned/&amp;#34;$i&amp;#34;.sam; done
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;samtools将sam转换为bam&#34;&gt;samtools将sam转换为bam&lt;/h1&gt;
+&lt;p&gt;使用samtools将得到的sam格式数据转换为bam格式,并且进行sort.&lt;/p&gt;
+&lt;p&gt;单个转换:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;samtools view -S iPOP_MC_PBMC_RNAseq_10_S10_L001.sam -b &amp;gt; iPOP_MC_PBMC_RNAseq_10_S10_L001.bam
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;批次转换:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;for i in iPOP_MC_PBMC_RNAseq_11_S11_L001 iPOP_MC_PBMC_RNAseq_12_S12_L001 iPOP_MC_PBMC_RNAseq_13_S13_L001 iPOP_MC_PBMC_RNAseq_14_S14_L001 iPOP_MC_PBMC_RNAseq_15_S15_L001 iPOP_MC_PBMC_RNAseq_16_S16_L001 iPOP_MC_PBMC_RNAseq_17_S17_L001 iPOP_MC_PBMC_RNAseq_18_S18_L001 iPOP_MC_PBMC_RNAseq_19_S19_L001 iPOP_MC_PBMC_RNAseq_2_S2_L001 iPOP_MC_PBMC_RNAseq_20_S20_L001 iPOP_MC_PBMC_RNAseq_21_S21_L001 iPOP_MC_PBMC_RNAseq_22_S22_L001 iPOP_MC_PBMC_RNAseq_23_S23_L001 iPOP_MC_PBMC_RNAseq_24_S24_L001 iPOP_MC_PBMC_RNAseq_25_S25_L001 iPOP_MC_PBMC_RNAseq_26_S26_L001 iPOP_MC_PBMC_RNAseq_27_S27_L001 iPOP_MC_PBMC_RNAseq_28_S28_L001 iPOP_MC_PBMC_RNAseq_29_S29_L001 iPOP_MC_PBMC_RNAseq_3_S3_L001 iPOP_MC_PBMC_RNAseq_30_S30_L001 iPOP_MC_PBMC_RNAseq_31_S31_L001 iPOP_MC_PBMC_RNAseq_32_S32_L001 iPOP_MC_PBMC_RNAseq_33_S33_L001 iPOP_MC_PBMC_RNAseq_34_S34_L001 iPOP_MC_PBMC_RNAseq_35_S35_L001 iPOP_MC_PBMC_RNAseq_36_S36_L001 iPOP_MC_PBMC_RNAseq_37_S37_L001 iPOP_MC_PBMC_RNAseq_38_S38_L001 iPOP_MC_PBMC_RNAseq_39_S39_L001 iPOP_MC_PBMC_RNAseq_4_S4_L001 iPOP_MC_PBMC_RNAseq_40_S40_L001 iPOP_MC_PBMC_RNAseq_41_S41_L001 iPOP_MC_PBMC_RNAseq_42_S42_L001 iPOP_MC_PBMC_RNAseq_43_S43_L001 iPOP_MC_PBMC_RNAseq_44_S44_L001 iPOP_MC_PBMC_RNAseq_45_S45_L001 iPOP_MC_PBMC_RNAseq_46_S46_L001 iPOP_MC_PBMC_RNAseq_47_S47_L001 iPOP_MC_PBMC_RNAseq_5_S5_L001 iPOP_MC_PBMC_RNAseq_6_S6_L001 iPOP_MC_PBMC_RNAseq_7_S7_L001 iPOP_MC_PBMC_RNAseq_8_S8_L001 iPOP_MC_PBMC_RNAseq_9_S9_L001 Undetermined_S0_L001
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;do
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;samtools view -S &amp;#34;$i&amp;#34;.sam -b &amp;gt; &amp;#34;$i&amp;#34;.bam; done
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://jaspershen.github.io/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/post/getting-started/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomsponsor&#34;&gt;&lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Writing technical content in Markdown</title>
+      <link>https://jaspershen.github.io/post/writing-technical-content/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/post/writing-technical-content/</guid>
+      <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports a Markdown extension for highlighting code syntax. You can customize the styles under the &lt;code&gt;syntax_highlighter&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pandas&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pd&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pd&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read_csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;mindmaps&#34;&gt;Mindmaps&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports a Markdown extension for mindmaps.&lt;/p&gt;
+&lt;p&gt;Simply insert a Markdown &lt;code&gt;markmap&lt;/code&gt; code block and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
+&lt;p&gt;A simple mindmap defined as a Markdown list:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+```markmap {height=&#34;200px&#34;}
+- Hugo Modules
+  - wowchemy
+  - wowchemy-plugins-netlify
+  - wowchemy-plugins-netlify-cms
+  - wowchemy-plugins-reveal
+```
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
+
+&lt;pre&gt;- Hugo Modules
+  - wowchemy
+  - wowchemy-plugins-netlify
+  - wowchemy-plugins-netlify-cms
+  - wowchemy-plugins-reveal&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A more advanced mindmap with formatting, code blocks, and math:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+```markmap
+- Mindmaps
+  - Links
+    - [Wowchemy Docs](https://wowchemy.com/docs/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    -
+      ```js
+      console.log(&#39;hello&#39;);
+      console.log(&#39;code block&#39;);
+      ```
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;markmap&#34; style=&#34;height: 500px;&#34;&gt;
+
+&lt;pre&gt;- Mindmaps
+  - Links
+    - [Wowchemy Docs](https://wowchemy.com/docs/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    -
+      ```js
+      console.log(&#39;hello&#39;);
+      console.log(&#39;code block&#39;);
+      ```
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;charts&#34;&gt;Charts&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports the popular &lt;a href=&#34;https://plot.ly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly&lt;/a&gt; format for interactive charts.&lt;/p&gt;
+&lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
+&lt;p&gt;Demo:&lt;/p&gt;
+
+
+
+
+&lt;div id=&#34;chart-625894731&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+  (function() {
+    let a = setInterval( function() {
+      if ( typeof window.Plotly === &#39;undefined&#39; ) {
+        return;
+      }
+      clearInterval( a );
+
+      Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
+        Plotly.plot(&#39;chart-625894731&#39;, chart.data, chart.layout, {responsive: true});
+      });
+    }, 500 );
+  })();
+&lt;/script&gt;
+
+&lt;p&gt;You might also find the &lt;a href=&#34;http://plotly-json-editor.getforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly JSON Editor&lt;/a&gt; useful.&lt;/p&gt;
+&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; or &lt;code&gt;{{&amp;lt; math &amp;gt;}}$$...$${{&amp;lt; /math &amp;gt;}}&lt;/code&gt;, respectively. (We wrap the LaTeX math in the Wowchemy &lt;em&gt;math&lt;/em&gt; shortcode to prevent Hugo rendering our math as Markdown. The &lt;em&gt;math&lt;/em&gt; shortcode is new in v5.5-dev.)&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{ &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; | &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^T &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; |}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;{{&amp;lt; math &amp;gt;}}$\nabla F(\mathbf{x}_{n})${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; renders as 
+
+$\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the math linebreak (&lt;code&gt;\\&lt;/code&gt;):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;k;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+
+
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
+$$
+
+
+&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
+&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;graph TD
+A[Hard] --&gt;|Text| B(Round)
+B --&gt; C{Decision}
+C --&gt;|One| D[Result 1]
+C --&gt;|Two| E[Result 2]
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;sequenceDiagram
+Alice-&gt;&gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&gt;&gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&gt;&gt;Alice: Great!
+John-&gt;&gt;Bob: How about you?
+Bob--&gt;&gt;John: Jolly good!
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &amp;lt;--&amp;gt; C2: Cool label
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;classDiagram
+Class01 &lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &lt;--&gt; C2: Cool label
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;stateDiagram
+[*] --&gt; Still
+Still --&gt; [*]
+Still --&gt; Moving
+Moving --&gt; Still
+Moving --&gt; Crash
+Crash --&gt; [*]
+&lt;/div&gt;
+&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
+&lt;p&gt;You can even write your todo lists in Markdown too:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write math example
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write diagram example
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [ ]&lt;/span&gt; Do something else
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+&lt;p&gt;Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em&gt;Table&lt;/em&gt; shortcode to your page:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;table&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;path&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;results.csv&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;header&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;caption&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Table 1: My results&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;table class=&#34;table&#34;&gt;
+  
+    
+    
+    &lt;tr&gt;  &lt;th&gt;customer_id&lt;/th&gt;  &lt;th&gt;score&lt;/th&gt;  &lt;/tr&gt;
+  
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;0&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;2&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;0.5&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;3&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+  
+    &lt;caption&gt;Table 1: My results&lt;/caption&gt;
+  
+&lt;/table&gt;
+
+&lt;h3 id=&#34;callouts&#34;&gt;Callouts&lt;/h3&gt;
+&lt;p&gt;Academic supports a &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/#callouts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for callouts&lt;/a&gt;, also referred to as &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% callout note %}} ... {{% /callout %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% callout note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /callout %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;spoilers&#34;&gt;Spoilers&lt;/h3&gt;
+&lt;p&gt;Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;text&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Click to view the spoiler&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
+  &lt;summary&gt;Click to view the spoiler&lt;/summary&gt;
+  &lt;p&gt;You found me!&lt;/p&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;p&gt;Academic enables you to use a wide range of &lt;a href=&#34;https://wowchemy.com/docs/getting-started/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icons from &lt;em&gt;Font Awesome&lt;/em&gt; and &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; in addition to &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/#emojis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are some examples using the &lt;code&gt;icon&lt;/code&gt; shortcode to render icons:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;terminal&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fas&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} Terminal  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fab&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} Python  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;r-project&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fab&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} R
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Terminal&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>https://jaspershen.github.io/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/post/jupyter/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Welcome to Academic!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
+&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jupyter lab index.ipynb
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;title: My post&amp;#39;s title
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;date: 2019-09-01
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# Put any other Academic metadata here...
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
+&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

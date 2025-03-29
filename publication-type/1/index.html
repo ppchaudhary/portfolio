@@ -1,0 +1,2539 @@
+<!DOCTYPE html>
+<!-- This site was created with Wowchemy. https://www.wowchemy.com -->
+<!-- Last Published: September 4, 2023 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.7.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Limelight&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Limelight&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.047268c6dd09ad74ba54a0ba71837064.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.2/css/academicons.min.css" integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.ec67bc44c47b4de953ab26ae8763f8a2.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143314205-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-143314205-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Xiaotao Shen" />
+
+
+
+
+
+  
+
+<meta name="description" content="A highly-customizable Hugo academic resume theme powered by Wowchemy website builder." />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://jaspershen.github.io/publication-type/1/" />
+<link rel="canonical" href="https://jaspershen.github.io/publication-type/1/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu805a85e690e4f2727bf7d5f685d888f7_86836_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu805a85e690e4f2727bf7d5f685d888f7_86836_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#007C48" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+
+  <meta property="twitter:site" content="@wowchemy" />
+  <meta property="twitter:creator" content="@wowchemy" />
+<meta property="twitter:image" content="https://jaspershen.github.io/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_300x300_fit_lanczos_3.png" />
+<meta property="og:site_name" content="Xiaotao Shen" />
+<meta property="og:url" content="https://jaspershen.github.io/publication-type/1/" />
+<meta property="og:title" content="1 | Xiaotao Shen" />
+<meta property="og:description" content="A highly-customizable Hugo academic resume theme powered by Wowchemy website builder." /><meta property="og:image" content="https://jaspershen.github.io/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta property="og:updated_time" content="2023-04-28T00:00:00&#43;00:00" />
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    <link rel="alternate" href="/publication-type/1/index.xml" type="application/rss+xml" title="Xiaotao Shen" />
+  
+
+  
+
+
+  
+  <title>1 | Xiaotao Shen</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.c51bb6301bb2be5edd35b3630c50ed3a.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/"><img src="/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_0x70_resize_lanczos_3.png" alt="Xiaotao Shen"
+            
+            ></a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/"><img src="/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_0x70_resize_lanczos_3.png" alt="Xiaotao Shen"
+          
+          ></a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>About</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#experience"><span>Experiences</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#publication"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#talks"><span>Talks</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#post"><span>Blog</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#news"><span>News</span></a>
+          </li>
+
+          
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>More</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/#journal_referee"><span>Journal Referee</span></a>
+              
+                <a class="dropdown-item" href="/#awards"><span>Awards</span></a>
+              
+                <a class="dropdown-item" href="/#academic_service"><span>Academic Service</span></a>
+              
+                <a class="dropdown-item" href="/#collaborators"><span>Collaborators</span></a>
+              
+                <a class="dropdown-item" href="/#photos"><span>Photos</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+            
+            <li class="nav-item d-none d-lg-inline-flex">
+              <a class="nav-link" href="https://github.com/jaspershen" target="_blank" rel="noopener" aria-label="github">
+                <i class="fab fa-github" aria-hidden="true"></i>
+              </a>
+            </li>
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+<div class="universal-wrapper pt-3">
+  <h1>1</h1>
+
+  
+
+  
+</div>
+
+
+
+<div class="universal-wrapper">
+  
+
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/organism-wide-cell-type-specific-secretome-mapping-of-exercise-training-in-mice/" >Organism-wide, cell-type-specific secretome mapping of exercise training in mice</a>
+    </div>
+
+    
+    <a href="/publication/organism-wide-cell-type-specific-secretome-mapping-of-exercise-training-in-mice/"  class="summary-link">
+      <div class="article-style">
+        There is a significant interest in identifying blood-borne factors that mediate tissue crosstalk and function as molecular effectors of physical activity. Although past studies have focused on an individual molecule or cell type, the organism-wide secretome response to physical activity has not been evaluated. Here, we use a cell-type-specific proteomic approach to generate a 21-cell-type, 10-tissue map of exercise training-regulated secretomes in mice. Our dataset identifies &gt;200 exercise training-regulated cell-type-secreted protein pairs, the majority of which have not been previously reported. Pdgfra-cre-labeled secretomes were the most responsive to exercise training. Finally, we show anti-obesity, anti-diabetic, and exercise performance-enhancing activities for proteoforms of intracellular carboxylesterases whose secretion from the liver is induced by exercise training.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Wei Wei</span>, <span >
+      Nicholas M Riley</span>, <span >
+      Xuchao Lyu</span>, <span class="author-highlighted">
+      Xiaotao Shen</span>, <span >
+      Jing Guo</span>, <span >
+      Steffen H Raun</span>, <span >
+      Meng Zhao</span>, <span >
+      Maria Dolores Moya-Garzon</span>, <span >
+      Himanish Basu</span>, <span >
+      Alan Sheng-Hwa Tung</span>, <span >
+      Veronica L Li</span>, <span >
+      Wentao Huang</span>, <span >
+      Amanda L Wiggenhorn</span>, <span >
+      Katrin J Svensson</span>, <span >
+      Michael P Snyder</span>, <span >
+      Carolyn R Bertozzi</span>, <span >
+      Jonathan Z Long</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.cell.com/cell-metabolism/pdf/S1550-4131%2823%2900138-9.pdf" target="_blank" rel="noopener">
+    <i class="fas fa-link mr-1"></i>Link</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/" >
+    <i class="fas fa-file-pdf mr-1"></i>PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/state-of-the-art-methods-for-exposure-health-studies-results-from-the-exposome-data-challenge-event/" >State-of-the-art methods for exposure-health studies: Results from the exposome data challenge event</a>
+    </div>
+
+    
+    <a href="/publication/state-of-the-art-methods-for-exposure-health-studies-results-from-the-exposome-data-challenge-event/"  class="summary-link">
+      <div class="article-style">
+        The exposome recognizes that individuals are exposed simultaneously to a multitude of different environmental factors and takes a holistic approach to the discovery of etiological factors for disease. However, challenges arise when trying to quantify the health effects of complex exposure mixtures. Analytical challenges include dealing with high dimensionality, studying the combined effects of these exposures and their interactions, integrating causal pathways, and integrating high-throughput omics layers. To tackle these challenges, the Barcelona Institute for Global Health (ISGlobal) held a data challenge event open to researchers from all over the world and from all expertises. Analysts had a chance to compete and apply state-of-the-art methods on a common partially simulated exposome dataset (based on real case data from the HELIX project) with multiple correlated exposure variables (P &gt; 100 exposure …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Léa Maitre</span>, <span >
+      Jean-Baptiste Guimbaud</span>, <span >
+      Charline Warembourg</span>, <span >
+      Nuria Güil-Oumrait</span>, <span >
+      Paula Marcela Petrone</span>, <span >
+      Marc Chadeau-Hyam</span>, <span >
+      Martine Vrijheid</span>, <span >
+      Xavier Basagaña</span>, <span >
+      Juan R Gonzalez</span>, <span >
+      Exposome Data Challenge Participant Consortium</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/pii/S016041202200349X" target="_blank" rel="noopener">
+    <i class="fas fa-link mr-1"></i>Link</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/" >
+    <i class="fas fa-file-pdf mr-1"></i>PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/multiomic-analysis-reveals-cell-type-specific-molecular-determinants-of-covid-19-severity/" >Multiomic analysis reveals cell-type-specific molecular determinants of COVID-19 severity</a>
+    </div>
+
+    
+    <a href="/publication/multiomic-analysis-reveals-cell-type-specific-molecular-determinants-of-covid-19-severity/"  class="summary-link">
+      <div class="article-style">
+        The determinants of severe COVID-19 in healthy adults are poorly understood, which limits the opportunity for early intervention. We present a multiomic analysis using machine learning to characterize the genomic basis of COVID-19 severity. We use single-cell multiome profiling of human lungs to link genetic signals to cell-type-specific functions. We discover &gt;1,000 risk genes across 19 cell types, which account for 77% of the SNP-based heritability for severe disease. Genetic risk is particularly focused within natural killer (NK) cells and T cells, placing the dysfunction of these cells upstream of severe disease. Mendelian randomization and single-cell profiling of human NK cells support the role of NK cells and further localize genetic risk to CD56bright NK cells, which are key cytokine producers during the innate immune response. Rare variant analysis confirms the enrichment of severe-disease-associated …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Sai Zhang</span>, <span >
+      Johnathan Cooper-Knock</span>, <span >
+      Annika K Weimer</span>, <span >
+      Minyi Shi</span>, <span >
+      Lina Kozhaya</span>, <span >
+      Derya Unutmaz</span>, <span >
+      Calum Harvey</span>, <span >
+      Thomas H Julian</span>, <span >
+      Simone Furini</span>, <span >
+      Elisa Frullanti</span>, <span >
+      Francesca Fava</span>, <span >
+      Alessandra Renieri</span>, <span >
+      Dr. Peng Gao</span>, <span class="author-highlighted">
+      Xiaotao Shen</span>, <span >
+      Ilia Sarah Timpanaro</span>, <span >
+      Kevin P Kenna</span>, <span >
+      J Kenneth Baillie</span>, <span >
+      Mark M Davis</span>, <span >
+      Philip S Tsao</span>, <span >
+      Michael P Snyder</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.cell.com/cell-systems/pdf/S2405-4712%2822%2900228-9.pdf" target="_blank" rel="noopener">
+    <i class="fas fa-link mr-1"></i>Link</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/" >
+    <i class="fas fa-file-pdf mr-1"></i>PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/tidymass-an-object-oriented-reproducible-analysis-framework-for-lcms-data/" >TidyMass an object-oriented reproducible analysis framework for LC–MS data</a>
+    </div>
+
+    
+    <a href="/publication/tidymass-an-object-oriented-reproducible-analysis-framework-for-lcms-data/"  class="summary-link">
+      <div class="article-style">
+        Reproducibility, traceability, and transparency have been long-standing issues for metabolomics data analysis. Multiple tools have been developed, but limitations still exist. Here, we present the tidyMass project (<a href="https://www.tidymass.org/%29" target="_blank" rel="noopener">https://www.tidymass.org/)</a>, a comprehensive R-based computational framework that can achieve the traceable, shareable, and reproducible workflow needs of data processing and analysis for LC-MS-based untargeted metabolomics. TidyMass is an ecosystem of R packages that share an underlying design philosophy, grammar, and data structure, which provides a comprehensive, reproducible, and object-oriented computational framework. The modular architecture makes tidyMass a highly flexible and extensible tool, which other users can improve and integrate with other tools to customize their own pipeline.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span class="author-highlighted">
+      Xiaotao Shen</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      Dr. Yan Hong</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      Dr. Chuchu Wang</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      Dr. Peng Gao</span>, <span >
+      Dr. Caroline Johnson</span>, <span >
+      Prof. Michael Snyder</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.nature.com/articles/s41467-022-32155-w" target="_blank" rel="noopener">
+    <i class="fas fa-link mr-1"></i>Link</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/" >
+    <i class="fas fa-file-pdf mr-1"></i>PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/precision-environmental-health-monitoring-by-longitudinal-exposome-and-multi-omics-profiling/" >Precision environmental health monitoring by longitudinal exposome and multi-omics profiling</a>
+    </div>
+
+    
+    <a href="/publication/precision-environmental-health-monitoring-by-longitudinal-exposome-and-multi-omics-profiling/"  class="summary-link">
+      <div class="article-style">
+        Conventional environmental health studies have primarily focused on limited environmental stressors at the population level, which lacks the power to dissect the complexity and heterogeneity of individualized environmental exposures. Here, as a pilot case study, we integrated deep-profiled longitudinal personal exposome and internal multi-omics to systematically investigate how the exposome shapes a single individual&rsquo;s phenome. We annotated thousands of chemical and biological components in the personal exposome cloud and found they were significantly correlated with thousands of internal biomolecules, which was further cross-validated using corresponding clinical data. Our results showed that agrochemicals and fungi predominated in the highly diverse and dynamic personal exposome, and the biomolecules and pathways related to the individual&rsquo;s immune system, kidney, and liver were highly …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Dr. Peng Gao</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span class="author-highlighted">
+      Xiaotao Shen</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      Xinyue Zhang</span>, <span >
+      Chao Jiang</span>, <span >
+      Sai Zhang</span>, <span >
+      Dr. Xin Zhou</span>, <span >
+      Sophia Miryam Schüssler-Fiorenza Rose</span>, <span >
+      Prof. Michael Snyder</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://genome.cshlp.org/content/32/6/1199.short" target="_blank" rel="noopener">
+    <i class="fas fa-link mr-1"></i>Link</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/" >
+    <i class="fas fa-file-pdf mr-1"></i>PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/longitudinal-interactions-between-levels-of-serum-cytokine-and-the-microbiome-from-four-body-sites/" >Longitudinal interactions between levels of serum cytokine and the microbiome from four body sites</a>
+    </div>
+
+    
+    <a href="/publication/longitudinal-interactions-between-levels-of-serum-cytokine-and-the-microbiome-from-four-body-sites/"  class="summary-link">
+      <div class="article-style">
+        The human body is co-habituated with trillions of microbes, which are actively interacting with the human immune system. Our previous study demonstrated that a subset of individuals, characterized by a chronic absence of serum Interleukin (IL)-17 and IL-22, is more likely to be resistant to insulin compared with individuals with detectable serum IL-17/IL-22. Additional analysis pointed out that such an absence of IL-17 and IL-22 is associated with the low abundance of the gut microbiome that belongs to the class of Clostridia.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Dr. Xin Zhou</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span class="author-highlighted">
+      Xiaotao Shen</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      Jethro Johnson</span>, <span >
+      Daniel J Spakowicz</span>, <span >
+      Chenchen Zhu</span>, <span >
+      Wenyu Zhou</span>, <span >
+      Yanjiao Zhou</span>, <span >
+      George Weinstock</span>, <span >
+      Prof. Michael Snyder</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://journals.aai.org/jimmunol/article/208/1_Supplement/170.29/236551" target="_blank" rel="noopener">
+    <i class="fas fa-link mr-1"></i>Link</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/" >
+    <i class="fas fa-file-pdf mr-1"></i>PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/metid-an-r-package-for-automatable-compound-annotation-for-lc-ms-based-data/" >metID: an R package for automatable compound annotation for LC− MS-based data</a>
+    </div>
+
+    
+    <a href="/publication/metid-an-r-package-for-automatable-compound-annotation-for-lc-ms-based-data/"  class="summary-link">
+      <div class="article-style">
+        Accurate and efficient compound annotation is a long-standing challenge for LC–MS-based data (e.g. untargeted metabolomics and exposomics). Substantial efforts have been devoted to overcoming this obstacle, whereas current tools are limited by the sources of spectral information used (in-house and public databases) and are not automated and streamlined. Therefore, we developed metID, an R package that combines information from all major databases for comprehensive and streamlined compound annotation. metID is a flexible, simple and powerful tool that can be installed on all platforms, allowing the compound annotation process to be fully automatic and reproducible. A detailed tutorial and a case study are provided in Supplementary Materials.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span class="author-highlighted">
+      Xiaotao Shen</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      Dr. Si Wu</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      Dr. Liang Liang</span>, <span >
+      Dr. Songjie Chen</span>, <span >
+      Kévin Contrepois</span>, <span >
+      Zheng-Jiang Zhu</span>, <span >
+      Prof. Michael Snyder</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://academic.oup.com/bioinformatics/article-abstract/38/2/568/6357695" target="_blank" rel="noopener">
+    <i class="fas fa-link mr-1"></i>Link</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/" >
+    <i class="fas fa-file-pdf mr-1"></i>PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/common-and-rare-variant-analyses-combined-with-single-cell-multiomics-reveal-cell-type-specific-molecular-mechanisms-of-covid-19-severity/" >Common and rare variant analyses combined with single-cell multiomics reveal cell-type-specific molecular mechanisms of COVID-19 severity</a>
+    </div>
+
+    
+    <a href="/publication/common-and-rare-variant-analyses-combined-with-single-cell-multiomics-reveal-cell-type-specific-molecular-mechanisms-of-covid-19-severity/"  class="summary-link">
+      <div class="article-style">
+        The determinants of severe COVID-19 in non-elderly adults are poorly understood, which limits opportunities for early intervention and treatment. Here we present novel machine learning frameworks for identifying common and rare disease-associated genetic variation, which outperform conventional approaches. By integrating single-cell multiomics profiling of human lungs to link genetic signals to cell-type-specific functions, we have discovered and validated over 1,000 risk genes underlying severe COVID-19 across 19 cell types. Identified risk genes are overexpressed in healthy lungs but relatively downregulated in severely diseased lungs. Genetic risk for severe COVID-19, within both common and rare variants, is particularly enriched in natural killer (NK) cells, which places these immune cells upstream in the pathogenesis of severe disease. Mendelian randomization indicates that failed NKG2D-mediated activation of NK cells leads to critical illness. Network analysis further links multiple pathways associated with NK cell activation, including type-I-interferon-mediated signalling, to severe COVID-19. Our rare variant model, PULSE, enables sensitive prediction of severe disease in non-elderly patients based on whole-exome sequencing; individualized predictions are accurate independent of age and sex, and are consistent across multiple populations and cohorts. Risk stratification based on exome sequencing has the potential to facilitate post-exposure prophylaxis in at-risk individuals, potentially based around augmentation of NK cell function. Overall, our study characterizes a comprehensive genetic landscape of COVID-19 severity and …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Sai Zhang</span>, <span >
+      Johnathan Cooper-Knock</span>, <span >
+      Annika K Weimer</span>, <span >
+      Calum Harvey</span>, <span >
+      Thomas H Julian</span>, <span >
+      Cheng Wang</span>, <span >
+      Jingjing Li</span>, <span >
+      Simone Furini</span>, <span >
+      Elisa Frullanti</span>, <span >
+      Francesca Fava</span>, <span >
+      Alessandra Renieri</span>, <span >
+      Cuiping Pan</span>, <span >
+      Jina Song</span>, <span >
+      Paul Billing-Ross</span>, <span >
+      Dr. Peng Gao</span>, <span class="author-highlighted">
+      Xiaotao Shen</span>, <span >
+      Ilia Sarah Timpanaro</span>, <span >
+      Kevin P Kenna</span>, <span >
+      VA Million Veteran Program</span>, <span >
+      GEN-COVID Network</span>, <span >
+      Mark M Davis</span>, <span >
+      Philip S Tsao</span>, <span >
+      Michael P Snyder</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.medrxiv.org/content/10.1101/2021.06.15.21258703.abstract" target="_blank" rel="noopener">
+    <i class="fas fa-link mr-1"></i>Link</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/" >
+    <i class="fas fa-file-pdf mr-1"></i>PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/integration-and-comparison-of-multi-omics-profiles-of-ngly1-deficiency-plasma-and-cellular-models-to-identify-clinically-relevant-molecular-phenotypes/" >Integration and comparison of multi-omics profiles of NGLY1 deficiency plasma and cellular models to identify clinically relevant molecular phenotypes</a>
+    </div>
+
+    
+    <a href="/publication/integration-and-comparison-of-multi-omics-profiles-of-ngly1-deficiency-plasma-and-cellular-models-to-identify-clinically-relevant-molecular-phenotypes/"  class="summary-link">
+      <div class="article-style">
+        NGLY1 (N-glycanase 1) deficiency is a rare congenital recessive disorder caused by a mutation in the NGLY1 gene, which encodes the cytosol enzyme N-glycanase 1. The NGLY1 protein catalyzes the first step in protein deglycosylation, a process prerequisite for the cytosolic degradation of misfolded glycoproteins. By performing and combining metabolomics and proteomics profiles, we showed that NGLY1 deficiency induced the activation of immune response, disturbed lipid metabolism, biogenic amine synthesis and glutathione metabolism. The discovery was further validated by profiling of patient-derived induced pluripotent stem cells (iPSCs) and differentiated neural progenitor cells (NPCs), which serve as a personalized cellular model of the disease. This study provides new insights into the NGLY1 deficiency pathology and demonstrates that the upregulation of immune response and downregulation of lipid metabolism appear to be important molecular phenotypes of NGLY1 deficiency, together with the dysregulation of amino acid metabolism, biogenic amine synthesis and diverse signaling pathways, likely causing broad downstream syndromes. Collectively, such valuable multi-omics profiles identified broad molecular associations of potential pathological mechanisms during the onset of NGLY1 deficiency and suggested potential therapeutic targets for researchers and clinicians.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Dr. Songjie Chen</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      Guangwen Wang</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span class="author-highlighted">
+      Xiaotao Shen</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      Daniel Hornburg</span>, <span >
+      Rene Hoffman</span>, <span >
+      Stephanie Nevins</span>, <span >
+      Xun Cheng</span>, <span >
+      Prof. Michael Snyder</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.biorxiv.org/content/10.1101/2021.05.28.446235.abstract" target="_blank" rel="noopener">
+    <i class="fas fa-link mr-1"></i>Link</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/" >
+    <i class="fas fa-file-pdf mr-1"></i>PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/a-serum-metabolomics-analysis-reveals-a-panel-of-screening-metabolic-biomarkers-for-esophageal-squamous-cell-carcinoma/" >A serum metabolomics analysis reveals a panel of screening metabolic biomarkers for esophageal squamous cell carcinoma</a>
+    </div>
+
+    
+    <a href="/publication/a-serum-metabolomics-analysis-reveals-a-panel-of-screening-metabolic-biomarkers-for-esophageal-squamous-cell-carcinoma/"  class="summary-link">
+      <div class="article-style">
+        Dear Editor, Endoscopy with iodine staining was widely used for esophageal cancer (EC) screening in high-incidence area. 1, 2 Most endoscopy screening-positive population was found to develop esophageal epithelium lesion, and therefore endured higher risk for developing esophageal squamous cell carcinoma (ESCC) than normal population. 3, 4 However, endoscopic screening may be too costly and invasive for large-scale population, and non-invasive biomarkers may be more applicable and cost effective for population-based screening. 5, 6 In this population-based screening study, we aim to identify potential metabolic biomarkers for early screening of ESCC, and establish the optimal early ESCC screening model. Ultra-performance liquid chromatographyquadrupole time-of-flight mass spectrometry (UPLCQTOF/MS) was used to explore ESCC screening related metabolic biomarkers and profile …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Jiali Lv</span>, <span >
+      Jialin Wang</span>, <span class="author-highlighted">
+      Xiaotao Shen</span>, <span >
+      Jia Liu</span>, <span >
+      Deli Zhao</span>, <span >
+      Mengke Wei</span>, <span >
+      Xia Li</span>, <span >
+      Bingbing Fan</span>, <span >
+      Yawen Sun</span>, <span >
+      Fuzhong Xue</span>, <span >
+      Prof. Zheng-Jiang Zhu</span>, <span >
+      Tao Zhang</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8101533/" target="_blank" rel="noopener">
+    <i class="fas fa-link mr-1"></i>Link</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/" >
+    <i class="fas fa-file-pdf mr-1"></i>PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+  
+
+  
+
+  
+<nav class="mt-1">
+  <ul class="pagination justify-content-center">
+    
+    
+    <li class="page-item"><a class="page-link" href="/publication-type/1/page/2/">&raquo;</a></li>
+    
+  </ul>
+</nav>
+
+
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+  <hr>
+
+    <div style="display: flex; justify-content: space-between; padding: 20px;">
+          
+ <div style="flex: 1;">
+            </div>
+            
+    
+            <div style="flex: 1;">
+  <p style="text-align:left;">
+    Find me here:
+    <br>
+    <i class="fa-brands fa-github"></i> <a href="https://github.com/jaspershen" target="_blank" rel="noopener">GitHub</a>
+<br>
+        <i class="fa-brands fa-weixin"></i> <a href="https://jaspershen.github.io/image/wechat_QR.jpg" target="_blank" rel="noopener">WeChat</a>
+
+    <br>
+        <i class="fa-brands fa-twitter"></i> <a href="https://twitter.com/xiaotaoshen1990" target="_blank" rel="noopener">Twitter</a>
+        
+   <br>
+        <i class="fa-solid fa-envelope"></i> <a href="https://jaspershen.github.io/#contact" target="_blank" rel="noopener">Email</a>  
+        
+        <br>
+<i class="fa-solid fa-location-dot"></i> Address: <a href="https://goo.gl/maps/jSKXmNMoj1s97uQGA" target="_blank" rel="noopener">3165 Porter Drive, Palo Alto, CA 94304</a>
+   
+    </p>
+            </div>
+            
+    
+            <div style="flex: 1;">
+            </div>
+            
+    
+            <div style="flex: 1;">
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=JT2XXgnycJgenT-4ZZU1PN5kgZyfbTe09p1NfUuhot4"></script>
+            </div>
+            
+    
+            <div style="flex: 1;">
+            </div>
+    
+        </div>
+        
+      <hr>
+
+      
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+<p class="powered-by">
+  
+  <a href="/privacy/">Privacy Policy</a>
+  
+  
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2015-2023 Xiaotao Shen
+  </p>
+  
+
+
+
+
+  
+  
+</footer>
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.f64289d8217e08e3afcd597d60836062.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+  <script id="dsq-count-scr" src="https://blog-at8qrhng8b.disqus.com/count.js" async></script>
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.3322c0d94f0e691b0b24c63f4c41064b.js"></script>
+
+
+
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,1410 @@
+<!DOCTYPE html>
+<!-- This site was created with Wowchemy. https://www.wowchemy.com -->
+<!-- Last Published: December 1, 2024 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.7.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Limelight&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Limelight&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.047268c6dd09ad74ba54a0ba71837064.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.2/css/academicons.min.css" integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.32adf6caec2636fbffa38b806a1f105e.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143314205-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-143314205-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Xiaotao Shen" />
+
+
+
+
+
+  
+
+<meta name="description" content="颜色是数据可视化中非常重要的一个元素，它可以传达信息，引起注意，增强美感，甚至影响情绪。但是，如何选择合适的颜色方案呢？有没有一种科学的方法，可以帮助我们在众多的颜色中找到最佳的组合呢?" />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://jaspershen.github.io/post/2023-07-19-colorspace/" />
+<link rel="canonical" href="https://jaspershen.github.io/post/2023-07-19-colorspace/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu805a85e690e4f2727bf7d5f685d888f7_86836_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu805a85e690e4f2727bf7d5f685d888f7_86836_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#007C48" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+
+  <meta property="twitter:site" content="@wowchemy" />
+  <meta property="twitter:creator" content="@wowchemy" />
+<meta property="twitter:image" content="https://jaspershen.github.io/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_300x300_fit_lanczos_3.png" />
+<meta property="og:site_name" content="Xiaotao Shen" />
+<meta property="og:url" content="https://jaspershen.github.io/post/2023-07-19-colorspace/" />
+<meta property="og:title" content="如何使用colorspace包选择合适的颜色方案 | Xiaotao Shen" />
+<meta property="og:description" content="颜色是数据可视化中非常重要的一个元素，它可以传达信息，引起注意，增强美感，甚至影响情绪。但是，如何选择合适的颜色方案呢？有没有一种科学的方法，可以帮助我们在众多的颜色中找到最佳的组合呢?" /><meta property="og:image" content="https://jaspershen.github.io/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2023-07-19T21:13:14-05:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2024-07-01T21:40:55&#43;08:00">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>如何使用colorspace包选择合适的颜色方案 | Xiaotao Shen</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="95531f42671b35b1c3630a91aa879b04" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.c51bb6301bb2be5edd35b3630c50ed3a.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/"><img src="/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_0x70_resize_lanczos_3.png" alt="Xiaotao Shen"
+            
+            ></a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/"><img src="/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_0x70_resize_lanczos_3.png" alt="Xiaotao Shen"
+          
+          ></a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>HOME</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/#about"><span>ABOUT</span></a>
+              
+                <a class="dropdown-item" href="/#experience"><span>EXPERIENCE</span></a>
+              
+                <a class="dropdown-item" href="/#awards"><span>AWARDS</span></a>
+              
+                <a class="dropdown-item" href="/#academic_service"><span>ACADEMIC SERVICE</span></a>
+              
+                <a class="dropdown-item" href="/#contact"><span>CONTACT</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication/"><span>PUBLICATIONS</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/project/"><span>PROJECTS</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/talks/"><span>TALKS</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link  active" href="/post/"><span>BLOG</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+            
+            <li class="nav-item d-none d-lg-inline-flex">
+              <a class="nav-link" href="https://github.com/jaspershen" target="_blank" rel="noopener" aria-label="github">
+                <i class="fab fa-github" aria-hidden="true"></i>
+              </a>
+            </li>
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    
+
+
+
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      <form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-md-3 w-100" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <div class="d-flex">
+      <span class="d-md-none pl-1 flex-grow-1 text-left overflow-hidden">
+        
+        
+          Posts
+        
+      </span>
+      <span><i class="fas fa-chevron-down"></i></span>
+    </div>
+  </button>
+
+  
+  <button class="form-control sidebar-search js-search d-none d-md-flex">
+    <i class="fas fa-search pr-2"></i>
+    <span class="sidebar-search-text">Search...</span>
+    <span class="sidebar-search-shortcut">/</span>
+  </button>
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+  
+  
+  
+  
+  
+
+  
+  
+    
+
+    
+      
+
+      <ul class="nav docs-sidenav">
+        <li><a href="/post/"><i class="fas fa-arrow-left pr-1"></i>Posts</a></li>
+      </ul>
+
+      
+      
+
+
+  <li class="active"><a href="/post/2023-07-19-colorspace/">如何使用colorspace包选择合适的颜色方案</a></li>
+
+    
+  
+</nav>
+
+    </div>
+
+    
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#加载colorspace包">加载colorspace包</a></li>
+    <li><a href="#查看预定义的颜色方案">查看预定义的颜色方案</a></li>
+    <li><a href="#使用交互式图形用户界面">使用交互式图形用户界面</a></li>
+    <li><a href="#对颜色进行操作和评估">对颜色进行操作和评估</a></li>
+    <li><a href="#总结">总结</a></li>
+  </ul>
+</nav>
+
+      
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <div class="docs-article-container">
+        
+      </div>
+
+      
+      
+      
+
+      <div class="docs-article-container">
+        
+        <h1>如何使用colorspace包选择合适的颜色方案</h1>
+
+        <article class="article-style">
+
+          
+          
+
+          <p>颜色是数据可视化中非常重要的一个元素，它可以传达信息，引起注意，增强美感，甚至影响情绪。但是，如何选择合适的颜色方案呢？有没有一种科学的方法，可以帮助我们在众多的颜色中找到最佳的组合呢？</p>
+<p>答案是有的，那就是colorspace包。colorspace包是一个R语言的扩展包，它提供了一系列的函数和工具，可以让我们在不同的颜色空间中进行颜色的转换，选择，操作和评估。colorspace包基于HCL（色相-色度-亮度）颜色模型，这是一种基于人类视觉感知的颜色表示方法，比RGB（红-绿-蓝）或CMYK（青-品红-黄-黑）等常见的颜色模型更加直观和灵活。</p>
+<p>colorspace包的主要功能有：</p>
+<ul>
+<li>提供了多种预定义的颜色方案，包括连续型（sequential），发散型（diverging）和定性型（qualitative）三种类型，可以根据数据的特点和目的进行选择。</li>
+<li>提供了一个交互式的图形用户界面（GUI），可以在RStudio中或网页浏览器中打开，可以实时地查看和调整不同的颜色方案，并生成相应的R代码。</li>
+<li>提供了一些函数和方法，可以对颜色进行转换，混合，插值，排序，分组等操作，并评估颜色方案的可视化效果和可辨识度。</li>
+</ul>
+<p>下面我们来看一些colorspace包的使用示例：</p>
+<h2 id="加载colorspace包">加载colorspace包</h2>
+<p>首先，我们需要安装并加载colorspace包。如果你还没有安装过colorspace包，可以运行以下代码：</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="nf">install.packages</span><span class="p">(</span><span class="s">&#34;colorspace&#34;</span><span class="p">)</span>
+</span></span></code></pre></div><p>然后，我们可以用library函数加载colorspace包：</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">colorspace</span><span class="p">)</span>
+</span></span></code></pre></div><h2 id="查看预定义的颜色方案">查看预定义的颜色方案</h2>
+<p>colorspace包提供了多种预定义的颜色方案，我们可以用hcl_palettes函数查看它们：</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="nf">hcl_palettes</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl"><span class="c1">## HCL palettes</span>
+</span></span><span class="line"><span class="cl"><span class="c1">## </span>
+</span></span><span class="line"><span class="cl"><span class="c1">## Type:  Qualitative </span>
+</span></span><span class="line"><span class="cl"><span class="c1">## Names: Pastel 1, Dark 2, Dark 3, Set 2, Set 3, Warm, Cold, Harmonic, Dynamic</span>
+</span></span><span class="line"><span class="cl"><span class="c1">## </span>
+</span></span><span class="line"><span class="cl"><span class="c1">## Type:  Sequential (single-hue) </span>
+</span></span><span class="line"><span class="cl"><span class="c1">## Names: Grays, Light Grays, Blues 2, Blues 3, Purples 2, Purples 3, Reds 2,</span>
+</span></span><span class="line"><span class="cl"><span class="c1">##        Reds 3, Greens 2, Greens 3, Oslo</span>
+</span></span><span class="line"><span class="cl"><span class="c1">## </span>
+</span></span><span class="line"><span class="cl"><span class="c1">## Type:  Sequential (multi-hue) </span>
+</span></span><span class="line"><span class="cl"><span class="c1">## Names: Purple-Blue, Red-Purple, Red-Blue, Purple-Orange, Purple-Yellow,</span>
+</span></span><span class="line"><span class="cl"><span class="c1">##        Blue-Yellow, Green-Yellow, Red-Yellow, Heat, Heat 2, Terrain,</span>
+</span></span><span class="line"><span class="cl"><span class="c1">##        Terrain 2, Viridis, Plasma, Inferno, Rocket, Mako, Dark Mint,</span>
+</span></span><span class="line"><span class="cl"><span class="c1">##        Mint, BluGrn, Teal, TealGrn, Emrld, BluYl, ag_GrnYl, Peach,</span>
+</span></span><span class="line"><span class="cl"><span class="c1">##        PinkYl, Burg, BurgYl, RedOr, OrYel, Purp, PurpOr, Sunset,</span>
+</span></span><span class="line"><span class="cl"><span class="c1">##        Magenta, SunsetDark, ag_Sunset, BrwnYl, YlOrRd, YlOrBr, OrRd,</span>
+</span></span><span class="line"><span class="cl"><span class="c1">##        Oranges, YlGn, YlGnBu, Reds, RdPu, PuRd, Purples, PuBuGn, PuBu,</span>
+</span></span><span class="line"><span class="cl"><span class="c1">##        Greens, BuGn, GnBu, BuPu, Blues, Lajolla, Turku, Hawaii, Batlow</span>
+</span></span><span class="line"><span class="cl"><span class="c1">## </span>
+</span></span><span class="line"><span class="cl"><span class="c1">## Type:  Diverging </span>
+</span></span><span class="line"><span class="cl"><span class="c1">## Names: Blue-Red, Blue-Red 2, Blue-Red 3, Red-Green, Purple-Green,</span>
+</span></span><span class="line"><span class="cl"><span class="c1">##        Purple-Brown, Green-Brown, Blue-Yellow 2, Blue-Yellow 3,</span>
+</span></span><span class="line"><span class="cl"><span class="c1">##        Green-Orange, Cyan-Magenta, Tropic, Broc, Cork, Vik, Berlin,</span>
+</span></span><span class="line"><span class="cl"><span class="c1">##        Lisbon, Tofino</span>
+</span></span></code></pre></div><p>这个函数会返回一个列表，每个元素是一个颜色方案的名称和描述。例如：</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="o">$</span><span class="n">`Diverging`</span>
+</span></span><span class="line"><span class="cl"><span class="n">[1]</span> <span class="s">&#34;Diverging HCL palettes from diverge_hcl&#34;</span>
+</span></span></code></pre></div><p>我们可以看到，有一个叫做Diverging的颜色方案，它是由diverge_hcl函数生成的。我们可以用这个函数来创建一个发散型的颜色方案，例如：</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="nf">diverge_hcl</span><span class="p">(</span><span class="m">7</span><span class="p">,</span> <span class="n">h</span> <span class="o">=</span> <span class="nf">c</span><span class="p">(</span><span class="m">246</span><span class="p">,</span> <span class="m">40</span><span class="p">),</span> <span class="n">c</span> <span class="o">=</span> <span class="m">96</span><span class="p">,</span> <span class="n">l</span> <span class="o">=</span> <span class="nf">c</span><span class="p">(</span><span class="m">65</span><span class="p">,</span> <span class="m">90</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl"><span class="c1">## [1] &#34;#1FA4FF&#34; &#34;#97BFF3&#34; &#34;#CAD6E9&#34; &#34;#E2E2E2&#34; &#34;#E7D1C5&#34; &#34;#E9B18B&#34; &#34;#E28912&#34;</span>
+</span></span></code></pre></div><p>这个函数会返回一个长度为7的向量，每个元素是一个十六进制的颜色代码。我们可以用plot函数来查看这个颜色方案：</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="n">scales</span><span class="o">::</span><span class="nf">show_col</span><span class="p">(</span><span class="nf">diverge_hcl</span><span class="p">(</span><span class="m">7</span><span class="p">,</span> <span class="n">h</span> <span class="o">=</span> <span class="nf">c</span><span class="p">(</span><span class="m">246</span><span class="p">,</span> <span class="m">40</span><span class="p">),</span> <span class="n">c</span> <span class="o">=</span> <span class="m">96</span><span class="p">,</span> <span class="n">l</span> <span class="o">=</span> <span class="nf">c</span><span class="p">(</span><span class="m">65</span><span class="p">,</span> <span class="m">90</span><span class="p">)))</span>
+</span></span></code></pre></div><img src="https://jaspershen.github.io/post/2023-07-19-colorspace/index.en_files/figure-html/unnamed-chunk-5-1.png" width="672" />
+<p>我们可以看到，这个颜色方案是由蓝色和红色组成的，中间有一个白色。这种类型的颜色方案适合用来表示数据中存在两个极端或对立的情况。</p>
+<p>类似地，我们可以用其他函数来创建不同类型的颜色方案，例如sequential_hcl, qualitative_hcl等。具体的参数和用法可以参考colorspace包的文档。</p>
+<h2 id="使用交互式图形用户界面">使用交互式图形用户界面</h2>
+<p>colorspace包还提供了一个交互式的图形用户界面，可以让我们在RStudio中或网页浏览器中打开，可以实时地查看和调整不同的颜色方案，并生成相应的R代码。我们可以用choose_palette函数来启动这个界面：</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="nf">choose_palette</span><span class="p">()</span>
+</span></span></code></pre></div><p>这个函数会打开一个新的窗口，如下图所示：</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://files.mdnice.com/user/20138/c1c392cf-7d00-4b31-a47d-e1b4085e8f1a.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>我们可以在左侧的菜单中选择不同的颜色方案类型，例如Sequential, Diverging, Qualitative等。然后，我们可以在右侧的滑动条中调整颜色方案的参数，例如色相，色度，亮度，数量等。我们还可以在下方的选项中选择是否显示颜色名称，是否反转颜色顺序，是否显示颜色条等。我们可以看到，随着我们的调整，中间的图形会实时地更新，显示当前的颜色方案。我们还可以在右下角看到生成这个颜色方案的R代码，方便我们复制和使用。</p>
+<p>这个交互式图形用户界面是一个非常方便和有趣的工具，可以让我们快速地找到合适的颜色方案，并进行微调和优化。</p>
+<h2 id="对颜色进行操作和评估">对颜色进行操作和评估</h2>
+<p>colorspace包还提供了一些函数和方法，可以对颜色进行转换，混合，插值，排序，分组等操作，并评估颜色方案的可视化效果和可辨识度。例如：</p>
+<ul>
+<li>我们可以用hcl函数将RGB颜色转换为HCL颜色，或者用rgb函数将HCL颜色转换为RGB颜色。</li>
+<li>我们可以用mixcolor函数将两种或多种颜色进行混合，得到一个新的颜色。</li>
+<li>我们可以用specplot函数将一个颜色方案在不同的颜色空间中进行可视化，比较它们的差异和特点。</li>
+<li>我们可以用desaturate函数将一个颜色方案变得更加灰暗，或者用lighten函数将一个颜色方案变得更加明亮。</li>
+<li>我们可以用rainbow_hcl函数生成一个类似彩虹的连续型颜色方案，或者用heat_hcl函数生成一个类似热力图的连续型颜色方案。</li>
+<li>我们可以用emulateColorBlindness函数模拟不同类型的色盲对颜色方案的感知，评估它们的可辨识度。</li>
+</ul>
+<p>这些函数和方法都有详细的文档和示例，可以帮助我们更好地理解和使用colorspace包。</p>
+<h2 id="总结">总结</h2>
+<p>colorspace包是一个非常强大和实用的R语言扩展包，它可以让我们在不同的颜色空间中进行颜色的转换，选择，操作和评估。colorspace包基于HCL（色相-色度-亮度）颜色模型，这是一种基于人类视觉感知的颜色表示方法，比RGB（红-绿-蓝）或CMYK（青-品红-黄-黑）等常见的颜色模型更加直观和灵活。colorspace包提供了多种预定义的颜色方案，包括连续型（sequential），发散型（diverging）和定性型（qualitative）三种类型，可以根据数据的特点和目的进行选择。colorspace包还提供了一个交互式的图形用户界面（GUI），可以在RStudio中或网页浏览器中打开，可以实时地查看和调整不同的颜色方案，并生成相应的R代码。</p>
+
+
+        </article>
+
+        
+
+
+
+<style>
+  .btn-feedback {
+    display: inline-block;
+  }
+  .btn-feedback-negative {
+    margin-left: 1em;
+  }
+  .feedback--response {
+    display: none;
+    margin-top: 1em;
+  }
+  .feedback--response__visible {
+    display: block;
+  }
+</style>
+<div class="d-print-none widget--feedback">
+  <h2 class="feedback--title">Feedback</h2>
+  <p class="feedback--question">Was this page helpful?</p>
+  <p class="feedback--response feedback--response-positive">
+    🙏
+  </p>
+  <p class="feedback--response feedback--response-negative">
+    🙏
+  </p>
+  <button class="btn btn-primary mb-4 btn-feedback btn-feedback-positive">
+    😍 Yes
+  </button>
+  <button class="btn btn-primary mb-4 btn-feedback btn-feedback-negative">
+    😡 No
+  </button>
+</div>
+<script>
+  const btnYes = document.querySelector('.btn-feedback-positive');
+  const btnNo = document.querySelector('.btn-feedback-negative');
+  const responseYes = document.querySelector('.feedback--response-positive');
+  const responseNo = document.querySelector('.feedback--response-negative');
+  const disableButtons = () => {
+    btnYes.disabled = true;
+    btnNo.disabled = true;
+  };
+  const sendFeedback = (value) => {
+    if (typeof gtag !== 'function') return;
+    gtag('event', 'click', {
+      'event_category': 'page_rating',
+      'event_label': window.location.pathname,
+      'value': value,
+      'transport_type': 'beacon',
+      'event_callback': function () {
+        console.debug(`✅ Feedback sent ${value}`);
+      }
+    });
+  };
+  btnYes.addEventListener('click', () => {
+    console.debug('Feedback response: 😍');
+    responseYes.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(1);
+  });
+  btnNo.addEventListener('click', () => {
+    console.debug('Feedback response: 😡');
+    responseNo.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(0);
+  });
+</script>
+
+
+
+        
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/r-package/">R package</a>
+  
+  <a class="badge badge-light" href="/tag/paper/">Paper</a>
+  
+</div>
+
+
+
+        
+        
+        <div class="article-widget">
+          
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Previous</div>
+    <a href="/post/2023-07-19-tidytof/" rel="next">tidytof:一种可扩展和可重现的高维细胞数据分析的整洁框架</a>
+  </div>
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Next</div>
+    <a href="/post/2022-10-23-shen-blog-instruction/" rel="prev">How to update shen personal website</a>
+  </div>
+  
+</div>
+
+        </div>
+        
+      </div>
+
+      <div class="body-footer">
+        <p>Last updated on Jul 1, 2024</p>
+
+        
+
+
+
+
+
+
+  
+
+<p class="edit-page">
+  <a href="https://github.com/jaspershen/jaspershen-website/edit/main/content/post/2023-07-19-colorspace/index.en.md">
+    <i class="fas fa-pen pr-2"></i>Edit this page
+  </a>
+</p>
+
+
+
+        
+
+
+  
+  
+  
+
+  
+
+  
+  <section id="comments">
+    
+<div id="disqus_thread"></div>
+<script>
+  var disqus_config = function () {
+    
+    
+    
+  };
+  (function() {
+    if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+      document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+      return;
+    }
+    var d = document, s = d.createElement('script'); s.async = true;
+    s.src = 'https://' + "blog-at8qrhng8b" + '.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+  </section>
+  
+
+
+
+        
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/post/2023-07-19-tidytof/">tidytof:一种可扩展和可重现的高维细胞数据分析的整洁框架</a></li>
+      
+      <li><a href="/post/2023-09-14-ipop-lipidomics/">脂质组学研究揭示健康、疾病和衰老过程中的动态变化</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+      </div>
+
+      <footer class="site-footer">
+  <hr>
+
+    <div style="display: flex; justify-content: space-between; padding: 20px;">
+          
+ <div style="flex: 1;">
+            </div>
+            
+    
+            <div style="flex: 1;">
+  <p style="text-align:left;">
+    Find me here
+    <br>
+    <i class="fa-brands fa-github"></i> <a href="https://github.com/jaspershen" target="_blank" rel="noopener">GitHub</a>
+<br>
+        <i class="fa-brands fa-weixin"></i> <a href="https://jaspershen.github.io/image/wechat_QR.jpg" target="_blank" rel="noopener">WeChat</a>
+
+    <br>
+        <i class="fa-brands fa-twitter"></i> <a href="https://twitter.com/xiaotaoshen1990" target="_blank" rel="noopener">Twitter</a>
+        
+   <br>
+        <i class="fa-solid fa-envelope"></i> <a href="https://jaspershen.github.io/#contact" target="_blank" rel="noopener">Email</a>  
+        
+        <br>
+<i class="fa-solid fa-location-dot"></i> Address: <a href="https://goo.gl/maps/jSKXmNMoj1s97uQGA" target="_blank" rel="noopener">59 Nanyang Dr, Singapore 636921</a>
+   
+    </p>
+            </div>
+            
+    
+            <div style="flex: 1;">
+            </div>
+            
+    
+            <div style="flex: 1;">
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=JT2XXgnycJgenT-4ZZU1PN5kgZyfbTe09p1NfUuhot4"></script>
+            </div>
+            
+    
+            <div style="flex: 1;">
+            </div>
+    
+        </div>
+        
+      <hr>
+
+      
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+<p class="powered-by">
+  
+  <a href="/privacy/">Privacy Policy</a>
+  
+  
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2015-2024 Xiaotao Shen
+  </p>
+  
+
+
+
+
+  
+  
+</footer>
+
+    </main>
+  </div>
+</div>
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.f64289d8217e08e3afcd597d60836062.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/anchor-js@5.0.0/anchor.min.js" integrity="sha256-aQmOEF2ZD4NM/xt4hthzREIo/2PFkOX/g01WjxEV7Ys=" crossorigin="anonymous"></script>
+<script>
+  anchors.add();
+</script>
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+  <script id="dsq-count-scr" src="https://blog-at8qrhng8b.disqus.com/count.js" async></script>
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":false}</script>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.3322c0d94f0e691b0b24c63f4c41064b.js"></script>
+
+
+
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

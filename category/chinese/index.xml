@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chinese | Xiaotao Shen</title>
+    <link>https://jaspershen.github.io/category/chinese/</link>
+      <atom:link href="https://jaspershen.github.io/category/chinese/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chinese</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaspershen.github.io/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_300x300_fit_lanczos_3.png</url>
+      <title>Chinese</title>
+      <link>https://jaspershen.github.io/category/chinese/</link>
+    </image>
+    
+    <item>
+      <title>脂质组学研究揭示健康、疾病和衰老过程中的动态变化</title>
+      <link>https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;分享一篇文章。是最近刚发表的.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1038/s42255-023-00880-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s42255-023-00880-1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2023-09-14-ipop-lipidomics/figure1_hu3b82dfaed5e9027a578a9a59c63878fa_239257_bba253659668a91875c4d4545e595cd2.webp 400w,
+               /post/2023-09-14-ipop-lipidomics/figure1_hu3b82dfaed5e9027a578a9a59c63878fa_239257_c17933719d66407fd8b17328eea9b8b3.webp 760w,
+               /post/2023-09-14-ipop-lipidomics/figure1_hu3b82dfaed5e9027a578a9a59c63878fa_239257_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure1_hu3b82dfaed5e9027a578a9a59c63878fa_239257_bba253659668a91875c4d4545e595cd2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;371&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;简介&#34;&gt;简介&lt;/h1&gt;
+&lt;p&gt;人体内存在两大类脂质:内源性脂质和外源性脂质。它们参与了细胞结构的维持、能量管理和细胞信号转导等多种生物学功能。然而,由于脂质的化学多样性,脂质组至今仍然是一个难以完全理解的复杂系统。&lt;/p&gt;
+&lt;p&gt;斯坦福大学Snyder实验室采用了定量脂质组学技术,对112名志愿者9年内共1539份血浆样本进行了纵向脂质组学检测。样本收集频率从每3个月1次,在患病期间增加至每周3-7次。他们不仅检测了800多个脂质物种,更重要的是研究了这些脂质同时测定的细胞因子和代谢指标之间的动态关联,揭示了脂质在健康与疾病过渡中的作用。&lt;/p&gt;
+&lt;p&gt;脂质是构成代谢组的一个重要且高度多样的分子家族,由于其广泛的理化性质及较少的脂质组学研究数量,脂质一直是难以完全认识的。&lt;/p&gt;
+&lt;p&gt;复杂脂质可细分为几个类别和亚类别,它们通过脂质头基团和连接不同脂肪酰基链而区分。例如甘油三酰脂(TAG)、二酰甘油(DAG)、磷脂酰胆碱(PC)、磷脂酰乙醇胺(PE)、神经酰胺(CER)、鞘氨醇(SM)和胆固醇酯(CE),每个都由特定的骨架结构连接不同的脂肪酸(FA)组成。连接的FA可在不饱和键数目和部位上有所不同;FA与骨架一起赋予脂质独特的理化性质和生理功能。脂质参与并调节许多关键功能,包括氧化还原稳态、能量储存、胞内和胞外信号转导、诱导和解决炎症等。&lt;/p&gt;
+&lt;p&gt;尽管脂质在维持人体稳态中发挥着关键作用,但不同脂质种类或类别对诱发急性炎症(如呼吸道病毒感染)的扰动响应各异,并在与慢性炎症相关的代谢性疾病(如2型糖尿病)和生理过程(如衰老)调节中可能发挥作用。鉴于脂质的多样作用,深入理解脂质在个体间的定量差异及其在不同表型中的动态变化,对特征化其在健康和疾病中的潜在作用至关重要。&lt;/p&gt;
+&lt;p&gt;在此,我们采用允许快速、定量和严格测定广泛脂质类型的质谱法,研究了100多名志愿者最长9年的血浆脂质组动态变化,覆盖了他们的健康和疾病时期。我们确定脂质档案与微生物组、衰老及不同临床病理生理学(包括胰岛素耐受和慢性与急性炎症)之间存在显著关联。我们的结果为人类不同代谢健康状态中的关键脂质和脂质亚类之间的关联提供了宝贵的见解,并为科学界提供了一个独特的资源。&lt;/p&gt;
+&lt;h1 id=&#34;研究内容&#34;&gt;研究内容&lt;/h1&gt;
+&lt;h2 id=&#34;纵向深度脂质组检测&#34;&gt;纵向深度脂质组检测&lt;/h2&gt;
+&lt;p&gt;从一个胰岛素敏感和胰岛素耐受的队列中,我们之前收集了超过1000个不同时间点的纵向分子数据,包括基因组、转录组、蛋白组、代谢组和16S微生物组数据。在此队列中,我们在健康和疾病时期研究了各种分子特征,并确定了与代谢、心血管和肿瘤病理生理学相关的数百条分子通路。在这里,我们研究了一个在很大程度上未被探索的分子层——“血浆脂质组”,并将纵向跟踪时间延长了2年,以获得总共1539个样本。&lt;/p&gt;
+&lt;p&gt;为了研究与健康状态和生活方式改变相关的脂质组变化,对112名参与者的血浆样本进行了脂质组分析,中位数为10个时间点,跨越2-9年(平均3.2年)。当参与者健康时,样本每3个月收集一次;在患病期间,收集频率增加到每周3-7次。除脂质检测外,我们还在每个取样时间点收集了50项临床实验室指标以及医疗记录。最后,由于样本是在压力和疾病期间收集的,我们还检测了62种细胞因子、趋化因子和生长因子。&lt;/p&gt;
+&lt;p&gt;采用高通量定量脂质组学流程进行人体脂质组特征化。该流程包含串联三重四极杆质谱仪和差分迁移率分离装置,能识别和稳健定量超过1000种跨16个亚类的脂质种类。我们观察到跨4个数量级的丰度分布,每个脂质亚类有明显的中位数和动态范围。甘油三酰脂和鞘氨醇的变异程度最小但丰度最高,而其它种类如LPC和CE则动态范围更大。&lt;/p&gt;
+&lt;p&gt;我们证实该技术具有高重现性。与生物样本相比,104个质控样本聚类明显不同;质控样本的中值系数变异(CV)较低(6.5-20.7%)。为确保分析的可靠性,我们关注736种脂质,其中质控CV &amp;lt; 20%,且生物样本CV大于质控CV。除游离脂肪酸外,所有类别的个体内变异均明显低于个体间变异,表明个体脂质特征在几个月到几年的时间尺度上是稳定的。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2023-09-14-ipop-lipidomics/figure2_hue763d5679199599d941852c31e3908ff_571170_77206ee71f3aa2384103008e4490a8f5.webp 400w,
+               /post/2023-09-14-ipop-lipidomics/figure2_hue763d5679199599d941852c31e3908ff_571170_e2b18a7a4d4e232e4519eaceac0f4042.webp 760w,
+               /post/2023-09-14-ipop-lipidomics/figure2_hue763d5679199599d941852c31e3908ff_571170_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure2_hue763d5679199599d941852c31e3908ff_571170_77206ee71f3aa2384103008e4490a8f5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;666&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;健康基线脂质组高度个体特异性&#34;&gt;健康基线脂质组高度个体特异性&lt;/h2&gt;
+&lt;p&gt;我们首先通过对96名参与者贡献的802份“健康”基线样本进行脂质组成分析,来研究个体间的脂质丰度差异。对于贡献了10次以上健康样本的11名参与者,我们进行了t-SNE分析,基于最个性化的100种脂质。样本主要根据个体进行聚类,说明一些脂质即使在多年内也能形成个体化的特征。&lt;/p&gt;
+&lt;p&gt;我们进一步使用WGCNA,根据健康基线样本中的脂质相似性将其分为7个模块,并与50项临床指标进行关联分析。我们观察到M1和M5(富集胆固醇酯和神经酰胺以及大中小甘油三酰脂)与2型糖尿病(高血糖、胰岛素)和炎症(C反应蛋白、白细胞)呈正相关,与HDL胆固醇呈负相关。M7含有一些游离脂肪酸和LPC,与更低的C反应蛋白和血糖相关。M3富集含醚键的PE,与更高的HDL和更低的胰岛素相关,代表更健康的特征。&lt;/p&gt;
+&lt;p&gt;此外,脂质与微生物组之间也存在负相关。这些微生物对胰岛素敏感个体更丰富,提示与宿主脂质代谢有益的关系。最后,我们还通过异常值分析鉴定了与潜在疾病(如脂肪肝)相关的异常高或低的脂质表达模式。总体而言,这些结果表明许多脂质亚类与健康状态相关,可作为生物标志物用于评估健康。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2023-09-14-ipop-lipidomics/figure3_hud1f8f7c4ff6a2f833d159b804e4ce870_457729_5a580db79f79a3302a026f58638f26cb.webp 400w,
+               /post/2023-09-14-ipop-lipidomics/figure3_hud1f8f7c4ff6a2f833d159b804e4ce870_457729_3d77d04ec96ae68e22ad4f94967bb6d7.webp 760w,
+               /post/2023-09-14-ipop-lipidomics/figure3_hud1f8f7c4ff6a2f833d159b804e4ce870_457729_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure3_hud1f8f7c4ff6a2f833d159b804e4ce870_457729_5a580db79f79a3302a026f58638f26cb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;410&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;胰岛素耐受个体的全局脂质组异常&#34;&gt;胰岛素耐受个体的全局脂质组异常&lt;/h2&gt;
+&lt;p&gt;由于许多临床指标与特定脂质亚类相关,我们进一步研究了慢性代谢疾病胰岛素耐受如何影响脂质组。胰岛素耐受通常出现在2型糖尿病中,肌细胞和脂肪细胞对胰岛素反应迟钝,导致血糖升高。它常与慢性炎症以及代谢综合征相关,包括脂质异常,并可能导致非酒精性脂肪肝。阐明胰岛素耐受中脂质网络的扰动对了解代谢紊乱的分子机制和预后非常重要。&lt;/p&gt;
+&lt;p&gt;通过稳态血浆葡萄糖水平可诊断胰岛素敏感/耐受。我们对69名参与者进行了测定,其中36名和33名被归类为胰岛素耐受和敏感。通过回归分析(控制年龄、性别、种族和基线BMI),我们观察到跨大多数脂质亚类,424种脂质与稳态血浆葡萄糖水平显著相关。与胰岛素敏感组相比,胰岛素耐受组甘油三酰脂、二酰甘油、神经酰胺增加,这与我们之前的癫痫和文献报道一致,也支持这些脂质用于区分胰岛素耐受/敏感。此外,我们新发现含醚键的PE(PE-P)与更低稳态血浆葡萄糖相关。PE-P参与细胞信号转导和抗氧化,提示与胰岛素耐受相关的炎症及PE介导的氧化应激之间可能存在联系。&lt;/p&gt;
+&lt;p&gt;我们还研究了胰岛素耐受/敏感状态如何影响脂质与临床指标之间的关联。我们观察到显著的效应大小差异和相关方向差异,涉及代谢、免疫和血液等方面。例如,在胰岛素耐受组LDL/HDL比率与PE-P/PE-O和LPE呈相反的相关。总体而言,这表明根据胰岛素耐受/敏感状态,脂质与临床指标之间的关联可能发生显著变化,参与能量调节、细胞信号转导和免疫稳态的关键脂质在胰岛素耐受中存在广泛紊乱。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2023-09-14-ipop-lipidomics/figure4_hu7b2e93df270c941af5b5ec72ce4177a1_571427_f04101e296707f04101bfd4f947ead2c.webp 400w,
+               /post/2023-09-14-ipop-lipidomics/figure4_hu7b2e93df270c941af5b5ec72ce4177a1_571427_dd1aca0f01b3ca96271f5ebfc43dfddd.webp 760w,
+               /post/2023-09-14-ipop-lipidomics/figure4_hu7b2e93df270c941af5b5ec72ce4177a1_571427_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure4_hu7b2e93df270c941af5b5ec72ce4177a1_571427_f04101e296707f04101bfd4f947ead2c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;567&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;呼吸道病毒感染期间的动态脂质组变化&#34;&gt;呼吸道病毒感染期间的动态脂质组变化&lt;/h2&gt;
+&lt;p&gt;除了在慢性炎症和代谢条件(如胰岛素耐受)中的作用外,复杂脂质也是急性炎症反应的关键介质,例如通过释放花生四烯酸。因此,在呼吸道病毒感染和可能的疫苗接种过程中,复杂脂质可能会发生改变、释放和激活,并可能以与胰岛素耐受相关的方式参与这些过程。&lt;/p&gt;
+&lt;p&gt;36名参与者在72次不同的呼吸道病毒感染过程中和24名参与者在44次疫苗接种后进行了密集采样。我们将长期收集的样本分为急性期(1-6天)、后期(7-14天)和恢复期(3-5周)。通过线性模型,我们确定210种脂质在呼吸道病毒感染期间显著改变,包括甘油三酰脂、磷脂、鞘氨醇和LPC等。代表急性感染所需的能量转移,小分子甘油三酰脂和游离脂肪酸在早期快速减少后迅速恢复。含醚键的PE和LPC在早中期减少可能增加炎症状态和/或被用于清除自由基。这表明不同的关键脂质亚类在病毒生物学和免疫应答中可能发挥重要作用,并在呼吸道病毒感染过程中发生显著变化。&lt;/p&gt;
+&lt;p&gt;我们还比较了胰岛素敏感和耐受组在感染和疫苗接种后的反应。胰岛素耐受组在感染早期观察到更高的几种游离脂肪酸,而中后期磷脂胆碱则升高。这可能反映了能量代谢的改变和免疫相关信号通路变化。总体而言,我们的数据表明,区分脂质亚类及其组分对理解人体对急性炎症的响应至关重要。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2023-09-14-ipop-lipidomics/figure5_hu3f57a6fd211c79e4847fc13ac027ff53_550519_c81bfb43ac121e025649e5cb9fa56782.webp 400w,
+               /post/2023-09-14-ipop-lipidomics/figure5_hu3f57a6fd211c79e4847fc13ac027ff53_550519_fbd77ac1279a0a373585f45c123cd358.webp 760w,
+               /post/2023-09-14-ipop-lipidomics/figure5_hu3f57a6fd211c79e4847fc13ac027ff53_550519_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure5_hu3f57a6fd211c79e4847fc13ac027ff53_550519_c81bfb43ac121e025649e5cb9fa56782.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;432&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;胰岛素耐受个体的衰老改变&#34;&gt;胰岛素耐受个体的衰老改变&lt;/h2&gt;
+&lt;p&gt;随着年龄增长,心血管疾病风险增加,常伴有2型糖尿病等疾病出现,以及慢性炎症状态。本研究的参与者年龄跨度20-79岁,平均被跟踪了3年。随着年龄增长,我们观察到BMI增加。通过线性模型估计脂质随年龄变化的效应,我们确定随着年龄增长,胆固醇酯、神经酰胺、鞘氨醇、LPC等脂质子类水平增加,代表可能与年龄相关的慢性低度炎症。与此同时,多不饱和脂肪酸、花生四烯酸和二十碳五烯酸下降。这与癫痫、心血管疾病风险增加一致。&lt;/p&gt;
+&lt;p&gt;此外,我们研究了胰岛素耐受如何改变分子衰老特征,发现胰岛素耐受组的神经酰胺、鞘氨醇和胆固醇酯的年龄相关变化更大,提示这些脂质与衰老加速相关。胰岛素耐受和敏感组间,我们还观察到磷脂在衰老中的变化方向不同。总之,我们的数据表明,脂质组成(不饱和度、omega-3脂肪酸、大分子甘油三酰脂、含醚键磷脂等)随年龄变化显著,这一过程在性别间存在差异,并在胰岛素耐受存在时加速。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2023-09-14-ipop-lipidomics/figure6_hud0c5bc4d6e20b79a7811fc1c6c07e965_399012_0241fa35e216b5de480d33f1b94edbba.webp 400w,
+               /post/2023-09-14-ipop-lipidomics/figure6_hud0c5bc4d6e20b79a7811fc1c6c07e965_399012_53dd144f019edc3c0cb226afb4618b06.webp 760w,
+               /post/2023-09-14-ipop-lipidomics/figure6_hud0c5bc4d6e20b79a7811fc1c6c07e965_399012_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure6_hud0c5bc4d6e20b79a7811fc1c6c07e965_399012_0241fa35e216b5de480d33f1b94edbba.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;527&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;脂质与细胞因子的特异性关联&#34;&gt;脂质与细胞因子的特异性关联&lt;/h2&gt;
+&lt;p&gt;最后,鉴于细胞因子、趋化因子和生长因子在各种生物过程中的重要性,我们研究了它们在平衡状态和各种病理过程中与脂质的关系。我们发现40种细胞因子中的大多数与580种脂质存在1245个正相关或负相关的关联。&lt;/p&gt;
+&lt;p&gt;例如,我们观察到粒细胞-巨噬细胞集落刺激因子和瘦素与许多甘油三酰脂呈强正相关。这与这些脂质的潜在促炎作用一致。另一方面,IL-6和IL-10等具有免疫调节作用的细胞因子则与部分甘油三酰脂呈负相关。这表明不同甘油三酰脂种类在免疫调控网络中可能发挥不同功能。此外,我们还观察到lysophosphatidylcholine(LPC)与多种生长因子和促炎因子呈正相关,同时与C反应蛋白等标志呈负相关。这提示LPC可能具有免疫激活和免疫抑制双重功能。总体而言,我们的多组学数据描绘了细胞因子和脂质亚类之间的复杂关联,以及不同脂肪酰基组成的脂质与特定细胞因子的差异关联,提示其在免疫激活与免疫抑制中的不同作用。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2023-09-14-ipop-lipidomics/figure7_huebb2c299e604dc0d1944a046ecab99d3_754743_d1387788eb544eb062c8fe4535fcfc71.webp 400w,
+               /post/2023-09-14-ipop-lipidomics/figure7_huebb2c299e604dc0d1944a046ecab99d3_754743_f16cfd67eaa97da019729e939cb98779.webp 760w,
+               /post/2023-09-14-ipop-lipidomics/figure7_huebb2c299e604dc0d1944a046ecab99d3_754743_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure7_huebb2c299e604dc0d1944a046ecab99d3_754743_d1387788eb544eb062c8fe4535fcfc71.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;653&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;意义&#34;&gt;意义&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;该研究建立了人体脂质组与健康、疾病及衰老过程之间的动态联系,为脂质在人体生理病理过程中的多重作用提供了全新的视角。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;不同脂质种类及其组分的独特模式为开发新的生物标志物、研究疾病机制以及设计个体化干预提供了基础。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;结果提示,通过饮食等途径针对性改变外源性脂质的摄入或靶向关键脂质转换酶有望成为减轻慢性炎症、改善代谢健康的新策略。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本研究采用先进的脂质组学技术对人群进行长时间跟踪,揭示了脂质网络在健康和疾病中的多样性角色,为开发新的个体化医疗提供了宝贵资源。我们有理由相信,继续深入解析脂质-健康关系,将大大推动未来医学的发展。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>tidytof:一种可扩展和可重现的高维细胞数据分析的整洁框架</title>
+      <link>https://jaspershen.github.io/post/2023-07-19-tidytof/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/post/2023-07-19-tidytof/</guid>
+      <description>&lt;p&gt;依赖于tidyverse风格的组学数据处理软件越来越多了！期待我们的tidymicrobiome！&lt;/p&gt;
+&lt;h1 id=&#34;tidytof一种可扩展和可重现的高维细胞数据分析的整洁框架&#34;&gt;tidytof:一种可扩展和可重现的高维细胞数据分析的整洁框架&lt;/h1&gt;
+&lt;h2 id=&#34;摘要&#34;&gt;摘要&lt;/h2&gt;
+&lt;p&gt;尽管已经开发出许多分析高维细胞数据的算法,但这些算法的软件实现仍然高度定制化——这意味着探索一个数据集需要用户学习每个数据处理步骤所需的独特的、互操作性差的软件语法。为解决这个问题,我们开发了tidytof,一个开源的R软件包,用于使用越来越受欢迎的“整洁数据”接口分析高维细胞数据。&lt;/p&gt;
+&lt;h2 id=&#34;可获得性和实现&#34;&gt;可获得性和实现&lt;/h2&gt;
+&lt;p&gt;tidytof可在https://github.com/keyes-timothy/tidytof获得,基于MIT许可证发布。它支持Linux、Windows和MacOS。额外的文档可在软件包网站上获得(&lt;a href=&#34;https://keyes-timothy.github.io/tidytof/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://keyes-timothy.github.io/tidytof/&lt;/a&gt;)。&lt;/p&gt;
+&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;
+&lt;p&gt;在过去的十年中,高维细胞技术已经成为高通量单细胞分析人类和动物组织的突出技术。基于时间飞行的质谱细胞学(或细胞质谱)、全谱流式细胞技术和序列基础的细胞技术现在已经实现了每次实验从数百万个细胞中收集多重蛋白质测量的大数据集。为从这些复杂的数据集中洞察信息,最近几年也见证了几十种用于单细胞、细胞亚群和整体样本水平分析高维细胞数据的算法的开发。然而,遍历这些方法的选择、使用和互操作性需求仍然是一个重大挑战。&lt;/p&gt;
+&lt;p&gt;在同一时间内,“整洁数据”的概念已经构成了数据科学领域的范式转变。整洁数据指的是以灵活的二维表格(称为数据帧)表示的数据,其中每一行表示一个观察,每一列表示一个实验变量。数据整洁性的核心概念是将数据表示为一致的整洁格式可以简化数据处理,方法是标准化构建分析流程所需的工具。采用整洁数据实践通常鼓励在统计软件工程中使用直观的以人为中心的设计原则,允许研究人员通过使用一致的词汇表达常见的数据处理操作,在工具和研究领域之间应用类似的分析框架。&lt;/p&gt;
+&lt;p&gt;这里,我们在之前的工作基础上,提出tidytof,一个R软件包,使用整洁接口实现全面、高效和可扩展的高维细胞数据分析框架。tidytof的综合文档和教程在补充注释和软件包注释中提供。&lt;/p&gt;
+&lt;h2 id=&#34;软件设计&#34;&gt;软件设计&lt;/h2&gt;
+&lt;p&gt;tidytof将热门的高维细胞数据分析方法进行了整合,如文件读取、预处理、批效应校正、质量控制、聚类、降维、差异表达分析、特征提取和可视化,变成一个可组合的、易于使用的应用程序接口,适合有经验和无经验的程序员。&lt;/p&gt;
+&lt;p&gt;它的设计策略有三个主要好处:1)它允许tidytof简化访问以不同方式执行相同基本任务的算法的方式;2) tidytof动词的模块化设计意味着它们可以组合起来对单细胞数据进行灵活的分析;3) 作为高性能整洁生态系统工具的扩展,tidytof提供了相对于现有的单细胞数据分析软件的卓越的计算性能。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2023-07-19-tidytof/figure1_hu5fa3503ad3c9b05c11792d4f5c037e45_1096349_10a03f3859e1f40efb3b5e244c561d44.webp 400w,
+               /post/2023-07-19-tidytof/figure1_hu5fa3503ad3c9b05c11792d4f5c037e45_1096349_15492aa1870bb735ddc31c387311aff5.webp 760w,
+               /post/2023-07-19-tidytof/figure1_hu5fa3503ad3c9b05c11792d4f5c037e45_1096349_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://jaspershen.github.io/post/2023-07-19-tidytof/figure1_hu5fa3503ad3c9b05c11792d4f5c037e45_1096349_10a03f3859e1f40efb3b5e244c561d44.webp&#34;
+               width=&#34;629&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;性能基准测试&#34;&gt;性能基准测试&lt;/h2&gt;
+&lt;p&gt;我们使用等价的工作流程对tidytof的速度和内存性能进行了基准测试,并与具有类似功能的两个低级API(基本R和flowCore)以及三个高级API(cytofkit、immunoCluster和Spectre)进行了比较。结果显示,tidytof的计算性能与现有工具相当或优于现有工具,而且tidytof的总时间是基准测试中使用的所有数据集中最小的。&lt;/p&gt;
+&lt;h2 id=&#34;结论&#34;&gt;结论&lt;/h2&gt;
+&lt;p&gt;总之,tidytof为使用简单的API和与许多现有的数据科学和生物信息学社区创建的工具无缝集成来分析高维细胞数据提供了一个整洁的接口。通过这种方式,tidytof降低了将标准工具应用于高维细胞数据集的编码负担,从而提高了高级分析方法对编程经验有限的研究人员的可访问性。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>如何使用colorspace包选择合适的颜色方案</title>
+      <link>https://jaspershen.github.io/post/2023-07-19-colorspace/</link>
+      <pubDate>Wed, 19 Jul 2023 21:13:14 -0500</pubDate>
+      <guid>https://jaspershen.github.io/post/2023-07-19-colorspace/</guid>
+      <description>&lt;p&gt;颜色是数据可视化中非常重要的一个元素，它可以传达信息，引起注意，增强美感，甚至影响情绪。但是，如何选择合适的颜色方案呢？有没有一种科学的方法，可以帮助我们在众多的颜色中找到最佳的组合呢？&lt;/p&gt;
+&lt;p&gt;答案是有的，那就是colorspace包。colorspace包是一个R语言的扩展包，它提供了一系列的函数和工具，可以让我们在不同的颜色空间中进行颜色的转换，选择，操作和评估。colorspace包基于HCL（色相-色度-亮度）颜色模型，这是一种基于人类视觉感知的颜色表示方法，比RGB（红-绿-蓝）或CMYK（青-品红-黄-黑）等常见的颜色模型更加直观和灵活。&lt;/p&gt;
+&lt;p&gt;colorspace包的主要功能有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;提供了多种预定义的颜色方案，包括连续型（sequential），发散型（diverging）和定性型（qualitative）三种类型，可以根据数据的特点和目的进行选择。&lt;/li&gt;
+&lt;li&gt;提供了一个交互式的图形用户界面（GUI），可以在RStudio中或网页浏览器中打开，可以实时地查看和调整不同的颜色方案，并生成相应的R代码。&lt;/li&gt;
+&lt;li&gt;提供了一些函数和方法，可以对颜色进行转换，混合，插值，排序，分组等操作，并评估颜色方案的可视化效果和可辨识度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;下面我们来看一些colorspace包的使用示例：&lt;/p&gt;
+&lt;h2 id=&#34;加载colorspace包&#34;&gt;加载colorspace包&lt;/h2&gt;
+&lt;p&gt;首先，我们需要安装并加载colorspace包。如果你还没有安装过colorspace包，可以运行以下代码：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;install.packages&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;colorspace&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;然后，我们可以用library函数加载colorspace包：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;colorspace&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;查看预定义的颜色方案&#34;&gt;查看预定义的颜色方案&lt;/h2&gt;
+&lt;p&gt;colorspace包提供了多种预定义的颜色方案，我们可以用hcl_palettes函数查看它们：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;hcl_palettes&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## HCL palettes&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Type:  Qualitative &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Names: Pastel 1, Dark 2, Dark 3, Set 2, Set 3, Warm, Cold, Harmonic, Dynamic&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Type:  Sequential (single-hue) &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Names: Grays, Light Grays, Blues 2, Blues 3, Purples 2, Purples 3, Reds 2,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Reds 3, Greens 2, Greens 3, Oslo&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Type:  Sequential (multi-hue) &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Names: Purple-Blue, Red-Purple, Red-Blue, Purple-Orange, Purple-Yellow,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Blue-Yellow, Green-Yellow, Red-Yellow, Heat, Heat 2, Terrain,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Terrain 2, Viridis, Plasma, Inferno, Rocket, Mako, Dark Mint,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Mint, BluGrn, Teal, TealGrn, Emrld, BluYl, ag_GrnYl, Peach,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        PinkYl, Burg, BurgYl, RedOr, OrYel, Purp, PurpOr, Sunset,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Magenta, SunsetDark, ag_Sunset, BrwnYl, YlOrRd, YlOrBr, OrRd,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Oranges, YlGn, YlGnBu, Reds, RdPu, PuRd, Purples, PuBuGn, PuBu,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Greens, BuGn, GnBu, BuPu, Blues, Lajolla, Turku, Hawaii, Batlow&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Type:  Diverging &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Names: Blue-Red, Blue-Red 2, Blue-Red 3, Red-Green, Purple-Green,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Purple-Brown, Green-Brown, Blue-Yellow 2, Blue-Yellow 3,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Green-Orange, Cyan-Magenta, Tropic, Broc, Cork, Vik, Berlin,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Lisbon, Tofino&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这个函数会返回一个列表，每个元素是一个颜色方案的名称和描述。例如：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;`Diverging`&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;Diverging HCL palettes from diverge_hcl&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;我们可以看到，有一个叫做Diverging的颜色方案，它是由diverge_hcl函数生成的。我们可以用这个函数来创建一个发散型的颜色方案，例如：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;diverge_hcl&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;7&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;h&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;246&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;40&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;c&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;96&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;l&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;65&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;90&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## [1] &amp;#34;#1FA4FF&amp;#34; &amp;#34;#97BFF3&amp;#34; &amp;#34;#CAD6E9&amp;#34; &amp;#34;#E2E2E2&amp;#34; &amp;#34;#E7D1C5&amp;#34; &amp;#34;#E9B18B&amp;#34; &amp;#34;#E28912&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这个函数会返回一个长度为7的向量，每个元素是一个十六进制的颜色代码。我们可以用plot函数来查看这个颜色方案：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;scales&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;show_col&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;diverge_hcl&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;7&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;h&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;246&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;40&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;c&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;96&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;l&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;65&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;90&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)))&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;img src=&#34;https://jaspershen.github.io/post/2023-07-19-colorspace/index.en_files/figure-html/unnamed-chunk-5-1.png&#34; width=&#34;672&#34; /&gt;
+&lt;p&gt;我们可以看到，这个颜色方案是由蓝色和红色组成的，中间有一个白色。这种类型的颜色方案适合用来表示数据中存在两个极端或对立的情况。&lt;/p&gt;
+&lt;p&gt;类似地，我们可以用其他函数来创建不同类型的颜色方案，例如sequential_hcl, qualitative_hcl等。具体的参数和用法可以参考colorspace包的文档。&lt;/p&gt;
+&lt;h2 id=&#34;使用交互式图形用户界面&#34;&gt;使用交互式图形用户界面&lt;/h2&gt;
+&lt;p&gt;colorspace包还提供了一个交互式的图形用户界面，可以让我们在RStudio中或网页浏览器中打开，可以实时地查看和调整不同的颜色方案，并生成相应的R代码。我们可以用choose_palette函数来启动这个界面：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;choose_palette&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这个函数会打开一个新的窗口，如下图所示：&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://files.mdnice.com/user/20138/c1c392cf-7d00-4b31-a47d-e1b4085e8f1a.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;我们可以在左侧的菜单中选择不同的颜色方案类型，例如Sequential, Diverging, Qualitative等。然后，我们可以在右侧的滑动条中调整颜色方案的参数，例如色相，色度，亮度，数量等。我们还可以在下方的选项中选择是否显示颜色名称，是否反转颜色顺序，是否显示颜色条等。我们可以看到，随着我们的调整，中间的图形会实时地更新，显示当前的颜色方案。我们还可以在右下角看到生成这个颜色方案的R代码，方便我们复制和使用。&lt;/p&gt;
+&lt;p&gt;这个交互式图形用户界面是一个非常方便和有趣的工具，可以让我们快速地找到合适的颜色方案，并进行微调和优化。&lt;/p&gt;
+&lt;h2 id=&#34;对颜色进行操作和评估&#34;&gt;对颜色进行操作和评估&lt;/h2&gt;
+&lt;p&gt;colorspace包还提供了一些函数和方法，可以对颜色进行转换，混合，插值，排序，分组等操作，并评估颜色方案的可视化效果和可辨识度。例如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;我们可以用hcl函数将RGB颜色转换为HCL颜色，或者用rgb函数将HCL颜色转换为RGB颜色。&lt;/li&gt;
+&lt;li&gt;我们可以用mixcolor函数将两种或多种颜色进行混合，得到一个新的颜色。&lt;/li&gt;
+&lt;li&gt;我们可以用specplot函数将一个颜色方案在不同的颜色空间中进行可视化，比较它们的差异和特点。&lt;/li&gt;
+&lt;li&gt;我们可以用desaturate函数将一个颜色方案变得更加灰暗，或者用lighten函数将一个颜色方案变得更加明亮。&lt;/li&gt;
+&lt;li&gt;我们可以用rainbow_hcl函数生成一个类似彩虹的连续型颜色方案，或者用heat_hcl函数生成一个类似热力图的连续型颜色方案。&lt;/li&gt;
+&lt;li&gt;我们可以用emulateColorBlindness函数模拟不同类型的色盲对颜色方案的感知，评估它们的可辨识度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些函数和方法都有详细的文档和示例，可以帮助我们更好地理解和使用colorspace包。&lt;/p&gt;
+&lt;h2 id=&#34;总结&#34;&gt;总结&lt;/h2&gt;
+&lt;p&gt;colorspace包是一个非常强大和实用的R语言扩展包，它可以让我们在不同的颜色空间中进行颜色的转换，选择，操作和评估。colorspace包基于HCL（色相-色度-亮度）颜色模型，这是一种基于人类视觉感知的颜色表示方法，比RGB（红-绿-蓝）或CMYK（青-品红-黄-黑）等常见的颜色模型更加直观和灵活。colorspace包提供了多种预定义的颜色方案，包括连续型（sequential），发散型（diverging）和定性型（qualitative）三种类型，可以根据数据的特点和目的进行选择。colorspace包还提供了一个交互式的图形用户界面（GUI），可以在RStudio中或网页浏览器中打开，可以实时地查看和调整不同的颜色方案，并生成相应的R代码。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to update shen personal website</title>
+      <link>https://jaspershen.github.io/post/2022-10-23-shen-blog-instruction/</link>
+      <pubDate>Sun, 23 Oct 2022 21:13:14 -0500</pubDate>
+      <guid>https://jaspershen.github.io/post/2022-10-23-shen-blog-instruction/</guid>
+      <description>&lt;h1 id=&#34;the-menus-appearance&#34;&gt;The menus appearance&lt;/h1&gt;
+&lt;p&gt;The file is here: config/_default/menus.en.toml&lt;/p&gt;
+&lt;h1 id=&#34;the-theme-design&#34;&gt;The theme design&lt;/h1&gt;
+&lt;p&gt;The file is here: config/_default/params.toml&lt;/p&gt;
+&lt;h1 id=&#34;the-order-of-contents&#34;&gt;The order of contents&lt;/h1&gt;
+&lt;p&gt;This is determined by the weight in the index for each content.&lt;/p&gt;
+&lt;p&gt;About: 20&lt;/p&gt;
+&lt;p&gt;featured: 22&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

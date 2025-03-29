@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>📃 Publications | Xiaotao Shen</title>
+    <link>https://jaspershen.github.io/publication/</link>
+      <atom:link href="https://jaspershen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>📃 Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jaspershen.github.io/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_300x300_fit_lanczos_3.png</url>
+      <title>📃 Publications</title>
+      <link>https://jaspershen.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Generalized reporter score-based enrichment analysis for omics data</title>
+      <link>https://jaspershen.github.io/publication/generalized-reporter-score-based-enrichment-analysis-for-omics-data/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/generalized-reporter-score-based-enrichment-analysis-for-omics-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal profiling of the microbiome at four body sites reveals core stability and individualized dynamics during health and disease</title>
+      <link>https://jaspershen.github.io/publication/longitudinal-profiling-of-the-microbiome-at-four-body-sites-reveals-core-stability-and-individualized-dynamics-during-health-and-disease/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/longitudinal-profiling-of-the-microbiome-at-four-body-sites-reveals-core-stability-and-individualized-dynamics-during-health-and-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microbiomedataset A tidyverse-style framework for organizing and processing microbiome data</title>
+      <link>https://jaspershen.github.io/publication/microbiomedataset-a-tidyverse-style-framework-for-organizing-and-processing-microbiome-data/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/microbiomedataset-a-tidyverse-style-framework-for-organizing-and-processing-microbiome-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised Cooperative Learning for Multiomics Data Fusion</title>
+      <link>https://jaspershen.github.io/publication/semi-supervised-cooperative-learning-for-multiomics-data-fusion/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/semi-supervised-cooperative-learning-for-multiomics-data-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances and prospects for the Human BioMolecular Atlas Program (HuBMAP)</title>
+      <link>https://jaspershen.github.io/publication/advances-and-prospects-for-the-human-biomolecular-atlas-program/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/advances-and-prospects-for-the-human-biomolecular-atlas-program/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organism-wide, cell-type-specific secretome mapping of exercise training in mice</title>
+      <link>https://jaspershen.github.io/publication/organism-wide-cell-type-specific-secretome-mapping-of-exercise-training-in-mice/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/organism-wide-cell-type-specific-secretome-mapping-of-exercise-training-in-mice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-omics microsampling for the profiling of lifestyle-associated changes in health</title>
+      <link>https://jaspershen.github.io/publication/multi-omics-microsampling-for-the-profiling-of-lifestyle-associated-changes-in-health/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/multi-omics-microsampling-for-the-profiling-of-lifestyle-associated-changes-in-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>massDatabase utilities for the operation of the public compound and pathway database</title>
+      <link>https://jaspershen.github.io/publication/massdatabase-utilities-for-the-operation-of-the-public-compound-and-pathway-database/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/massdatabase-utilities-for-the-operation-of-the-public-compound-and-pathway-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-of-the-art methods for exposure-health studies: Results from the exposome data challenge event</title>
+      <link>https://jaspershen.github.io/publication/state-of-the-art-methods-for-exposure-health-studies-results-from-the-exposome-data-challenge-event/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/state-of-the-art-methods-for-exposure-health-studies-results-from-the-exposome-data-challenge-event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiomic analysis reveals cell-type-specific molecular determinants of COVID-19 severity</title>
+      <link>https://jaspershen.github.io/publication/multiomic-analysis-reveals-cell-type-specific-molecular-determinants-of-covid-19-severity/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/multiomic-analysis-reveals-cell-type-specific-molecular-determinants-of-covid-19-severity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title>
+      <link>https://jaspershen.github.io/publication/deep-learning-based-pseudo-mass-spectrometry-imaging-analysis-for-precision-medicine/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/deep-learning-based-pseudo-mass-spectrometry-imaging-analysis-for-precision-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TidyMass an object-oriented reproducible analysis framework for LC–MS data</title>
+      <link>https://jaspershen.github.io/publication/tidymass-an-object-oriented-reproducible-analysis-framework-for-lcms-data/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/tidymass-an-object-oriented-reproducible-analysis-framework-for-lcms-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Urine Metabolic Profiling and Gestational Age Prediction in Pregnancy</title>
+      <link>https://jaspershen.github.io/publication/longitudinal-urine-metabolic-profiling-and-gestational-age-prediction-in-pregnancy/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/longitudinal-urine-metabolic-profiling-and-gestational-age-prediction-in-pregnancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precision environmental health monitoring by longitudinal exposome and multi-omics profiling</title>
+      <link>https://jaspershen.github.io/publication/precision-environmental-health-monitoring-by-longitudinal-exposome-and-multi-omics-profiling/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/precision-environmental-health-monitoring-by-longitudinal-exposome-and-multi-omics-profiling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal interactions between levels of serum cytokine and the microbiome from four body sites</title>
+      <link>https://jaspershen.github.io/publication/longitudinal-interactions-between-levels-of-serum-cytokine-and-the-microbiome-from-four-body-sites/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/longitudinal-interactions-between-levels-of-serum-cytokine-and-the-microbiome-from-four-body-sites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metID: an R package for automatable compound annotation for LC− MS-based data</title>
+      <link>https://jaspershen.github.io/publication/metid-an-r-package-for-automatable-compound-annotation-for-lc-ms-based-data/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/metid-an-r-package-for-automatable-compound-annotation-for-lc-ms-based-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Common and rare variant analyses combined with single-cell multiomics reveal cell-type-specific molecular mechanisms of COVID-19 severity</title>
+      <link>https://jaspershen.github.io/publication/common-and-rare-variant-analyses-combined-with-single-cell-multiomics-reveal-cell-type-specific-molecular-mechanisms-of-covid-19-severity/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/common-and-rare-variant-analyses-combined-with-single-cell-multiomics-reveal-cell-type-specific-molecular-mechanisms-of-covid-19-severity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration and comparison of multi-omics profiles of NGLY1 deficiency plasma and cellular models to identify clinically relevant molecular phenotypes</title>
+      <link>https://jaspershen.github.io/publication/integration-and-comparison-of-multi-omics-profiles-of-ngly1-deficiency-plasma-and-cellular-models-to-identify-clinically-relevant-molecular-phenotypes/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/integration-and-comparison-of-multi-omics-profiles-of-ngly1-deficiency-plasma-and-cellular-models-to-identify-clinically-relevant-molecular-phenotypes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A serum metabolomics analysis reveals a panel of screening metabolic biomarkers for esophageal squamous cell carcinoma</title>
+      <link>https://jaspershen.github.io/publication/a-serum-metabolomics-analysis-reveals-a-panel-of-screening-metabolic-biomarkers-for-esophageal-squamous-cell-carcinoma/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/a-serum-metabolomics-analysis-reveals-a-panel-of-screening-metabolic-biomarkers-for-esophageal-squamous-cell-carcinoma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The mediation effect of serum metabolites on the relationship between long-term smoking exposure and esophageal squamous cell carcinoma</title>
+      <link>https://jaspershen.github.io/publication/the-mediation-effect-of-serum-metabolites-on-the-relationship-between-long-term-smoking-exposure-and-esophageal-squamous-cell-carcinoma/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/the-mediation-effect-of-serum-metabolites-on-the-relationship-between-long-term-smoking-exposure-and-esophageal-squamous-cell-carcinoma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serum metabolomics analysis for the progression of esophageal squamous cell carcinoma</title>
+      <link>https://jaspershen.github.io/publication/serum-metabolomics-analysis-for-the-progression-of-esophageal-squamous-cell-carcinoma/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/serum-metabolomics-analysis-for-the-progression-of-esophageal-squamous-cell-carcinoma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metabolic dynamics and prediction of gestational age and time to delivery in pregnant women</title>
+      <link>https://jaspershen.github.io/publication/metabolic-dynamics-and-prediction-of-gestational-age-and-time-to-delivery-in-pregnant-women/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/metabolic-dynamics-and-prediction-of-gestational-age-and-time-to-delivery-in-pregnant-women/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MetFlow: an interactive and integrated workflow for metabolomics data cleaning and differential metabolite discovery</title>
+      <link>https://jaspershen.github.io/publication/metflow-an-interactive-and-integrated-workflow-for-metabolomics-data-cleaning-and-differential-metabolite-discovery/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/metflow-an-interactive-and-integrated-workflow-for-metabolomics-data-cleaning-and-differential-metabolite-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metabolic reaction network-based recursive metabolite annotation for untargeted metabolomics</title>
+      <link>https://jaspershen.github.io/publication/metabolic-reaction-network-based-recursive-metabolite-annotation-for-untargeted-metabolomics/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/metabolic-reaction-network-based-recursive-metabolite-annotation-for-untargeted-metabolomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LipidIMMS Analyzer integrating multi-dimensional information to support lipid identification in ion mobility—mass spectrometry based lipidomics</title>
+      <link>https://jaspershen.github.io/publication/lipidimms-analyzer-integrating-multi-dimensional-information-to-support-lipid-identification-in-ion-mobilitymass-spectrometry-based-lipidomics/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/lipidimms-analyzer-integrating-multi-dimensional-information-to-support-lipid-identification-in-ion-mobilitymass-spectrometry-based-lipidomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a correlative strategy to discover colorectal tumor tissue derived metabolite biomarkers in plasma using untargeted metabolomics</title>
+      <link>https://jaspershen.github.io/publication/development-of-a-correlative-strategy-to-discover-colorectal-tumor-tissue-derived-metabolite-biomarkers-in-plasma-using-untargeted-metabolomics/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/development-of-a-correlative-strategy-to-discover-colorectal-tumor-tissue-derived-metabolite-biomarkers-in-plasma-using-untargeted-metabolomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the pathological response to neoadjuvant chemoradiation using untargeted metabolomics in locally advanced rectal cancer</title>
+      <link>https://jaspershen.github.io/publication/predicting-the-pathological-response-to-neoadjuvant-chemoradiation-using-untargeted-metabolomics-in-locally-advanced-rectal-cancer/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/predicting-the-pathological-response-to-neoadjuvant-chemoradiation-using-untargeted-metabolomics-in-locally-advanced-rectal-cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LipidCCS prediction of collision cross-section values for lipids with high precision to support ion mobility–mass spectrometry-based lipidomics</title>
+      <link>https://jaspershen.github.io/publication/lipidccs-prediction-of-collision-cross-section-values-for-lipids-with-high-precision-to-support-ion-mobilitymass-spectrometry-based-lipidomics/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/lipidccs-prediction-of-collision-cross-section-values-for-lipids-with-high-precision-to-support-ion-mobilitymass-spectrometry-based-lipidomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-Scale Prediction of Collision Cross-Section Values for Metabolites in Ion Mobility-Mass Spectrometry</title>
+      <link>https://jaspershen.github.io/publication/large-scale-prediction-of-collision-cross-section-values-for-metabolites-in-ion-mobility-mass-spectrometry/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/large-scale-prediction-of-collision-cross-section-values-for-metabolites-in-ion-mobility-mass-spectrometry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serum metabolomics for early diagnosis of esophageal squamous cell carcinoma by UHPLC-QTOF/MS</title>
+      <link>https://jaspershen.github.io/publication/serum-metabolomics-for-early-diagnosis-of-esophageal-squamous-cell-carcinoma-by-uhplc-qtof/</link>
+      <pubDate>Thu, 23 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/serum-metabolomics-for-early-diagnosis-of-esophageal-squamous-cell-carcinoma-by-uhplc-qtof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Normalization and integration of large-scale metabolomics data using support vector regression</title>
+      <link>https://jaspershen.github.io/publication/normalization-and-integration-of-large-scale-metabolomics-data-using-support-vector-regression/</link>
+      <pubDate>Sat, 26 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/normalization-and-integration-of-large-scale-metabolomics-data-using-support-vector-regression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

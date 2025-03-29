@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R package | Xiaotao Shen</title>
+    <link>https://jaspershen.github.io/tag/r-package/</link>
+      <atom:link href="https://jaspershen.github.io/tag/r-package/index.xml" rel="self" type="application/rss+xml" />
+    <description>R package</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaspershen.github.io/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_300x300_fit_lanczos_3.png</url>
+      <title>R package</title>
+      <link>https://jaspershen.github.io/tag/r-package/</link>
+    </image>
+    
+    <item>
+      <title>tidytof:一种可扩展和可重现的高维细胞数据分析的整洁框架</title>
+      <link>https://jaspershen.github.io/post/2023-07-19-tidytof/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/post/2023-07-19-tidytof/</guid>
+      <description>&lt;p&gt;依赖于tidyverse风格的组学数据处理软件越来越多了！期待我们的tidymicrobiome！&lt;/p&gt;
+&lt;h1 id=&#34;tidytof一种可扩展和可重现的高维细胞数据分析的整洁框架&#34;&gt;tidytof:一种可扩展和可重现的高维细胞数据分析的整洁框架&lt;/h1&gt;
+&lt;h2 id=&#34;摘要&#34;&gt;摘要&lt;/h2&gt;
+&lt;p&gt;尽管已经开发出许多分析高维细胞数据的算法,但这些算法的软件实现仍然高度定制化——这意味着探索一个数据集需要用户学习每个数据处理步骤所需的独特的、互操作性差的软件语法。为解决这个问题,我们开发了tidytof,一个开源的R软件包,用于使用越来越受欢迎的“整洁数据”接口分析高维细胞数据。&lt;/p&gt;
+&lt;h2 id=&#34;可获得性和实现&#34;&gt;可获得性和实现&lt;/h2&gt;
+&lt;p&gt;tidytof可在https://github.com/keyes-timothy/tidytof获得,基于MIT许可证发布。它支持Linux、Windows和MacOS。额外的文档可在软件包网站上获得(&lt;a href=&#34;https://keyes-timothy.github.io/tidytof/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://keyes-timothy.github.io/tidytof/&lt;/a&gt;)。&lt;/p&gt;
+&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;
+&lt;p&gt;在过去的十年中,高维细胞技术已经成为高通量单细胞分析人类和动物组织的突出技术。基于时间飞行的质谱细胞学(或细胞质谱)、全谱流式细胞技术和序列基础的细胞技术现在已经实现了每次实验从数百万个细胞中收集多重蛋白质测量的大数据集。为从这些复杂的数据集中洞察信息,最近几年也见证了几十种用于单细胞、细胞亚群和整体样本水平分析高维细胞数据的算法的开发。然而,遍历这些方法的选择、使用和互操作性需求仍然是一个重大挑战。&lt;/p&gt;
+&lt;p&gt;在同一时间内,“整洁数据”的概念已经构成了数据科学领域的范式转变。整洁数据指的是以灵活的二维表格(称为数据帧)表示的数据,其中每一行表示一个观察,每一列表示一个实验变量。数据整洁性的核心概念是将数据表示为一致的整洁格式可以简化数据处理,方法是标准化构建分析流程所需的工具。采用整洁数据实践通常鼓励在统计软件工程中使用直观的以人为中心的设计原则,允许研究人员通过使用一致的词汇表达常见的数据处理操作,在工具和研究领域之间应用类似的分析框架。&lt;/p&gt;
+&lt;p&gt;这里,我们在之前的工作基础上,提出tidytof,一个R软件包,使用整洁接口实现全面、高效和可扩展的高维细胞数据分析框架。tidytof的综合文档和教程在补充注释和软件包注释中提供。&lt;/p&gt;
+&lt;h2 id=&#34;软件设计&#34;&gt;软件设计&lt;/h2&gt;
+&lt;p&gt;tidytof将热门的高维细胞数据分析方法进行了整合,如文件读取、预处理、批效应校正、质量控制、聚类、降维、差异表达分析、特征提取和可视化,变成一个可组合的、易于使用的应用程序接口,适合有经验和无经验的程序员。&lt;/p&gt;
+&lt;p&gt;它的设计策略有三个主要好处:1)它允许tidytof简化访问以不同方式执行相同基本任务的算法的方式;2) tidytof动词的模块化设计意味着它们可以组合起来对单细胞数据进行灵活的分析;3) 作为高性能整洁生态系统工具的扩展,tidytof提供了相对于现有的单细胞数据分析软件的卓越的计算性能。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2023-07-19-tidytof/figure1_hu5fa3503ad3c9b05c11792d4f5c037e45_1096349_10a03f3859e1f40efb3b5e244c561d44.webp 400w,
+               /post/2023-07-19-tidytof/figure1_hu5fa3503ad3c9b05c11792d4f5c037e45_1096349_15492aa1870bb735ddc31c387311aff5.webp 760w,
+               /post/2023-07-19-tidytof/figure1_hu5fa3503ad3c9b05c11792d4f5c037e45_1096349_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://jaspershen.github.io/post/2023-07-19-tidytof/figure1_hu5fa3503ad3c9b05c11792d4f5c037e45_1096349_10a03f3859e1f40efb3b5e244c561d44.webp&#34;
+               width=&#34;629&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;性能基准测试&#34;&gt;性能基准测试&lt;/h2&gt;
+&lt;p&gt;我们使用等价的工作流程对tidytof的速度和内存性能进行了基准测试,并与具有类似功能的两个低级API(基本R和flowCore)以及三个高级API(cytofkit、immunoCluster和Spectre)进行了比较。结果显示,tidytof的计算性能与现有工具相当或优于现有工具,而且tidytof的总时间是基准测试中使用的所有数据集中最小的。&lt;/p&gt;
+&lt;h2 id=&#34;结论&#34;&gt;结论&lt;/h2&gt;
+&lt;p&gt;总之,tidytof为使用简单的API和与许多现有的数据科学和生物信息学社区创建的工具无缝集成来分析高维细胞数据提供了一个整洁的接口。通过这种方式,tidytof降低了将标准工具应用于高维细胞数据集的编码负担,从而提高了高级分析方法对编程经验有限的研究人员的可访问性。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>如何使用colorspace包选择合适的颜色方案</title>
+      <link>https://jaspershen.github.io/post/2023-07-19-colorspace/</link>
+      <pubDate>Wed, 19 Jul 2023 21:13:14 -0500</pubDate>
+      <guid>https://jaspershen.github.io/post/2023-07-19-colorspace/</guid>
+      <description>&lt;p&gt;颜色是数据可视化中非常重要的一个元素，它可以传达信息，引起注意，增强美感，甚至影响情绪。但是，如何选择合适的颜色方案呢？有没有一种科学的方法，可以帮助我们在众多的颜色中找到最佳的组合呢？&lt;/p&gt;
+&lt;p&gt;答案是有的，那就是colorspace包。colorspace包是一个R语言的扩展包，它提供了一系列的函数和工具，可以让我们在不同的颜色空间中进行颜色的转换，选择，操作和评估。colorspace包基于HCL（色相-色度-亮度）颜色模型，这是一种基于人类视觉感知的颜色表示方法，比RGB（红-绿-蓝）或CMYK（青-品红-黄-黑）等常见的颜色模型更加直观和灵活。&lt;/p&gt;
+&lt;p&gt;colorspace包的主要功能有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;提供了多种预定义的颜色方案，包括连续型（sequential），发散型（diverging）和定性型（qualitative）三种类型，可以根据数据的特点和目的进行选择。&lt;/li&gt;
+&lt;li&gt;提供了一个交互式的图形用户界面（GUI），可以在RStudio中或网页浏览器中打开，可以实时地查看和调整不同的颜色方案，并生成相应的R代码。&lt;/li&gt;
+&lt;li&gt;提供了一些函数和方法，可以对颜色进行转换，混合，插值，排序，分组等操作，并评估颜色方案的可视化效果和可辨识度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;下面我们来看一些colorspace包的使用示例：&lt;/p&gt;
+&lt;h2 id=&#34;加载colorspace包&#34;&gt;加载colorspace包&lt;/h2&gt;
+&lt;p&gt;首先，我们需要安装并加载colorspace包。如果你还没有安装过colorspace包，可以运行以下代码：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;install.packages&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;colorspace&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;然后，我们可以用library函数加载colorspace包：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;colorspace&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;查看预定义的颜色方案&#34;&gt;查看预定义的颜色方案&lt;/h2&gt;
+&lt;p&gt;colorspace包提供了多种预定义的颜色方案，我们可以用hcl_palettes函数查看它们：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;hcl_palettes&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## HCL palettes&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Type:  Qualitative &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Names: Pastel 1, Dark 2, Dark 3, Set 2, Set 3, Warm, Cold, Harmonic, Dynamic&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Type:  Sequential (single-hue) &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Names: Grays, Light Grays, Blues 2, Blues 3, Purples 2, Purples 3, Reds 2,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Reds 3, Greens 2, Greens 3, Oslo&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Type:  Sequential (multi-hue) &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Names: Purple-Blue, Red-Purple, Red-Blue, Purple-Orange, Purple-Yellow,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Blue-Yellow, Green-Yellow, Red-Yellow, Heat, Heat 2, Terrain,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Terrain 2, Viridis, Plasma, Inferno, Rocket, Mako, Dark Mint,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Mint, BluGrn, Teal, TealGrn, Emrld, BluYl, ag_GrnYl, Peach,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        PinkYl, Burg, BurgYl, RedOr, OrYel, Purp, PurpOr, Sunset,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Magenta, SunsetDark, ag_Sunset, BrwnYl, YlOrRd, YlOrBr, OrRd,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Oranges, YlGn, YlGnBu, Reds, RdPu, PuRd, Purples, PuBuGn, PuBu,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Greens, BuGn, GnBu, BuPu, Blues, Lajolla, Turku, Hawaii, Batlow&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Type:  Diverging &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Names: Blue-Red, Blue-Red 2, Blue-Red 3, Red-Green, Purple-Green,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Purple-Brown, Green-Brown, Blue-Yellow 2, Blue-Yellow 3,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Green-Orange, Cyan-Magenta, Tropic, Broc, Cork, Vik, Berlin,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##        Lisbon, Tofino&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这个函数会返回一个列表，每个元素是一个颜色方案的名称和描述。例如：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;`Diverging`&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;[1]&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;Diverging HCL palettes from diverge_hcl&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;我们可以看到，有一个叫做Diverging的颜色方案，它是由diverge_hcl函数生成的。我们可以用这个函数来创建一个发散型的颜色方案，例如：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;diverge_hcl&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;7&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;h&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;246&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;40&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;c&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;96&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;l&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;65&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;90&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## [1] &amp;#34;#1FA4FF&amp;#34; &amp;#34;#97BFF3&amp;#34; &amp;#34;#CAD6E9&amp;#34; &amp;#34;#E2E2E2&amp;#34; &amp;#34;#E7D1C5&amp;#34; &amp;#34;#E9B18B&amp;#34; &amp;#34;#E28912&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这个函数会返回一个长度为7的向量，每个元素是一个十六进制的颜色代码。我们可以用plot函数来查看这个颜色方案：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;scales&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;show_col&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;diverge_hcl&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;7&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;h&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;246&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;40&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;c&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;96&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;l&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;65&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;90&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)))&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;img src=&#34;https://jaspershen.github.io/post/2023-07-19-colorspace/index.en_files/figure-html/unnamed-chunk-5-1.png&#34; width=&#34;672&#34; /&gt;
+&lt;p&gt;我们可以看到，这个颜色方案是由蓝色和红色组成的，中间有一个白色。这种类型的颜色方案适合用来表示数据中存在两个极端或对立的情况。&lt;/p&gt;
+&lt;p&gt;类似地，我们可以用其他函数来创建不同类型的颜色方案，例如sequential_hcl, qualitative_hcl等。具体的参数和用法可以参考colorspace包的文档。&lt;/p&gt;
+&lt;h2 id=&#34;使用交互式图形用户界面&#34;&gt;使用交互式图形用户界面&lt;/h2&gt;
+&lt;p&gt;colorspace包还提供了一个交互式的图形用户界面，可以让我们在RStudio中或网页浏览器中打开，可以实时地查看和调整不同的颜色方案，并生成相应的R代码。我们可以用choose_palette函数来启动这个界面：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;choose_palette&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这个函数会打开一个新的窗口，如下图所示：&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://files.mdnice.com/user/20138/c1c392cf-7d00-4b31-a47d-e1b4085e8f1a.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;我们可以在左侧的菜单中选择不同的颜色方案类型，例如Sequential, Diverging, Qualitative等。然后，我们可以在右侧的滑动条中调整颜色方案的参数，例如色相，色度，亮度，数量等。我们还可以在下方的选项中选择是否显示颜色名称，是否反转颜色顺序，是否显示颜色条等。我们可以看到，随着我们的调整，中间的图形会实时地更新，显示当前的颜色方案。我们还可以在右下角看到生成这个颜色方案的R代码，方便我们复制和使用。&lt;/p&gt;
+&lt;p&gt;这个交互式图形用户界面是一个非常方便和有趣的工具，可以让我们快速地找到合适的颜色方案，并进行微调和优化。&lt;/p&gt;
+&lt;h2 id=&#34;对颜色进行操作和评估&#34;&gt;对颜色进行操作和评估&lt;/h2&gt;
+&lt;p&gt;colorspace包还提供了一些函数和方法，可以对颜色进行转换，混合，插值，排序，分组等操作，并评估颜色方案的可视化效果和可辨识度。例如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;我们可以用hcl函数将RGB颜色转换为HCL颜色，或者用rgb函数将HCL颜色转换为RGB颜色。&lt;/li&gt;
+&lt;li&gt;我们可以用mixcolor函数将两种或多种颜色进行混合，得到一个新的颜色。&lt;/li&gt;
+&lt;li&gt;我们可以用specplot函数将一个颜色方案在不同的颜色空间中进行可视化，比较它们的差异和特点。&lt;/li&gt;
+&lt;li&gt;我们可以用desaturate函数将一个颜色方案变得更加灰暗，或者用lighten函数将一个颜色方案变得更加明亮。&lt;/li&gt;
+&lt;li&gt;我们可以用rainbow_hcl函数生成一个类似彩虹的连续型颜色方案，或者用heat_hcl函数生成一个类似热力图的连续型颜色方案。&lt;/li&gt;
+&lt;li&gt;我们可以用emulateColorBlindness函数模拟不同类型的色盲对颜色方案的感知，评估它们的可辨识度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些函数和方法都有详细的文档和示例，可以帮助我们更好地理解和使用colorspace包。&lt;/p&gt;
+&lt;h2 id=&#34;总结&#34;&gt;总结&lt;/h2&gt;
+&lt;p&gt;colorspace包是一个非常强大和实用的R语言扩展包，它可以让我们在不同的颜色空间中进行颜色的转换，选择，操作和评估。colorspace包基于HCL（色相-色度-亮度）颜色模型，这是一种基于人类视觉感知的颜色表示方法，比RGB（红-绿-蓝）或CMYK（青-品红-黄-黑）等常见的颜色模型更加直观和灵活。colorspace包提供了多种预定义的颜色方案，包括连续型（sequential），发散型（diverging）和定性型（qualitative）三种类型，可以根据数据的特点和目的进行选择。colorspace包还提供了一个交互式的图形用户界面（GUI），可以在RStudio中或网页浏览器中打开，可以实时地查看和调整不同的颜色方案，并生成相应的R代码。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

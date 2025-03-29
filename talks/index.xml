@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🗣 Talks | Xiaotao Shen</title>
+    <link>https://jaspershen.github.io/talks/</link>
+      <atom:link href="https://jaspershen.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <description>🗣 Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jaspershen.github.io/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_300x300_fit_lanczos_3.png</url>
+      <title>🗣 Talks</title>
+      <link>https://jaspershen.github.io/talks/</link>
+    </image>
+    
+    <item>
+      <title>Nonlinear Dynamic Changes During Human Aging Revealed in Multi-omics Profiles</title>
+      <link>https://jaspershen.github.io/talks/2023-genetics-retreat/</link>
+      <pubDate>Thu, 21 Sep 2023 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talks/2023-genetics-retreat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Dynamic Changes During Human Aging Revealed in Multi-omics Profiles</title>
+      <link>https://jaspershen.github.io/talks/2023-bamm/</link>
+      <pubDate>Fri, 08 Sep 2023 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talks/2023-bamm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Omics Microsampling for The Profiling of Lifestyle-Associated Changes in Health</title>
+      <link>https://jaspershen.github.io/talks/2023-casms/</link>
+      <pubDate>Tue, 29 Aug 2023 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talks/2023-casms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Omics Microsampling for The Profiling of Lifestyle-Associated Changes in Health</title>
+      <link>https://jaspershen.github.io/talks/2023-asms/</link>
+      <pubDate>Tue, 06 Jun 2023 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talks/2023-asms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Omics Microsampling for The Profiling of Lifestyle-Associated Changes in Health</title>
+      <link>https://jaspershen.github.io/talks/2023-stanford-postdoc-syposium/</link>
+      <pubDate>Wed, 08 Feb 2023 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talks/2023-stanford-postdoc-syposium/</guid>
+      <description>&lt;p&gt;Abstract&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title>
+      <link>https://jaspershen.github.io/talks/2022-casms/</link>
+      <pubDate>Thu, 20 Oct 2022 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talks/2022-casms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title>
+      <link>https://jaspershen.github.io/talks/2022-shandong_university/</link>
+      <pubDate>Sun, 09 Oct 2022 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talks/2022-shandong_university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title>
+      <link>https://jaspershen.github.io/talks/2022-stanford-genetics-retreat/</link>
+      <pubDate>Wed, 14 Sep 2022 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talks/2022-stanford-genetics-retreat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title>
+      <link>https://jaspershen.github.io/talks/2022-bamm/</link>
+      <pubDate>Thu, 08 Sep 2022 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talks/2022-bamm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tidymass An Object-oriented Computational Framework for LC-MS Data Processing and Analysis</title>
+      <link>https://jaspershen.github.io/talks/2022-acs-fall/</link>
+      <pubDate>Mon, 22 Aug 2022 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talks/2022-acs-fall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tidymass An Object-oriented Computational Framework for LC-MS Data Processing and Analysis</title>
+      <link>https://jaspershen.github.io/talks/2022-asms/</link>
+      <pubDate>Sun, 05 Jun 2022 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talks/2022-asms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metID A R package for Automatable Compound Annotation for LC−MS-based Data</title>
+      <link>https://jaspershen.github.io/talks/2021-asms/</link>
+      <pubDate>Sun, 31 Oct 2021 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talks/2021-asms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoding links between the exposome and health outcomes by multi-omics analysis</title>
+      <link>https://jaspershen.github.io/talks/2021-exposome_data_challenge_event_xiaotao/</link>
+      <pubDate>Thu, 29 Apr 2021 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talks/2021-exposome_data_challenge_event_xiaotao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metabolic Reaction Network-based Recursive Metabolite Identification for Untargeted Metabolomics</title>
+      <link>https://jaspershen.github.io/talks/2018-metabolomics-conference/</link>
+      <pubDate>Sun, 24 Jun 2018 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talks/2018-metabolomics-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://jaspershen.github.io/talks/example/</link>
+      <pubDate>Sun, 01 Jan 2017 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talks/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Normalization and Integration of Large-Scale Mass Spectrometry-based Metabolomics Data Using Support Vector Regression</title>
+      <link>https://jaspershen.github.io/talks/2016-asms/</link>
+      <pubDate>Fri, 22 Jul 2016 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talks/2016-asms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
