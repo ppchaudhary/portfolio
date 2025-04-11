@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Xiaotao Shen</title>
+    <link>https://jaspershen.github.io/journal_referee/</link>
+      <atom:link href="https://jaspershen.github.io/journal_referee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jaspershen.github.io/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_300x300_fit_lanczos_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://jaspershen.github.io/journal_referee/</link>
+    </image>
+    
+    <item>
+      <title>Nature Biotechnology</title>
+      <link>https://jaspershen.github.io/journal_referee/nature_biotechnology/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/journal_referee/nature_biotechnology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature Communications</title>
+      <link>https://jaspershen.github.io/journal_referee/nature_communications/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/journal_referee/nature_communications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Briefing in Bioinformatics</title>
+      <link>https://jaspershen.github.io/journal_referee/bib/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/journal_referee/bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioinformatics</title>
+      <link>https://jaspershen.github.io/journal_referee/bioinformatics/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/journal_referee/bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GigaScience</title>
+      <link>https://jaspershen.github.io/journal_referee/gigascience/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/journal_referee/gigascience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communications Biology</title>
+      <link>https://jaspershen.github.io/journal_referee/communications_biology/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/journal_referee/communications_biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communications Chemistry</title>
+      <link>https://jaspershen.github.io/journal_referee/communications_chemistry/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/journal_referee/communications_chemistry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomics, Proteomics&amp;Bioinformatics</title>
+      <link>https://jaspershen.github.io/journal_referee/genomics_proteomics_bioinformatics/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/journal_referee/genomics_proteomics_bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iMeta</title>
+      <link>https://jaspershen.github.io/journal_referee/imeta/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/journal_referee/imeta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proteomics</title>
+      <link>https://jaspershen.github.io/journal_referee/proteomics/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/journal_referee/proteomics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

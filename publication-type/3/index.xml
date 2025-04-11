@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Xiaotao Shen</title>
+    <link>https://jaspershen.github.io/publication-type/3/</link>
+      <atom:link href="https://jaspershen.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaspershen.github.io/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_300x300_fit_lanczos_3.png</url>
+      <title>3</title>
+      <link>https://jaspershen.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>microbiomedataset A tidyverse-style framework for organizing and processing microbiome data</title>
+      <link>https://jaspershen.github.io/publication/microbiomedataset-a-tidyverse-style-framework-for-organizing-and-processing-microbiome-data/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/microbiomedataset-a-tidyverse-style-framework-for-organizing-and-processing-microbiome-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised Cooperative Learning for Multiomics Data Fusion</title>
+      <link>https://jaspershen.github.io/publication/semi-supervised-cooperative-learning-for-multiomics-data-fusion/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/semi-supervised-cooperative-learning-for-multiomics-data-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Urine Metabolic Profiling and Gestational Age Prediction in Pregnancy</title>
+      <link>https://jaspershen.github.io/publication/longitudinal-urine-metabolic-profiling-and-gestational-age-prediction-in-pregnancy/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/longitudinal-urine-metabolic-profiling-and-gestational-age-prediction-in-pregnancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Common and rare variant analyses combined with single-cell multiomics reveal cell-type-specific molecular mechanisms of COVID-19 severity</title>
+      <link>https://jaspershen.github.io/publication/common-and-rare-variant-analyses-combined-with-single-cell-multiomics-reveal-cell-type-specific-molecular-mechanisms-of-covid-19-severity/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/common-and-rare-variant-analyses-combined-with-single-cell-multiomics-reveal-cell-type-specific-molecular-mechanisms-of-covid-19-severity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration and comparison of multi-omics profiles of NGLY1 deficiency plasma and cellular models to identify clinically relevant molecular phenotypes</title>
+      <link>https://jaspershen.github.io/publication/integration-and-comparison-of-multi-omics-profiles-of-ngly1-deficiency-plasma-and-cellular-models-to-identify-clinically-relevant-molecular-phenotypes/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/publication/integration-and-comparison-of-multi-omics-profiles-of-ngly1-deficiency-plasma-and-cellular-models-to-identify-clinically-relevant-molecular-phenotypes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🗣 Talks | Xiaotao Shen</title>
+    <link>https://jaspershen.github.io/event/</link>
+      <atom:link href="https://jaspershen.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>🗣 Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jaspershen.github.io/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_300x300_fit_lanczos_3.png</url>
+      <title>🗣 Talks</title>
+      <link>https://jaspershen.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Omics Microsampling for The Profiling of Lifestyle-Associated Changes in Health</title>
+      <link>https://jaspershen.github.io/talk/multi-omics-microsampling-for-the-profiling-of-lifestyle-associated-changes-in-health/</link>
+      <pubDate>Tue, 06 Jun 2023 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talk/multi-omics-microsampling-for-the-profiling-of-lifestyle-associated-changes-in-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Omics Microsampling for The Profiling of Lifestyle-Associated Changes in Health</title>
+      <link>https://jaspershen.github.io/talk/multi-omics-microsampling-for-the-profiling-of-lifestyle-associated-changes-in-health/</link>
+      <pubDate>Wed, 08 Feb 2023 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talk/multi-omics-microsampling-for-the-profiling-of-lifestyle-associated-changes-in-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title>
+      <link>https://jaspershen.github.io/talk/deep-learning-based-pseudo-mass-spectrometry-imaging-analysis-for-precision-medicine/</link>
+      <pubDate>Thu, 20 Oct 2022 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talk/deep-learning-based-pseudo-mass-spectrometry-imaging-analysis-for-precision-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title>
+      <link>https://jaspershen.github.io/talk/deep-learning-based-pseudo-mass-spectrometry-imaging-analysis-for-precision-medicine/</link>
+      <pubDate>Sun, 09 Oct 2022 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talk/deep-learning-based-pseudo-mass-spectrometry-imaging-analysis-for-precision-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title>
+      <link>https://jaspershen.github.io/talk/deep-learning-based-pseudo-mass-spectrometry-imaging-analysis-for-precision-medicine/</link>
+      <pubDate>Wed, 14 Sep 2022 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talk/deep-learning-based-pseudo-mass-spectrometry-imaging-analysis-for-precision-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title>
+      <link>https://jaspershen.github.io/talk/deep-learning-based-pseudo-mass-spectrometry-imaging-analysis-for-precision-medicine/</link>
+      <pubDate>Thu, 08 Sep 2022 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talk/deep-learning-based-pseudo-mass-spectrometry-imaging-analysis-for-precision-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tidymass An Object-oriented Computational Framework for LC-MS Data Processing and Analysis</title>
+      <link>https://jaspershen.github.io/talk/tidymass-an-object-oriented-computational-framework-for-lc-ms-data-processing-and-analysis/</link>
+      <pubDate>Mon, 22 Aug 2022 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talk/tidymass-an-object-oriented-computational-framework-for-lc-ms-data-processing-and-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tidymass An Object-oriented Computational Framework for LC-MS Data Processing and Analysis</title>
+      <link>https://jaspershen.github.io/talk/tidymass-an-object-oriented-computational-framework-for-lc-ms-data-processing-and-analysis/</link>
+      <pubDate>Sun, 05 Jun 2022 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talk/tidymass-an-object-oriented-computational-framework-for-lc-ms-data-processing-and-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metID A R package for Automatable Compound Annotation for LC−MS-based Data</title>
+      <link>https://jaspershen.github.io/talk/metid-a-r-package-for-automatable-compound-annotation-for-lcms-based-data/</link>
+      <pubDate>Sun, 31 Oct 2021 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talk/metid-a-r-package-for-automatable-compound-annotation-for-lcms-based-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoding links between the exposome and health outcomes by multi-omics analysis</title>
+      <link>https://jaspershen.github.io/talk/decoding-links-between-the-exposome-and-health-outcomes-by-multi-omics-analysis/</link>
+      <pubDate>Thu, 29 Apr 2021 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talk/decoding-links-between-the-exposome-and-health-outcomes-by-multi-omics-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metabolic Reaction Network-based Recursive Metabolite Identification for Untargeted Metabolomics</title>
+      <link>https://jaspershen.github.io/talk/metabolic-reaction-network-based-recursive-metabolite-identification-for-untargeted-metabolomics/</link>
+      <pubDate>Sun, 24 Jun 2018 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talk/metabolic-reaction-network-based-recursive-metabolite-identification-for-untargeted-metabolomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Normalization and Integration of Large-Scale Mass Spectrometry-based Metabolomics Data Using Support Vector Regression</title>
+      <link>https://jaspershen.github.io/talk/normalization-and-integration-of-large-scale-mass-spectrometry-based-metabolomics-data-using-support-vector-regression/</link>
+      <pubDate>Fri, 22 Jul 2016 13:00:00 +0000</pubDate>
+      <guid>https://jaspershen.github.io/talk/normalization-and-integration-of-large-scale-mass-spectrometry-based-metabolomics-data-using-support-vector-regression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
