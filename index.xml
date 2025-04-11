@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xiaotao Shen</title>
-    <link>https://jaspershen.github.io/</link>
-      <atom:link href="https://jaspershen.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Xiaotao Shen</description>
+    <title>Prem Prashant Chaudhary</title>
+    <link>https://ppchaudhary.github.io/portfolio/</link>
+      <atom:link href="https://ppchaudhary.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prem Prashant Chaudhary</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jaspershen.github.io/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_300x300_fit_lanczos_3.png</url>
-      <title>Xiaotao Shen</title>
-      <link>https://jaspershen.github.io/</link>
+      <url>https://ppchaudhary.github.io/portfolio/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_300x300_fit_lanczos_3.png</url>
+      <title>Prem Prashant Chaudhary</title>
+      <link>https://ppchaudhary.github.io/portfolio/</link>
     </image>
     
     <item>
       <title>Generalized reporter score-based enrichment analysis for omics data</title>
-      <link>https://jaspershen.github.io/publication/generalized-reporter-score-based-enrichment-analysis-for-omics-data/</link>
+      <link>https://ppchaudhary.github.io/portfolio/publication/generalized-reporter-score-based-enrichment-analysis-for-omics-data/</link>
       <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaspershen.github.io/publication/generalized-reporter-score-based-enrichment-analysis-for-omics-data/</guid>
+      <guid>https://ppchaudhary.github.io/portfolio/publication/generalized-reporter-score-based-enrichment-analysis-for-omics-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Longitudinal profiling of the microbiome at four body sites reveals core stability and individualized dynamics during health and disease</title>
-      <link>https://jaspershen.github.io/publication/longitudinal-profiling-of-the-microbiome-at-four-body-sites-reveals-core-stability-and-individualized-dynamics-during-health-and-disease/</link>
+      <link>https://ppchaudhary.github.io/portfolio/publication/longitudinal-profiling-of-the-microbiome-at-four-body-sites-reveals-core-stability-and-individualized-dynamics-during-health-and-disease/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaspershen.github.io/publication/longitudinal-profiling-of-the-microbiome-at-four-body-sites-reveals-core-stability-and-individualized-dynamics-during-health-and-disease/</guid>
+      <guid>https://ppchaudhary.github.io/portfolio/publication/longitudinal-profiling-of-the-microbiome-at-four-body-sites-reveals-core-stability-and-individualized-dynamics-during-health-and-disease/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nonlinear Dynamic Changes During Human Aging Revealed in Multi-omics Profiles</title>
-      <link>https://jaspershen.github.io/talks/2023-genetics-retreat/</link>
+      <link>https://ppchaudhary.github.io/portfolio/talks/2023-genetics-retreat/</link>
       <pubDate>Thu, 21 Sep 2023 13:00:00 +0000</pubDate>
-      <guid>https://jaspershen.github.io/talks/2023-genetics-retreat/</guid>
+      <guid>https://ppchaudhary.github.io/portfolio/talks/2023-genetics-retreat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>microbiomedataset A tidyverse-style framework for organizing and processing microbiome data</title>
-      <link>https://jaspershen.github.io/publication/microbiomedataset-a-tidyverse-style-framework-for-organizing-and-processing-microbiome-data/</link>
+      <link>https://ppchaudhary.github.io/portfolio/publication/microbiomedataset-a-tidyverse-style-framework-for-organizing-and-processing-microbiome-data/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaspershen.github.io/publication/microbiomedataset-a-tidyverse-style-framework-for-organizing-and-processing-microbiome-data/</guid>
+      <guid>https://ppchaudhary.github.io/portfolio/publication/microbiomedataset-a-tidyverse-style-framework-for-organizing-and-processing-microbiome-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>脂质组学研究揭示健康、疾病和衰老过程中的动态变化</title>
-      <link>https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/</link>
+      <link>https://ppchaudhary.github.io/portfolio/post/2023-09-14-ipop-lipidomics/</link>
       <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/</guid>
+      <guid>https://ppchaudhary.github.io/portfolio/post/2023-09-14-ipop-lipidomics/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;分享一篇文章。是最近刚发表的.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -75,7 +75,7 @@
                /post/2023-09-14-ipop-lipidomics/figure1_hu3b82dfaed5e9027a578a9a59c63878fa_239257_bba253659668a91875c4d4545e595cd2.webp 400w,
                /post/2023-09-14-ipop-lipidomics/figure1_hu3b82dfaed5e9027a578a9a59c63878fa_239257_c17933719d66407fd8b17328eea9b8b3.webp 760w,
                /post/2023-09-14-ipop-lipidomics/figure1_hu3b82dfaed5e9027a578a9a59c63878fa_239257_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure1_hu3b82dfaed5e9027a578a9a59c63878fa_239257_bba253659668a91875c4d4545e595cd2.webp&#34;
+               src=&#34;https://ppchaudhary.github.io/portfolio/post/2023-09-14-ipop-lipidomics/figure1_hu3b82dfaed5e9027a578a9a59c63878fa_239257_bba253659668a91875c4d4545e595cd2.webp&#34;
                width=&#34;760&#34;
                height=&#34;371&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -116,7 +116,7 @@
                /post/2023-09-14-ipop-lipidomics/figure2_hue763d5679199599d941852c31e3908ff_571170_77206ee71f3aa2384103008e4490a8f5.webp 400w,
                /post/2023-09-14-ipop-lipidomics/figure2_hue763d5679199599d941852c31e3908ff_571170_e2b18a7a4d4e232e4519eaceac0f4042.webp 760w,
                /post/2023-09-14-ipop-lipidomics/figure2_hue763d5679199599d941852c31e3908ff_571170_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure2_hue763d5679199599d941852c31e3908ff_571170_77206ee71f3aa2384103008e4490a8f5.webp&#34;
+               src=&#34;https://ppchaudhary.github.io/portfolio/post/2023-09-14-ipop-lipidomics/figure2_hue763d5679199599d941852c31e3908ff_571170_77206ee71f3aa2384103008e4490a8f5.webp&#34;
                width=&#34;760&#34;
                height=&#34;666&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -148,7 +148,7 @@
                /post/2023-09-14-ipop-lipidomics/figure3_hud1f8f7c4ff6a2f833d159b804e4ce870_457729_5a580db79f79a3302a026f58638f26cb.webp 400w,
                /post/2023-09-14-ipop-lipidomics/figure3_hud1f8f7c4ff6a2f833d159b804e4ce870_457729_3d77d04ec96ae68e22ad4f94967bb6d7.webp 760w,
                /post/2023-09-14-ipop-lipidomics/figure3_hud1f8f7c4ff6a2f833d159b804e4ce870_457729_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure3_hud1f8f7c4ff6a2f833d159b804e4ce870_457729_5a580db79f79a3302a026f58638f26cb.webp&#34;
+               src=&#34;https://ppchaudhary.github.io/portfolio/post/2023-09-14-ipop-lipidomics/figure3_hud1f8f7c4ff6a2f833d159b804e4ce870_457729_5a580db79f79a3302a026f58638f26cb.webp&#34;
                width=&#34;760&#34;
                height=&#34;410&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -180,7 +180,7 @@
                /post/2023-09-14-ipop-lipidomics/figure4_hu7b2e93df270c941af5b5ec72ce4177a1_571427_f04101e296707f04101bfd4f947ead2c.webp 400w,
                /post/2023-09-14-ipop-lipidomics/figure4_hu7b2e93df270c941af5b5ec72ce4177a1_571427_dd1aca0f01b3ca96271f5ebfc43dfddd.webp 760w,
                /post/2023-09-14-ipop-lipidomics/figure4_hu7b2e93df270c941af5b5ec72ce4177a1_571427_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure4_hu7b2e93df270c941af5b5ec72ce4177a1_571427_f04101e296707f04101bfd4f947ead2c.webp&#34;
+               src=&#34;https://ppchaudhary.github.io/portfolio/post/2023-09-14-ipop-lipidomics/figure4_hu7b2e93df270c941af5b5ec72ce4177a1_571427_f04101e296707f04101bfd4f947ead2c.webp&#34;
                width=&#34;760&#34;
                height=&#34;567&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -212,7 +212,7 @@
                /post/2023-09-14-ipop-lipidomics/figure5_hu3f57a6fd211c79e4847fc13ac027ff53_550519_c81bfb43ac121e025649e5cb9fa56782.webp 400w,
                /post/2023-09-14-ipop-lipidomics/figure5_hu3f57a6fd211c79e4847fc13ac027ff53_550519_fbd77ac1279a0a373585f45c123cd358.webp 760w,
                /post/2023-09-14-ipop-lipidomics/figure5_hu3f57a6fd211c79e4847fc13ac027ff53_550519_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure5_hu3f57a6fd211c79e4847fc13ac027ff53_550519_c81bfb43ac121e025649e5cb9fa56782.webp&#34;
+               src=&#34;https://ppchaudhary.github.io/portfolio/post/2023-09-14-ipop-lipidomics/figure5_hu3f57a6fd211c79e4847fc13ac027ff53_550519_c81bfb43ac121e025649e5cb9fa56782.webp&#34;
                width=&#34;760&#34;
                height=&#34;432&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -243,7 +243,7 @@
                /post/2023-09-14-ipop-lipidomics/figure6_hud0c5bc4d6e20b79a7811fc1c6c07e965_399012_0241fa35e216b5de480d33f1b94edbba.webp 400w,
                /post/2023-09-14-ipop-lipidomics/figure6_hud0c5bc4d6e20b79a7811fc1c6c07e965_399012_53dd144f019edc3c0cb226afb4618b06.webp 760w,
                /post/2023-09-14-ipop-lipidomics/figure6_hud0c5bc4d6e20b79a7811fc1c6c07e965_399012_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure6_hud0c5bc4d6e20b79a7811fc1c6c07e965_399012_0241fa35e216b5de480d33f1b94edbba.webp&#34;
+               src=&#34;https://ppchaudhary.github.io/portfolio/post/2023-09-14-ipop-lipidomics/figure6_hud0c5bc4d6e20b79a7811fc1c6c07e965_399012_0241fa35e216b5de480d33f1b94edbba.webp&#34;
                width=&#34;760&#34;
                height=&#34;527&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -274,7 +274,7 @@
                /post/2023-09-14-ipop-lipidomics/figure7_huebb2c299e604dc0d1944a046ecab99d3_754743_d1387788eb544eb062c8fe4535fcfc71.webp 400w,
                /post/2023-09-14-ipop-lipidomics/figure7_huebb2c299e604dc0d1944a046ecab99d3_754743_f16cfd67eaa97da019729e939cb98779.webp 760w,
                /post/2023-09-14-ipop-lipidomics/figure7_huebb2c299e604dc0d1944a046ecab99d3_754743_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://jaspershen.github.io/post/2023-09-14-ipop-lipidomics/figure7_huebb2c299e604dc0d1944a046ecab99d3_754743_d1387788eb544eb062c8fe4535fcfc71.webp&#34;
+               src=&#34;https://ppchaudhary.github.io/portfolio/post/2023-09-14-ipop-lipidomics/figure7_huebb2c299e604dc0d1944a046ecab99d3_754743_d1387788eb544eb062c8fe4535fcfc71.webp&#34;
                width=&#34;760&#34;
                height=&#34;653&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -298,25 +298,25 @@
     
     <item>
       <title>Nonlinear Dynamic Changes During Human Aging Revealed in Multi-omics Profiles</title>
-      <link>https://jaspershen.github.io/talks/2023-bamm/</link>
+      <link>https://ppchaudhary.github.io/portfolio/talks/2023-bamm/</link>
       <pubDate>Fri, 08 Sep 2023 13:00:00 +0000</pubDate>
-      <guid>https://jaspershen.github.io/talks/2023-bamm/</guid>
+      <guid>https://ppchaudhary.github.io/portfolio/talks/2023-bamm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2023-09-08 Xiaotao Shen presented on 2023 BAMM.</title>
-      <link>https://jaspershen.github.io/news/2023-bamm/</link>
+      <link>https://ppchaudhary.github.io/portfolio/news/2023-bamm/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaspershen.github.io/news/2023-bamm/</guid>
+      <guid>https://ppchaudhary.github.io/portfolio/news/2023-bamm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tidytof:一种可扩展和可重现的高维细胞数据分析的整洁框架</title>
-      <link>https://jaspershen.github.io/post/2023-07-19-tidytof/</link>
+      <link>https://ppchaudhary.github.io/portfolio/post/2023-07-19-tidytof/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaspershen.github.io/post/2023-07-19-tidytof/</guid>
+      <guid>https://ppchaudhary.github.io/portfolio/post/2023-07-19-tidytof/</guid>
       <description>&lt;p&gt;依赖于tidyverse风格的组学数据处理软件越来越多了！期待我们的tidymicrobiome！&lt;/p&gt;
 &lt;h1 id=&#34;tidytof一种可扩展和可重现的高维细胞数据分析的整洁框架&#34;&gt;tidytof:一种可扩展和可重现的高维细胞数据分析的整洁框架&lt;/h1&gt;
 &lt;h2 id=&#34;摘要&#34;&gt;摘要&lt;/h2&gt;
@@ -352,7 +352,7 @@
                /post/2023-07-19-tidytof/figure1_hu5fa3503ad3c9b05c11792d4f5c037e45_1096349_10a03f3859e1f40efb3b5e244c561d44.webp 400w,
                /post/2023-07-19-tidytof/figure1_hu5fa3503ad3c9b05c11792d4f5c037e45_1096349_15492aa1870bb735ddc31c387311aff5.webp 760w,
                /post/2023-07-19-tidytof/figure1_hu5fa3503ad3c9b05c11792d4f5c037e45_1096349_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://jaspershen.github.io/post/2023-07-19-tidytof/figure1_hu5fa3503ad3c9b05c11792d4f5c037e45_1096349_10a03f3859e1f40efb3b5e244c561d44.webp&#34;
+               src=&#34;https://ppchaudhary.github.io/portfolio/post/2023-07-19-tidytof/figure1_hu5fa3503ad3c9b05c11792d4f5c037e45_1096349_10a03f3859e1f40efb3b5e244c561d44.webp&#34;
                width=&#34;629&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -367,17 +367,17 @@
     
     <item>
       <title>2023-9-1 Xiaotao Shen presented the nonlinear aging work on 2023 Stanford University Biox Symposium.</title>
-      <link>https://jaspershen.github.io/news/2023-stanford-biox/</link>
+      <link>https://ppchaudhary.github.io/portfolio/news/2023-stanford-biox/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaspershen.github.io/news/2023-stanford-biox/</guid>
+      <guid>https://ppchaudhary.github.io/portfolio/news/2023-stanford-biox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Omics Microsampling for The Profiling of Lifestyle-Associated Changes in Health</title>
-      <link>https://jaspershen.github.io/talks/2023-casms/</link>
+      <link>https://ppchaudhary.github.io/portfolio/talks/2023-casms/</link>
       <pubDate>Tue, 29 Aug 2023 13:00:00 +0000</pubDate>
-      <guid>https://jaspershen.github.io/talks/2023-casms/</guid>
+      <guid>https://ppchaudhary.github.io/portfolio/talks/2023-casms/</guid>
       <description></description>
     </item>
     
