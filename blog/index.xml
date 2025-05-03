@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Xiaotao Shen</title>
-    <link>https://jaspershen.github.io/blog/</link>
-      <atom:link href="https://jaspershen.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ppchaudhary.github.io/portfolio/blog/</link>
+      <atom:link href="https://ppchaudhary.github.io/portfolio/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://jaspershen.github.io/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_300x300_fit_lanczos_3.png</url>
+      <url>https://ppchaudhary.github.io/portfolio/media/logo_hua82804f08c421dd09439d93e6d351d6c_109030_300x300_fit_lanczos_3.png</url>
       <title>Posts</title>
-      <link>https://jaspershen.github.io/blog/</link>
+      <link>https://ppchaudhary.github.io/portfolio/blog/</link>
     </image>
     
     <item>
       <title>如何使用colorspace包选择合适的颜色方案</title>
-      <link>https://jaspershen.github.io/blog/2023-07-19-colorspace/</link>
+      <link>https://ppchaudhary.github.io/portfolio/blog/2023-07-19-colorspace/</link>
       <pubDate>Wed, 19 Jul 2023 21:13:14 -0500</pubDate>
-      <guid>https://jaspershen.github.io/blog/2023-07-19-colorspace/</guid>
+      <guid>https://ppchaudhary.github.io/portfolio/blog/2023-07-19-colorspace/</guid>
       <description>&lt;p&gt;颜色是数据可视化中非常重要的一个元素，它可以传达信息，引起注意，增强美感，甚至影响情绪。但是，如何选择合适的颜色方案呢？有没有一种科学的方法，可以帮助我们在众多的颜色中找到最佳的组合呢？&lt;/p&gt;
 &lt;p&gt;答案是有的，那就是colorspace包。colorspace包是一个R语言的扩展包，它提供了一系列的函数和工具，可以让我们在不同的颜色空间中进行颜色的转换，选择，操作和评估。colorspace包基于HCL（色相-色度-亮度）颜色模型，这是一种基于人类视觉感知的颜色表示方法，比RGB（红-绿-蓝）或CMYK（青-品红-黄-黑）等常见的颜色模型更加直观和灵活。&lt;/p&gt;
 &lt;p&gt;colorspace包的主要功能有：&lt;/p&gt;
@@ -66,7 +66,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## [1] &amp;#34;#1FA4FF&amp;#34; &amp;#34;#97BFF3&amp;#34; &amp;#34;#CAD6E9&amp;#34; &amp;#34;#E2E2E2&amp;#34; &amp;#34;#E7D1C5&amp;#34; &amp;#34;#E9B18B&amp;#34; &amp;#34;#E28912&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这个函数会返回一个长度为7的向量，每个元素是一个十六进制的颜色代码。我们可以用plot函数来查看这个颜色方案：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;scales&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;show_col&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;diverge_hcl&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;7&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;h&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;246&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;40&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;c&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;96&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;l&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;65&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;90&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)))&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;img src=&#34;https://jaspershen.github.io/blog/2023-07-19-colorspace/index.en_files/figure-html/unnamed-chunk-5-1.png&#34; width=&#34;672&#34; /&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;img src=&#34;https://ppchaudhary.github.io/portfolio/blog/2023-07-19-colorspace/index.en_files/figure-html/unnamed-chunk-5-1.png&#34; width=&#34;672&#34; /&gt;
 &lt;p&gt;我们可以看到，这个颜色方案是由蓝色和红色组成的，中间有一个白色。这种类型的颜色方案适合用来表示数据中存在两个极端或对立的情况。&lt;/p&gt;
 &lt;p&gt;类似地，我们可以用其他函数来创建不同类型的颜色方案，例如sequential_hcl, qualitative_hcl等。具体的参数和用法可以参考colorspace包的文档。&lt;/p&gt;
 &lt;h2 id=&#34;使用交互式图形用户界面&#34;&gt;使用交互式图形用户界面&lt;/h2&gt;
@@ -114,9 +114,9 @@
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://jaspershen.github.io/blog/getting-started/</link>
+      <link>https://ppchaudhary.github.io/portfolio/blog/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://jaspershen.github.io/blog/getting-started/</guid>
+      <guid>https://ppchaudhary.github.io/portfolio/blog/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -194,9 +194,9 @@
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://jaspershen.github.io/blog/writing-technical-content/</link>
+      <link>https://ppchaudhary.github.io/portfolio/blog/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jaspershen.github.io/blog/writing-technical-content/</guid>
+      <guid>https://ppchaudhary.github.io/portfolio/blog/writing-technical-content/</guid>
       <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -588,9 +588,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://jaspershen.github.io/blog/jupyter/</link>
+      <link>https://ppchaudhary.github.io/portfolio/blog/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://jaspershen.github.io/blog/jupyter/</guid>
+      <guid>https://ppchaudhary.github.io/portfolio/blog/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
