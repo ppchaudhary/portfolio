@@ -774,7 +774,156 @@
 
 
   
-
+  <html lang="en">
+    <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <title>Research Projects</title>
+      <style>
+        body {
+          font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+          margin: 0;
+          padding: 0;
+          background-color: #f4f4f9;
+          color: #333;
+        }
+    
+        header {
+          background: url('A_Studio_Ghibli-inspired_2D_digital_illustration_d.png') center/cover no-repeat;
+          color: white;
+          padding: 80px 20px;
+          text-align: center;
+          position: relative;
+        }
+    
+        header::after {
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 0;
+          height: 100%;
+          width: 100%;
+          background-color: rgba(0, 0, 0, 0.5); /* Dark overlay for text visibility */
+          z-index: 0;
+        }
+    
+        header h1 {
+          margin: 0;
+          font-size: 3em;
+          position: relative;
+          z-index: 1;
+        }
+    
+        .container {
+          max-width: 1200px;
+          margin: 40px auto;
+          padding: 0 20px;
+        }
+    
+        .project {
+          display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+          margin-bottom: 50px;
+          background-color: #ffffff;
+          border-radius: 12px;
+          box-shadow: 0 0 12px rgba(0, 0, 0, 0.06);
+          overflow: hidden;
+        }
+    
+        .project:nth-child(even) {
+          flex-direction: row-reverse;
+        }
+    
+        .project img {
+          width: 100%;
+          max-width: 500px;
+          height: auto;
+          object-fit: cover;
+          flex: 1 1 50%;
+        }
+    
+        .project-content {
+          flex: 1 1 50%;
+          padding: 30px;
+        }
+    
+        .project h2 {
+          margin-top: 0;
+          color: #2c3e50;
+          font-size: 1.5em;
+        }
+    
+        .project p {
+          line-height: 1.6;
+          margin-top: 10px;
+        }
+    
+        @media (max-width: 768px) {
+          .project {
+            flex-direction: column;
+          }
+          .project:nth-child(even) {
+            flex-direction: column;
+          }
+          .project img {
+            max-width: 100%;
+          }
+        }
+      </style>
+    </head>
+    <body>
+    
+    <header>
+      <h1>Research Projects</h1>
+    </header>
+    
+    <div class="container">
+    
+      <div class="project">
+        <img src="A_Studio_Ghibli-inspired_2D_digital_illustration_d.png" alt="Human Microbiome Study" />
+        <div class="project-content">
+          <h2>1. Complex Dynamics of the Human Microbiome</h2>
+          <p>
+            Exploring the human microbiome's role in health and disease, especially skin and oral microbiomes, with emphasis on atopic dermatitis (AD). This project analyzes how environmental toxins and lifestyle exposures like e-cigarette smoking affect microbial balance and immune modulation.
+          </p>
+        </div>
+      </div>
+    
+      <div class="project">
+        <img src="A_Studio_Ghibli-inspired_2D_digital_illustration_d.png" alt="Microbial Metabolites" />
+        <div class="project-content">
+          <h2>2. Metabolomic Insights and Microbial Health Benefits</h2>
+          <p>
+            Investigating microbial metabolites in regulating inflammation and epithelial integrity. This includes examining pollutant-induced shifts in metabolite production and identifying metabolic markers linked to environmental exposure and chronic skin conditions.
+          </p>
+        </div>
+      </div>
+    
+      <div class="project">
+        <img src="A_Studio_Ghibli-inspired_2D_digital_illustration_d.png" alt="Data Integration" />
+        <div class="project-content">
+          <h2>3. Multi-Omics and Computational Integration</h2>
+          <p>
+            Developing pipelines to integrate metagenomics, transcriptomics, and metabolomics. This project uses AI and GPU-accelerated platforms to uncover microbe-metabolite-disease relationships, enabling predictive modeling for early detection and personalized medicine.
+          </p>
+        </div>
+      </div>
+    
+      <div class="project">
+        <img src="A_Studio_Ghibli-inspired_2D_digital_illustration_d.png" alt="Precision Medicine" />
+        <div class="project-content">
+          <h2>4. Microbial Ecology Meets Precision Medicine</h2>
+          <p>
+            Bridging microbial ecology with data-driven health strategies to develop diagnostic and therapeutic tools. This involves discovering biomarkers for disease and pollutant exposure while crafting interventions to restore microbial and metabolic balance.
+          </p>
+        </div>
+      </div>
+    
+    </div>
+    
+    </body>
+    </html>
 
 
 
